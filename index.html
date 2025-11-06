@@ -875,7 +875,15 @@
         });
         geocoder = new google.maps.Geocoder();
         directionsService = new google.maps.DirectionsService();
-        directionsRenderer = new google.maps.DirectionsRenderer({ map });
+        directionsRenderer = new google.maps.DirectionsRenderer({ 
+          map,
+          suppressMarkers: false,
+          polylineOptions: {
+            strokeColor: '#2c5aa0',
+            strokeOpacity: 0.8,
+            strokeWeight: 6
+          }
+        });
       };
 
       async function loadBusData() {
@@ -1035,16 +1043,78 @@
         }, 5000);
       }
 
-      async function showRouteOnMap(from,to){
-        geocoder.geocode({address:from+", Kolkata"},(fr,fs)=>{
-          if(fs!=="OK")return;
-          geocoder.geocode({address:to+", Kolkata"},(tr,ts)=>{
-            if(ts!=="OK")return;
-            directionsService.route({origin:fr[0].geometry.location,destination:tr[0].geometry.location,travelMode:"DRIVING"},(res,stat)=>{
-              if(stat==="OK")directionsRenderer.setDirections(res);
+      // FIXED: Improved route calculation function
+      async function showRouteOnMap(from, to) {
+        const loading = document.getElementById("loading");
+        loading.style.display = "flex";
+        
+        try {
+          // Use Places API for more accurate location finding
+          const fromRequest = {
+            query: from + ", Kolkata, India"
+          };
+          
+          const toRequest = {
+            query: to + ", Kolkata, India"
+          };
+          
+          const fromPlaceService = new google.maps.places.PlacesService(map);
+          const toPlaceService = new google.maps.places.PlacesService(map);
+          
+          // Find places using text search for better accuracy
+          const fromPromise = new Promise((resolve, reject) => {
+            fromPlaceService.textSearch(fromRequest, (results, status) => {
+              if (status === google.maps.places.PlacesServiceStatus.OK && results[0]) {
+                resolve(results[0]);
+              } else {
+                reject("Could not find location: " + from);
+              }
             });
           });
-        });
+          
+          const toPromise = new Promise((resolve, reject) => {
+            toPlaceService.textSearch(toRequest, (results, status) => {
+              if (status === google.maps.places.PlacesServiceStatus.OK && results[0]) {
+                resolve(results[0]);
+              } else {
+                reject("Could not find location: " + to);
+              }
+            });
+          });
+          
+          const [fromPlace, toPlace] = await Promise.all([fromPromise, toPromise]);
+          
+          // Calculate route with optimized options
+          directionsService.route({
+            origin: fromPlace.geometry.location,
+            destination: toPlace.geometry.location,
+            travelMode: google.maps.TravelMode.DRIVING,
+            optimizeWaypoints: true,
+            provideRouteAlternatives: false
+          }, (result, status) => {
+            loading.style.display = "none";
+            if (status === google.maps.DirectionsStatus.OK) {
+              directionsRenderer.setDirections(result);
+              
+              // Adjust map bounds to show the entire route
+              const bounds = new google.maps.LatLngBounds();
+              const route = result.routes[0];
+              for (let i = 0; i < route.legs.length; i++) {
+                const leg = route.legs[i];
+                bounds.extend(leg.start_location);
+                bounds.extend(leg.end_location);
+              }
+              map.fitBounds(bounds);
+            } else {
+              console.error("Directions request failed: " + status);
+              showNotification("Could not calculate route. Please try different locations.");
+            }
+          });
+        } catch (error) {
+          loading.style.display = "none";
+          console.error("Error showing route:", error);
+          showNotification("Error finding route: " + error);
+        }
       }
 
       // Event Listeners
@@ -1108,7 +1178,7 @@
 
       // Load Google Maps
       const s=document.createElement("script");
-      s.src=`https://maps.googleapis.com/maps/api/js?key=AIzaSyA0tqewtVtHePHybBaUzxaBZsJMcaQy2Sg&callback=initMap`;
+      s.src=`https://maps.googleapis.com/maps/api/js?key=AIzaSyA0tqewtVtHePHybBaUzxaBZsJMcaQy2Sg&libraries=places&callback=initMap`;
       s.defer=true;document.head.appendChild(s);
     </script>
   </body>
