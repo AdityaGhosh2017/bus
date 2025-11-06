@@ -1,0 +1,8626 @@
+[
+  {
+    "bus_no": "1",
+    "route_no": "1",
+    "origin": "Ramnagar",
+    "destination": "Palbazar",
+    "distance_km": 24.5,
+    "avg_time_min": 58
+  },
+  {
+    "bus_no": "1",
+    "route_no": "1",
+    "origin": "Palbazar",
+    "destination": "Ramnagar",
+    "distance_km": 24.5,
+    "avg_time_min": 58
+  },
+  {
+    "bus_no": "1A",
+    "route_no": "1A",
+    "origin": "Ramnagar",
+    "destination": "Mukundapur",
+    "distance_km": 23.8,
+    "avg_time_min": 57
+  },
+  {
+    "bus_no": "1A",
+    "route_no": "1A",
+    "origin": "Mukundapur",
+    "destination": "Ramnagar",
+    "distance_km": 23.8,
+    "avg_time_min": 57
+  },
+  {
+    "bus_no": "1B",
+    "route_no": "1B",
+    "origin": "Ramnagar",
+    "destination": "Nayabad (Garia)",
+    "distance_km": 7.9,
+    "avg_time_min": 18
+  },
+  {
+    "bus_no": "1B",
+    "route_no": "1B",
+    "origin": "Nayabad (Garia)",
+    "destination": "Ramnagar",
+    "distance_km": 7.9,
+    "avg_time_min": 18
+  },
+  {
+    "bus_no": "3",
+    "route_no": "3",
+    "origin": "Serampore",
+    "destination": "Bagbazar",
+    "distance_km": 9.6,
+    "avg_time_min": 23
+  },
+  {
+    "bus_no": "3",
+    "route_no": "3",
+    "origin": "Bagbazar",
+    "destination": "Serampore",
+    "distance_km": 9.6,
+    "avg_time_min": 23
+  },
+  {
+    "bus_no": "3",
+    "route_no": "3",
+    "origin": "Serampore",
+    "destination": "Salt Lake Technopolis",
+    "distance_km": 31.1,
+    "avg_time_min": 74
+  },
+  {
+    "bus_no": "3",
+    "route_no": "3",
+    "origin": "Salt Lake Technopolis",
+    "destination": "Serampore",
+    "distance_km": 31.1,
+    "avg_time_min": 74
+  },
+  {
+    "bus_no": "3B",
+    "route_no": "3B",
+    "origin": "Milk Colony",
+    "destination": "New Alipore",
+    "distance_km": 14.9,
+    "avg_time_min": 35
+  },
+  {
+    "bus_no": "3B",
+    "route_no": "3B",
+    "origin": "New Alipore",
+    "destination": "Milk Colony",
+    "distance_km": 14.9,
+    "avg_time_min": 35
+  },
+  {
+    "bus_no": "3C/1",
+    "route_no": "3C/1",
+    "origin": "Nagerbazar",
+    "destination": "Anandapur",
+    "distance_km": 8.2,
+    "avg_time_min": 19
+  },
+  {
+    "bus_no": "3C/1",
+    "route_no": "3C/1",
+    "origin": "Anandapur",
+    "destination": "Nagerbazar",
+    "distance_km": 8.2,
+    "avg_time_min": 19
+  },
+  {
+    "bus_no": "3C/2",
+    "route_no": "3C/2",
+    "origin": "Nagerbazar",
+    "destination": "Anandapur",
+    "distance_km": 17.5,
+    "avg_time_min": 42
+  },
+  {
+    "bus_no": "3C/2",
+    "route_no": "3C/2",
+    "origin": "Anandapur",
+    "destination": "Nagerbazar",
+    "distance_km": 17.5,
+    "avg_time_min": 42
+  },
+  {
+    "bus_no": "3D",
+    "route_no": "3D",
+    "origin": "Milk Colony",
+    "destination": "Sakher Bazar (via Khidirpur)",
+    "distance_km": 11.4,
+    "avg_time_min": 27
+  },
+  {
+    "bus_no": "3D",
+    "route_no": "3D",
+    "origin": "Sakher Bazar (via Khidirpur)",
+    "destination": "Milk Colony",
+    "distance_km": 11.4,
+    "avg_time_min": 27
+  },
+  {
+    "bus_no": "3D/1",
+    "route_no": "3D/1",
+    "origin": "Milk Colony",
+    "destination": "Sakher Bazar (via Alipur)",
+    "distance_km": 30.0,
+    "avg_time_min": 72
+  },
+  {
+    "bus_no": "3D/1",
+    "route_no": "3D/1",
+    "origin": "Sakher Bazar (via Alipur)",
+    "destination": "Milk Colony",
+    "distance_km": 30.0,
+    "avg_time_min": 72
+  },
+  {
+    "bus_no": "12",
+    "route_no": "12",
+    "origin": "Rajabagan",
+    "destination": "Rajabazar",
+    "distance_km": 36.2,
+    "avg_time_min": 86
+  },
+  {
+    "bus_no": "12",
+    "route_no": "12",
+    "origin": "Rajabazar",
+    "destination": "Rajabagan",
+    "distance_km": 36.2,
+    "avg_time_min": 86
+  },
+  {
+    "bus_no": "12",
+    "route_no": "12",
+    "origin": "Badartala",
+    "destination": "Esplanade",
+    "distance_km": 35.3,
+    "avg_time_min": 84
+  },
+  {
+    "bus_no": "12",
+    "route_no": "12",
+    "origin": "Esplanade",
+    "destination": "Badartala",
+    "distance_km": 35.3,
+    "avg_time_min": 84
+  },
+  {
+    "bus_no": "12A",
+    "route_no": "12A",
+    "origin": "Rajabagan",
+    "destination": "Howrah Station",
+    "distance_km": 5.5,
+    "avg_time_min": 13
+  },
+  {
+    "bus_no": "12A",
+    "route_no": "12A",
+    "origin": "Howrah Station",
+    "destination": "Rajabagan",
+    "distance_km": 5.5,
+    "avg_time_min": 13
+  },
+  {
+    "bus_no": "12B",
+    "route_no": "12B",
+    "origin": "Kamal Talkies",
+    "destination": "Esplanade",
+    "distance_km": 17.9,
+    "avg_time_min": 42
+  },
+  {
+    "bus_no": "12B",
+    "route_no": "12B",
+    "origin": "Esplanade",
+    "destination": "Kamal Talkies",
+    "distance_km": 17.9,
+    "avg_time_min": 42
+  },
+  {
+    "bus_no": "12/1",
+    "route_no": "12/1",
+    "origin": "Fatepur 28 No",
+    "destination": "Sealdah",
+    "distance_km": 17.3,
+    "avg_time_min": 41
+  },
+  {
+    "bus_no": "12/1",
+    "route_no": "12/1",
+    "origin": "Sealdah",
+    "destination": "Fatepur 28 No",
+    "distance_km": 17.3,
+    "avg_time_min": 41
+  },
+  {
+    "bus_no": "12C",
+    "route_no": "12C",
+    "origin": "Pailan",
+    "destination": "Howrah Station",
+    "distance_km": 11.0,
+    "avg_time_min": 26
+  },
+  {
+    "bus_no": "12C",
+    "route_no": "12C",
+    "origin": "Howrah Station",
+    "destination": "Pailan",
+    "distance_km": 11.0,
+    "avg_time_min": 26
+  },
+  {
+    "bus_no": "12C/1",
+    "route_no": "12C/1",
+    "origin": "Shibrampur",
+    "destination": "Howrah Station",
+    "distance_km": 12.4,
+    "avg_time_min": 29
+  },
+  {
+    "bus_no": "12C/1",
+    "route_no": "12C/1",
+    "origin": "Howrah Station",
+    "destination": "Shibrampur",
+    "distance_km": 12.4,
+    "avg_time_min": 29
+  },
+  {
+    "bus_no": "12C/1A",
+    "route_no": "12C/1A",
+    "origin": "Konchowki",
+    "destination": "Howrah Station",
+    "distance_km": 31.8,
+    "avg_time_min": 76
+  },
+  {
+    "bus_no": "12C/1A",
+    "route_no": "12C/1A",
+    "origin": "Howrah Station",
+    "destination": "Konchowki",
+    "distance_km": 31.8,
+    "avg_time_min": 76
+  },
+  {
+    "bus_no": "12C/2",
+    "route_no": "12C/2",
+    "origin": "Thakdari",
+    "destination": "Howrah Station",
+    "distance_km": 16.7,
+    "avg_time_min": 40
+  },
+  {
+    "bus_no": "12C/2",
+    "route_no": "12C/2",
+    "origin": "Howrah Station",
+    "destination": "Thakdari",
+    "distance_km": 16.7,
+    "avg_time_min": 40
+  },
+  {
+    "bus_no": "13",
+    "route_no": "13",
+    "origin": "Parnasree",
+    "destination": "Sealdah",
+    "distance_km": 29.1,
+    "avg_time_min": 69
+  },
+  {
+    "bus_no": "13",
+    "route_no": "13",
+    "origin": "Sealdah",
+    "destination": "Parnasree",
+    "distance_km": 29.1,
+    "avg_time_min": 69
+  },
+  {
+    "bus_no": "13A",
+    "route_no": "13A",
+    "origin": "Shampa Mirza Nagar",
+    "destination": "B.B.D. Bagh",
+    "distance_km": 15.8,
+    "avg_time_min": 37
+  },
+  {
+    "bus_no": "13A",
+    "route_no": "13A",
+    "origin": "B.B.D. Bagh",
+    "destination": "Shampa Mirza Nagar",
+    "distance_km": 15.8,
+    "avg_time_min": 37
+  },
+  {
+    "bus_no": "13C",
+    "route_no": "13C",
+    "origin": "Old Dakghar",
+    "destination": "Layalka",
+    "distance_km": 30.0,
+    "avg_time_min": 72
+  },
+  {
+    "bus_no": "13C",
+    "route_no": "13C",
+    "origin": "Layalka",
+    "destination": "Old Dakghar",
+    "distance_km": 30.0,
+    "avg_time_min": 72
+  },
+  {
+    "bus_no": "17",
+    "route_no": "17",
+    "origin": "Chetla",
+    "destination": "Howrah Station",
+    "distance_km": 31.6,
+    "avg_time_min": 75
+  },
+  {
+    "bus_no": "17",
+    "route_no": "17",
+    "origin": "Howrah Station",
+    "destination": "Chetla",
+    "distance_km": 31.6,
+    "avg_time_min": 75
+  },
+  {
+    "bus_no": "17B",
+    "route_no": "17B",
+    "origin": "Baghajatin",
+    "destination": "Howrah Station",
+    "distance_km": 18.6,
+    "avg_time_min": 44
+  },
+  {
+    "bus_no": "17B",
+    "route_no": "17B",
+    "origin": "Howrah Station",
+    "destination": "Baghajatin",
+    "distance_km": 18.6,
+    "avg_time_min": 44
+  },
+  {
+    "bus_no": "18B",
+    "route_no": "18B",
+    "origin": "Dakghar",
+    "destination": "Howrah Station",
+    "distance_km": 21.5,
+    "avg_time_min": 51
+  },
+  {
+    "bus_no": "18B",
+    "route_no": "18B",
+    "origin": "Howrah Station",
+    "destination": "Dakghar",
+    "distance_km": 21.5,
+    "avg_time_min": 51
+  },
+  {
+    "bus_no": "18B/1",
+    "route_no": "18B/1",
+    "origin": "Dakghar",
+    "destination": "Ruby/China Mandir",
+    "distance_km": 27.5,
+    "avg_time_min": 66
+  },
+  {
+    "bus_no": "18B/1",
+    "route_no": "18B/1",
+    "origin": "Ruby/China Mandir",
+    "destination": "Dakghar",
+    "distance_km": 27.5,
+    "avg_time_min": 66
+  },
+  {
+    "bus_no": "18C",
+    "route_no": "18C",
+    "origin": "Kestor More",
+    "destination": "Anandapur",
+    "distance_km": 16.0,
+    "avg_time_min": 38
+  },
+  {
+    "bus_no": "18C",
+    "route_no": "18C",
+    "origin": "Anandapur",
+    "destination": "Kestor More",
+    "distance_km": 16.0,
+    "avg_time_min": 38
+  },
+  {
+    "bus_no": "18D",
+    "route_no": "18D",
+    "origin": "Surya Sen Nagar",
+    "destination": "Howrah Station",
+    "distance_km": 31.4,
+    "avg_time_min": 75
+  },
+  {
+    "bus_no": "18D",
+    "route_no": "18D",
+    "origin": "Howrah Station",
+    "destination": "Surya Sen Nagar",
+    "distance_km": 31.4,
+    "avg_time_min": 75
+  },
+  {
+    "bus_no": "21",
+    "route_no": "21",
+    "origin": "Barisha",
+    "destination": "Sealdah (via Siriti)",
+    "distance_km": 23.6,
+    "avg_time_min": 56
+  },
+  {
+    "bus_no": "21",
+    "route_no": "21",
+    "origin": "Sealdah (via Siriti)",
+    "destination": "Barisha",
+    "distance_km": 23.6,
+    "avg_time_min": 56
+  },
+  {
+    "bus_no": "21/1",
+    "route_no": "21/1",
+    "origin": "Barisha",
+    "destination": "Sealdah (via Taratala)",
+    "distance_km": 31.7,
+    "avg_time_min": 76
+  },
+  {
+    "bus_no": "21/1",
+    "route_no": "21/1",
+    "origin": "Sealdah (via Taratala)",
+    "destination": "Barisha",
+    "distance_km": 31.7,
+    "avg_time_min": 76
+  },
+  {
+    "bus_no": "23",
+    "route_no": "23",
+    "origin": "Barasat",
+    "destination": "Boalghata",
+    "distance_km": 38.5,
+    "avg_time_min": 92
+  },
+  {
+    "bus_no": "23",
+    "route_no": "23",
+    "origin": "Boalghata",
+    "destination": "Barasat",
+    "distance_km": 38.5,
+    "avg_time_min": 92
+  },
+  {
+    "bus_no": "24",
+    "route_no": "24",
+    "origin": "Topsia",
+    "destination": "Bandhaghat",
+    "distance_km": 33.3,
+    "avg_time_min": 79
+  },
+  {
+    "bus_no": "24",
+    "route_no": "24",
+    "origin": "Bandhaghat",
+    "destination": "Topsia",
+    "distance_km": 33.3,
+    "avg_time_min": 79
+  },
+  {
+    "bus_no": "24A",
+    "route_no": "24A",
+    "origin": "Topsia",
+    "destination": "Bandhaghat",
+    "distance_km": 22.0,
+    "avg_time_min": 52
+  },
+  {
+    "bus_no": "24A",
+    "route_no": "24A",
+    "origin": "Bandhaghat",
+    "destination": "Topsia",
+    "distance_km": 22.0,
+    "avg_time_min": 52
+  },
+  {
+    "bus_no": "24A/1",
+    "route_no": "24A/1",
+    "origin": "Mukundapur",
+    "destination": "Howrah Fire Service Station",
+    "distance_km": 32.0,
+    "avg_time_min": 76
+  },
+  {
+    "bus_no": "24A/1",
+    "route_no": "24A/1",
+    "origin": "Howrah Fire Service Station",
+    "destination": "Mukundapur",
+    "distance_km": 32.0,
+    "avg_time_min": 76
+  },
+  {
+    "bus_no": "24B",
+    "route_no": "24B",
+    "origin": "Dhapa",
+    "destination": "Howrah Station",
+    "distance_km": 19.4,
+    "avg_time_min": 46
+  },
+  {
+    "bus_no": "24B",
+    "route_no": "24B",
+    "origin": "Howrah Station",
+    "destination": "Dhapa",
+    "distance_km": 19.4,
+    "avg_time_min": 46
+  },
+  {
+    "bus_no": "28",
+    "route_no": "28",
+    "origin": "Howrah Maidan",
+    "destination": "Sealdah",
+    "distance_km": 31.9,
+    "avg_time_min": 76
+  },
+  {
+    "bus_no": "28",
+    "route_no": "28",
+    "origin": "Sealdah",
+    "destination": "Howrah Maidan",
+    "distance_km": 31.9,
+    "avg_time_min": 76
+  },
+  {
+    "bus_no": "30A",
+    "route_no": "30A",
+    "origin": "Sinthee",
+    "destination": "Esplanade",
+    "distance_km": 9.1,
+    "avg_time_min": 21
+  },
+  {
+    "bus_no": "30A",
+    "route_no": "30A",
+    "origin": "Esplanade",
+    "destination": "Sinthee",
+    "distance_km": 9.1,
+    "avg_time_min": 21
+  },
+  {
+    "bus_no": "30B",
+    "route_no": "30B",
+    "origin": "Gouripur",
+    "destination": "Babughat",
+    "distance_km": 22.8,
+    "avg_time_min": 54
+  },
+  {
+    "bus_no": "30B",
+    "route_no": "30B",
+    "origin": "Babughat",
+    "destination": "Gouripur",
+    "distance_km": 22.8,
+    "avg_time_min": 54
+  },
+  {
+    "bus_no": "30B/1",
+    "route_no": "30B/1",
+    "origin": "Gouripur",
+    "destination": "Howrah Station",
+    "distance_km": 25.1,
+    "avg_time_min": 60
+  },
+  {
+    "bus_no": "30B/1",
+    "route_no": "30B/1",
+    "origin": "Howrah Station",
+    "destination": "Gouripur",
+    "distance_km": 25.1,
+    "avg_time_min": 60
+  },
+  {
+    "bus_no": "30C",
+    "route_no": "30C",
+    "origin": "Hatiara",
+    "destination": "Babughat (via Shyambazar)",
+    "distance_km": 28.5,
+    "avg_time_min": 68
+  },
+  {
+    "bus_no": "30C",
+    "route_no": "30C",
+    "origin": "Babughat (via Shyambazar)",
+    "destination": "Hatiara",
+    "distance_km": 28.5,
+    "avg_time_min": 68
+  },
+  {
+    "bus_no": "30D",
+    "route_no": "30D",
+    "origin": "Dum Dum",
+    "destination": "Cantonment Station Babughat",
+    "distance_km": 26.5,
+    "avg_time_min": 63
+  },
+  {
+    "bus_no": "30D",
+    "route_no": "30D",
+    "origin": "Cantonment Station Babughat",
+    "destination": "Dum Dum",
+    "distance_km": 26.5,
+    "avg_time_min": 63
+  },
+  {
+    "bus_no": "32",
+    "route_no": "32",
+    "origin": "Dakshineshwar",
+    "destination": "Esplanade",
+    "distance_km": 23.8,
+    "avg_time_min": 57
+  },
+  {
+    "bus_no": "32",
+    "route_no": "32",
+    "origin": "Esplanade",
+    "destination": "Dakshineshwar",
+    "distance_km": 23.8,
+    "avg_time_min": 57
+  },
+  {
+    "bus_no": "32A",
+    "route_no": "32A",
+    "origin": "Dakshineshwar",
+    "destination": "Salt Lake Technopolis",
+    "distance_km": 25.5,
+    "avg_time_min": 61
+  },
+  {
+    "bus_no": "32A",
+    "route_no": "32A",
+    "origin": "Salt Lake Technopolis",
+    "destination": "Dakshineshwar",
+    "distance_km": 25.5,
+    "avg_time_min": 61
+  },
+  {
+    "bus_no": "34B",
+    "route_no": "34B",
+    "origin": "Dunlop",
+    "destination": "Esplanade",
+    "distance_km": 34.3,
+    "avg_time_min": 82
+  },
+  {
+    "bus_no": "34B",
+    "route_no": "34B",
+    "origin": "Esplanade",
+    "destination": "Dunlop",
+    "distance_km": 34.3,
+    "avg_time_min": 82
+  },
+  {
+    "bus_no": "34B/1",
+    "route_no": "34B/1",
+    "origin": "Pardankuni",
+    "destination": "Esplanade",
+    "distance_km": 20.6,
+    "avg_time_min": 49
+  },
+  {
+    "bus_no": "34B/1",
+    "route_no": "34B/1",
+    "origin": "Esplanade",
+    "destination": "Pardankuni",
+    "distance_km": 20.6,
+    "avg_time_min": 49
+  },
+  {
+    "bus_no": "34C",
+    "route_no": "34C",
+    "origin": "Noapara/Dum Dum Cantonment (Pramod Nagar)",
+    "destination": "Esplanade",
+    "distance_km": 14.2,
+    "avg_time_min": 34
+  },
+  {
+    "bus_no": "34C",
+    "route_no": "34C",
+    "origin": "Esplanade",
+    "destination": "Noapara/Dum Dum Cantonment (Pramod Nagar)",
+    "distance_km": 14.2,
+    "avg_time_min": 34
+  },
+  {
+    "bus_no": "37",
+    "route_no": "37",
+    "origin": "Dhakuria",
+    "destination": "Howrah Station",
+    "distance_km": 17.3,
+    "avg_time_min": 41
+  },
+  {
+    "bus_no": "37",
+    "route_no": "37",
+    "origin": "Howrah Station",
+    "destination": "Dhakuria",
+    "distance_km": 17.3,
+    "avg_time_min": 41
+  },
+  {
+    "bus_no": "37A",
+    "route_no": "37A",
+    "origin": "Nayabad (Garia)",
+    "destination": "Howrah Station",
+    "distance_km": 15.6,
+    "avg_time_min": 37
+  },
+  {
+    "bus_no": "37A",
+    "route_no": "37A",
+    "origin": "Howrah Station",
+    "destination": "Nayabad (Garia)",
+    "distance_km": 15.6,
+    "avg_time_min": 37
+  },
+  {
+    "bus_no": "39",
+    "route_no": "39",
+    "origin": "Picnic Garden",
+    "destination": "High Court",
+    "distance_km": 9.4,
+    "avg_time_min": 22
+  },
+  {
+    "bus_no": "39",
+    "route_no": "39",
+    "origin": "High Court",
+    "destination": "Picnic Garden",
+    "distance_km": 9.4,
+    "avg_time_min": 22
+  },
+  {
+    "bus_no": "39A/2",
+    "route_no": "39A/2",
+    "origin": "Howrah Station",
+    "destination": "VIP Bazar",
+    "distance_km": 36.5,
+    "avg_time_min": 87
+  },
+  {
+    "bus_no": "39A/2",
+    "route_no": "39A/2",
+    "origin": "VIP Bazar",
+    "destination": "Howrah Station",
+    "distance_km": 36.5,
+    "avg_time_min": 87
+  },
+  {
+    "bus_no": "39A/2",
+    "route_no": "39A/2",
+    "origin": "Howrah Station",
+    "destination": "Bhojherhat",
+    "distance_km": 12.3,
+    "avg_time_min": 29
+  },
+  {
+    "bus_no": "39A/2",
+    "route_no": "39A/2",
+    "origin": "Bhojherhat",
+    "destination": "Howrah Station",
+    "distance_km": 12.3,
+    "avg_time_min": 29
+  },
+  {
+    "bus_no": "40A",
+    "route_no": "40A",
+    "origin": "Julpia",
+    "destination": "Babughat",
+    "distance_km": 33.7,
+    "avg_time_min": 80
+  },
+  {
+    "bus_no": "40A",
+    "route_no": "40A",
+    "origin": "Babughat",
+    "destination": "Julpia",
+    "distance_km": 33.7,
+    "avg_time_min": 80
+  },
+  {
+    "bus_no": "40B",
+    "route_no": "40B",
+    "origin": "Thakurpukur",
+    "destination": "Babughat",
+    "distance_km": 17.2,
+    "avg_time_min": 41
+  },
+  {
+    "bus_no": "40B",
+    "route_no": "40B",
+    "origin": "Babughat",
+    "destination": "Thakurpukur",
+    "distance_km": 17.2,
+    "avg_time_min": 41
+  },
+  {
+    "bus_no": "41",
+    "route_no": "41",
+    "origin": "Layalka",
+    "destination": "Howrah Station",
+    "distance_km": 8.9,
+    "avg_time_min": 21
+  },
+  {
+    "bus_no": "41",
+    "route_no": "41",
+    "origin": "Howrah Station",
+    "destination": "Layalka",
+    "distance_km": 8.9,
+    "avg_time_min": 21
+  },
+  {
+    "bus_no": "41B",
+    "route_no": "41B",
+    "origin": "Howrah Station",
+    "destination": "Netaji Nagar",
+    "distance_km": 11.7,
+    "avg_time_min": 28
+  },
+  {
+    "bus_no": "41B",
+    "route_no": "41B",
+    "origin": "Netaji Nagar",
+    "destination": "Howrah Station",
+    "distance_km": 11.7,
+    "avg_time_min": 28
+  },
+  {
+    "bus_no": "42A",
+    "route_no": "42A",
+    "origin": "Picnic Garden",
+    "destination": "Bichalighat",
+    "distance_km": 29.3,
+    "avg_time_min": 70
+  },
+  {
+    "bus_no": "42A",
+    "route_no": "42A",
+    "origin": "Bichalighat",
+    "destination": "Picnic Garden",
+    "distance_km": 29.3,
+    "avg_time_min": 70
+  },
+  {
+    "bus_no": "42B",
+    "route_no": "42B",
+    "origin": "Beliaghata Sales Tax",
+    "destination": "Bichalighat",
+    "distance_km": 17.2,
+    "avg_time_min": 41
+  },
+  {
+    "bus_no": "42B",
+    "route_no": "42B",
+    "origin": "Bichalighat",
+    "destination": "Beliaghata Sales Tax",
+    "distance_km": 17.2,
+    "avg_time_min": 41
+  },
+  {
+    "bus_no": "42C",
+    "route_no": "42C",
+    "origin": "Salt Lake Tank No.13",
+    "destination": "Ruby Hospital",
+    "distance_km": 8.6,
+    "avg_time_min": 20
+  },
+  {
+    "bus_no": "42C",
+    "route_no": "42C",
+    "origin": "Ruby Hospital",
+    "destination": "Salt Lake Tank No.13",
+    "distance_km": 8.6,
+    "avg_time_min": 20
+  },
+  {
+    "bus_no": "43",
+    "route_no": "43",
+    "origin": "Dakshineswar",
+    "destination": "Esplanade",
+    "distance_km": 10.2,
+    "avg_time_min": 24
+  },
+  {
+    "bus_no": "43",
+    "route_no": "43",
+    "origin": "Esplanade",
+    "destination": "Dakshineswar",
+    "distance_km": 10.2,
+    "avg_time_min": 24
+  },
+  {
+    "bus_no": "43/1",
+    "route_no": "43/1",
+    "origin": "Dakshineswar",
+    "destination": "Esplanade",
+    "distance_km": 39.4,
+    "avg_time_min": 94
+  },
+  {
+    "bus_no": "43/1",
+    "route_no": "43/1",
+    "origin": "Esplanade",
+    "destination": "Dakshineswar",
+    "distance_km": 39.4,
+    "avg_time_min": 94
+  },
+  {
+    "bus_no": "44",
+    "route_no": "44",
+    "origin": "Baguihati",
+    "destination": "Howrah Station",
+    "distance_km": 16.0,
+    "avg_time_min": 38
+  },
+  {
+    "bus_no": "44",
+    "route_no": "44",
+    "origin": "Howrah Station",
+    "destination": "Baguihati",
+    "distance_km": 16.0,
+    "avg_time_min": 38
+  },
+  {
+    "bus_no": "44A",
+    "route_no": "44A",
+    "origin": "Salt Lake",
+    "destination": "Howrah Station",
+    "distance_km": 28.9,
+    "avg_time_min": 69
+  },
+  {
+    "bus_no": "44A",
+    "route_no": "44A",
+    "origin": "Howrah Station",
+    "destination": "Salt Lake",
+    "distance_km": 28.9,
+    "avg_time_min": 69
+  },
+  {
+    "bus_no": "45",
+    "route_no": "45",
+    "origin": "Padmashree",
+    "destination": "Airport Gate No.1",
+    "distance_km": 10.4,
+    "avg_time_min": 24
+  },
+  {
+    "bus_no": "45",
+    "route_no": "45",
+    "origin": "Airport Gate No.1",
+    "destination": "Padmashree",
+    "distance_km": 10.4,
+    "avg_time_min": 24
+  },
+  {
+    "bus_no": "45/1",
+    "route_no": "45/1",
+    "origin": "Garia Railway Station",
+    "destination": "Beleghata Building More",
+    "distance_km": 24.0,
+    "avg_time_min": 57
+  },
+  {
+    "bus_no": "45/1",
+    "route_no": "45/1",
+    "origin": "Beleghata Building More",
+    "destination": "Garia Railway Station",
+    "distance_km": 24.0,
+    "avg_time_min": 57
+  },
+  {
+    "bus_no": "45A",
+    "route_no": "45A",
+    "origin": "Garia Railway Station",
+    "destination": "Gouripur",
+    "distance_km": 33.6,
+    "avg_time_min": 80
+  },
+  {
+    "bus_no": "45A",
+    "route_no": "45A",
+    "origin": "Gouripur",
+    "destination": "Garia Railway Station",
+    "distance_km": 33.6,
+    "avg_time_min": 80
+  },
+  {
+    "bus_no": "45B",
+    "route_no": "45B",
+    "origin": "Garia Railway Station",
+    "destination": "Beleghata Building More",
+    "distance_km": 5.0,
+    "avg_time_min": 12
+  },
+  {
+    "bus_no": "45B",
+    "route_no": "45B",
+    "origin": "Beleghata Building More",
+    "destination": "Garia Railway Station",
+    "distance_km": 5.0,
+    "avg_time_min": 12
+  },
+  {
+    "bus_no": "46",
+    "route_no": "46",
+    "origin": "Airport Gate No.1",
+    "destination": "Esplanade",
+    "distance_km": 23.2,
+    "avg_time_min": 55
+  },
+  {
+    "bus_no": "46",
+    "route_no": "46",
+    "origin": "Esplanade",
+    "destination": "Airport Gate No.1",
+    "distance_km": 23.2,
+    "avg_time_min": 55
+  },
+  {
+    "bus_no": "46B",
+    "route_no": "46B",
+    "origin": "Akansha",
+    "destination": "Esplanade",
+    "distance_km": 28.3,
+    "avg_time_min": 67
+  },
+  {
+    "bus_no": "46B",
+    "route_no": "46B",
+    "origin": "Esplanade",
+    "destination": "Akansha",
+    "distance_km": 28.3,
+    "avg_time_min": 67
+  },
+  {
+    "bus_no": "47",
+    "route_no": "47",
+    "origin": "Lake Town",
+    "destination": "Unitech via Karunamoyee",
+    "distance_km": 29.4,
+    "avg_time_min": 70
+  },
+  {
+    "bus_no": "47",
+    "route_no": "47",
+    "origin": "Unitech via Karunamoyee",
+    "destination": "Lake Town",
+    "distance_km": 29.4,
+    "avg_time_min": 70
+  },
+  {
+    "bus_no": "47A",
+    "route_no": "47A",
+    "origin": "Lake Town",
+    "destination": "Dhakuria",
+    "distance_km": 12.4,
+    "avg_time_min": 29
+  },
+  {
+    "bus_no": "47A",
+    "route_no": "47A",
+    "origin": "Dhakuria",
+    "destination": "Lake Town",
+    "distance_km": 12.4,
+    "avg_time_min": 29
+  },
+  {
+    "bus_no": "47B",
+    "route_no": "47B",
+    "origin": "Lake Town (Jaya)",
+    "destination": "Kalikapur (Ruby)",
+    "distance_km": 38.8,
+    "avg_time_min": 93
+  },
+  {
+    "bus_no": "47B",
+    "route_no": "47B",
+    "origin": "Kalikapur (Ruby)",
+    "destination": "Lake Town (Jaya)",
+    "distance_km": 38.8,
+    "avg_time_min": 93
+  },
+  {
+    "bus_no": "47/1",
+    "route_no": "47/1",
+    "origin": "Tollygunge Tram Depot",
+    "destination": "Salt Lake Tank No.12",
+    "distance_km": 16.2,
+    "avg_time_min": 38
+  },
+  {
+    "bus_no": "47/1",
+    "route_no": "47/1",
+    "origin": "Salt Lake Tank No.12",
+    "destination": "Tollygunge Tram Depot",
+    "distance_km": 16.2,
+    "avg_time_min": 38
+  },
+  {
+    "bus_no": "51",
+    "route_no": "51",
+    "origin": "Pardankuni",
+    "destination": "Howrah Station",
+    "distance_km": 36.4,
+    "avg_time_min": 87
+  },
+  {
+    "bus_no": "51",
+    "route_no": "51",
+    "origin": "Howrah Station",
+    "destination": "Pardankuni",
+    "distance_km": 36.4,
+    "avg_time_min": 87
+  },
+  {
+    "bus_no": "52",
+    "route_no": "52",
+    "origin": "Ramrajatala",
+    "destination": "Esplanade",
+    "distance_km": 21.1,
+    "avg_time_min": 50
+  },
+  {
+    "bus_no": "52",
+    "route_no": "52",
+    "origin": "Esplanade",
+    "destination": "Ramrajatala",
+    "distance_km": 21.1,
+    "avg_time_min": 50
+  },
+  {
+    "bus_no": "54",
+    "route_no": "54",
+    "origin": "Ballykhal",
+    "destination": "Esplande",
+    "distance_km": 11.3,
+    "avg_time_min": 27
+  },
+  {
+    "bus_no": "54",
+    "route_no": "54",
+    "origin": "Esplande",
+    "destination": "Ballykhal",
+    "distance_km": 11.3,
+    "avg_time_min": 27
+  },
+  {
+    "bus_no": "54/2",
+    "route_no": "54/2",
+    "origin": "Rishra Station",
+    "destination": "Howrah Station",
+    "distance_km": 33.7,
+    "avg_time_min": 80
+  },
+  {
+    "bus_no": "54/2",
+    "route_no": "54/2",
+    "origin": "Howrah Station",
+    "destination": "Rishra Station",
+    "distance_km": 33.7,
+    "avg_time_min": 80
+  },
+  {
+    "bus_no": "55",
+    "route_no": "55",
+    "origin": "Botanical Garden",
+    "destination": "Esplanade",
+    "distance_km": 25.6,
+    "avg_time_min": 61
+  },
+  {
+    "bus_no": "55",
+    "route_no": "55",
+    "origin": "Esplanade",
+    "destination": "Botanical Garden",
+    "distance_km": 25.6,
+    "avg_time_min": 61
+  },
+  {
+    "bus_no": "55A",
+    "route_no": "55A",
+    "origin": "Shibpur Tram Depot",
+    "destination": "Esplanade",
+    "distance_km": 14.3,
+    "avg_time_min": 34
+  },
+  {
+    "bus_no": "55A",
+    "route_no": "55A",
+    "origin": "Esplanade",
+    "destination": "Shibpur Tram Depot",
+    "distance_km": 14.3,
+    "avg_time_min": 34
+  },
+  {
+    "bus_no": "56",
+    "route_no": "56",
+    "origin": "Howrah Station",
+    "destination": "Ruiya Purbapara",
+    "distance_km": 25.9,
+    "avg_time_min": 62
+  },
+  {
+    "bus_no": "56",
+    "route_no": "56",
+    "origin": "Ruiya Purbapara",
+    "destination": "Howrah Station",
+    "distance_km": 25.9,
+    "avg_time_min": 62
+  },
+  {
+    "bus_no": "57",
+    "route_no": "57",
+    "origin": "Kona",
+    "destination": "Esplanade",
+    "distance_km": 11.0,
+    "avg_time_min": 26
+  },
+  {
+    "bus_no": "57",
+    "route_no": "57",
+    "origin": "Esplanade",
+    "destination": "Kona",
+    "distance_km": 11.0,
+    "avg_time_min": 26
+  },
+  {
+    "bus_no": "57A",
+    "route_no": "57A",
+    "origin": "Chanditala",
+    "destination": "Howrah Station",
+    "distance_km": 6.7,
+    "avg_time_min": 16
+  },
+  {
+    "bus_no": "57A",
+    "route_no": "57A",
+    "origin": "Howrah Station",
+    "destination": "Chanditala",
+    "distance_km": 6.7,
+    "avg_time_min": 16
+  },
+  {
+    "bus_no": "58",
+    "route_no": "58",
+    "origin": "Chatterjeehat",
+    "destination": "Esplanade",
+    "distance_km": 27.2,
+    "avg_time_min": 65
+  },
+  {
+    "bus_no": "58",
+    "route_no": "58",
+    "origin": "Esplanade",
+    "destination": "Chatterjeehat",
+    "distance_km": 27.2,
+    "avg_time_min": 65
+  },
+  {
+    "bus_no": "61",
+    "route_no": "61",
+    "origin": "Alampur",
+    "destination": "Howrah Station",
+    "distance_km": 8.0,
+    "avg_time_min": 19
+  },
+  {
+    "bus_no": "61",
+    "route_no": "61",
+    "origin": "Howrah Station",
+    "destination": "Alampur",
+    "distance_km": 8.0,
+    "avg_time_min": 19
+  },
+  {
+    "bus_no": "63",
+    "route_no": "63",
+    "origin": "Domjur",
+    "destination": "Howrah Station",
+    "distance_km": 15.9,
+    "avg_time_min": 38
+  },
+  {
+    "bus_no": "63",
+    "route_no": "63",
+    "origin": "Howrah Station",
+    "destination": "Domjur",
+    "distance_km": 15.9,
+    "avg_time_min": 38
+  },
+  {
+    "bus_no": "64",
+    "route_no": "64",
+    "origin": "Uluberia",
+    "destination": "Tulsiberia",
+    "distance_km": 23.4,
+    "avg_time_min": 56
+  },
+  {
+    "bus_no": "64",
+    "route_no": "64",
+    "origin": "Tulsiberia",
+    "destination": "Uluberia",
+    "distance_km": 23.4,
+    "avg_time_min": 56
+  },
+  {
+    "bus_no": "68",
+    "route_no": "68",
+    "origin": "Bagnan",
+    "destination": "Kamalpur",
+    "distance_km": 20.1,
+    "avg_time_min": 48
+  },
+  {
+    "bus_no": "68",
+    "route_no": "68",
+    "origin": "Kamalpur",
+    "destination": "Bagnan",
+    "distance_km": 20.1,
+    "avg_time_min": 48
+  },
+  {
+    "bus_no": "69",
+    "route_no": "69",
+    "origin": "Sankrail",
+    "destination": "Howrah Station",
+    "distance_km": 38.3,
+    "avg_time_min": 91
+  },
+  {
+    "bus_no": "69",
+    "route_no": "69",
+    "origin": "Howrah Station",
+    "destination": "Sankrail",
+    "distance_km": 38.3,
+    "avg_time_min": 91
+  },
+  {
+    "bus_no": "70",
+    "route_no": "70",
+    "origin": "Amta",
+    "destination": "Uluberia",
+    "distance_km": 15.0,
+    "avg_time_min": 36
+  },
+  {
+    "bus_no": "70",
+    "route_no": "70",
+    "origin": "Uluberia",
+    "destination": "Amta",
+    "distance_km": 15.0,
+    "avg_time_min": 36
+  },
+  {
+    "bus_no": "71",
+    "route_no": "71",
+    "origin": "Salt Lake",
+    "destination": "Howrah Maidan (Rare service)",
+    "distance_km": 36.7,
+    "avg_time_min": 88
+  },
+  {
+    "bus_no": "71",
+    "route_no": "71",
+    "origin": "Howrah Maidan (Rare service)",
+    "destination": "Salt Lake",
+    "distance_km": 36.7,
+    "avg_time_min": 88
+  },
+  {
+    "bus_no": "72",
+    "route_no": "72",
+    "origin": "Dasnagar",
+    "destination": "Park Circus",
+    "distance_km": 24.2,
+    "avg_time_min": 58
+  },
+  {
+    "bus_no": "72",
+    "route_no": "72",
+    "origin": "Park Circus",
+    "destination": "Dasnagar",
+    "distance_km": 24.2,
+    "avg_time_min": 58
+  },
+  {
+    "bus_no": "72",
+    "route_no": "72",
+    "origin": "Basirhat",
+    "destination": "Nazat",
+    "distance_km": 23.2,
+    "avg_time_min": 55
+  },
+  {
+    "bus_no": "72",
+    "route_no": "72",
+    "origin": "Nazat",
+    "destination": "Basirhat",
+    "distance_km": 23.2,
+    "avg_time_min": 55
+  },
+  {
+    "bus_no": "72A",
+    "route_no": "72A",
+    "origin": "Basirhat",
+    "destination": "Dhamakhali",
+    "distance_km": 6.7,
+    "avg_time_min": 16
+  },
+  {
+    "bus_no": "72A",
+    "route_no": "72A",
+    "origin": "Dhamakhali",
+    "destination": "Basirhat",
+    "distance_km": 6.7,
+    "avg_time_min": 16
+  },
+  {
+    "bus_no": "73",
+    "route_no": "73",
+    "origin": "Dasnagar",
+    "destination": "Esplanade",
+    "distance_km": 20.1,
+    "avg_time_min": 48
+  },
+  {
+    "bus_no": "73",
+    "route_no": "73",
+    "origin": "Esplanade",
+    "destination": "Dasnagar",
+    "distance_km": 20.1,
+    "avg_time_min": 48
+  },
+  {
+    "bus_no": "73",
+    "route_no": "73",
+    "origin": "Habra",
+    "destination": "Naihati",
+    "distance_km": 28.7,
+    "avg_time_min": 68
+  },
+  {
+    "bus_no": "73",
+    "route_no": "73",
+    "origin": "Naihati",
+    "destination": "Habra",
+    "distance_km": 28.7,
+    "avg_time_min": 68
+  },
+  {
+    "bus_no": "75",
+    "route_no": "75",
+    "origin": "Roypur",
+    "destination": "Babughat",
+    "distance_km": 35.4,
+    "avg_time_min": 84
+  },
+  {
+    "bus_no": "75",
+    "route_no": "75",
+    "origin": "Babughat",
+    "destination": "Roypur",
+    "distance_km": 35.4,
+    "avg_time_min": 84
+  },
+  {
+    "bus_no": "76",
+    "route_no": "76",
+    "origin": "Amta",
+    "destination": "Bagnan",
+    "distance_km": 29.7,
+    "avg_time_min": 71
+  },
+  {
+    "bus_no": "76",
+    "route_no": "76",
+    "origin": "Bagnan",
+    "destination": "Amta",
+    "distance_km": 29.7,
+    "avg_time_min": 71
+  },
+  {
+    "bus_no": "77",
+    "route_no": "77",
+    "origin": "Amta",
+    "destination": "Sankrail",
+    "distance_km": 12.5,
+    "avg_time_min": 30
+  },
+  {
+    "bus_no": "77",
+    "route_no": "77",
+    "origin": "Sankrail",
+    "destination": "Amta",
+    "distance_km": 12.5,
+    "avg_time_min": 30
+  },
+  {
+    "bus_no": "77A",
+    "route_no": "77A",
+    "origin": "Birlapur",
+    "destination": "Esplanade",
+    "distance_km": 39.0,
+    "avg_time_min": 93
+  },
+  {
+    "bus_no": "77A",
+    "route_no": "77A",
+    "origin": "Esplanade",
+    "destination": "Birlapur",
+    "distance_km": 39.0,
+    "avg_time_min": 93
+  },
+  {
+    "bus_no": "77A",
+    "route_no": "77A",
+    "origin": "Batanagar",
+    "destination": "Esplanade",
+    "distance_km": 20.5,
+    "avg_time_min": 49
+  },
+  {
+    "bus_no": "77A",
+    "route_no": "77A",
+    "origin": "Esplanade",
+    "destination": "Batanagar",
+    "distance_km": 20.5,
+    "avg_time_min": 49
+  },
+  {
+    "bus_no": "78",
+    "route_no": "78",
+    "origin": "Bagnan",
+    "destination": "Joypur",
+    "distance_km": 38.7,
+    "avg_time_min": 92
+  },
+  {
+    "bus_no": "78",
+    "route_no": "78",
+    "origin": "Joypur",
+    "destination": "Bagnan",
+    "distance_km": 38.7,
+    "avg_time_min": 92
+  },
+  {
+    "bus_no": "78",
+    "route_no": "78",
+    "origin": "Barrackpore Court",
+    "destination": "Esplanade",
+    "distance_km": 5.1,
+    "avg_time_min": 12
+  },
+  {
+    "bus_no": "78",
+    "route_no": "78",
+    "origin": "Esplanade",
+    "destination": "Barrackpore Court",
+    "distance_km": 5.1,
+    "avg_time_min": 12
+  },
+  {
+    "bus_no": "78/1",
+    "route_no": "78/1",
+    "origin": "Rahara Bazar/Parthapur",
+    "destination": "Babughat",
+    "distance_km": 15.5,
+    "avg_time_min": 37
+  },
+  {
+    "bus_no": "78/1",
+    "route_no": "78/1",
+    "origin": "Babughat",
+    "destination": "Rahara Bazar/Parthapur",
+    "distance_km": 15.5,
+    "avg_time_min": 37
+  },
+  {
+    "bus_no": "78C/1",
+    "route_no": "78C/1",
+    "origin": "Barasat",
+    "destination": "Dakshineshwar",
+    "distance_km": 15.9,
+    "avg_time_min": 38
+  },
+  {
+    "bus_no": "78C/1",
+    "route_no": "78C/1",
+    "origin": "Dakshineshwar",
+    "destination": "Barasat",
+    "distance_km": 15.9,
+    "avg_time_min": 38
+  },
+  {
+    "bus_no": "78E",
+    "route_no": "78E",
+    "origin": "Bongaon",
+    "destination": "Dakshineshwar",
+    "distance_km": 7.3,
+    "avg_time_min": 17
+  },
+  {
+    "bus_no": "78E",
+    "route_no": "78E",
+    "origin": "Dakshineshwar",
+    "destination": "Bongaon",
+    "distance_km": 7.3,
+    "avg_time_min": 17
+  },
+  {
+    "bus_no": "79",
+    "route_no": "79",
+    "origin": "Dunlop",
+    "destination": "Panchla",
+    "distance_km": 10.3,
+    "avg_time_min": 24
+  },
+  {
+    "bus_no": "79",
+    "route_no": "79",
+    "origin": "Panchla",
+    "destination": "Dunlop",
+    "distance_km": 10.3,
+    "avg_time_min": 24
+  },
+  {
+    "bus_no": "79B",
+    "route_no": "79B",
+    "origin": "Bagbazar",
+    "destination": "Barasat",
+    "distance_km": 34.1,
+    "avg_time_min": 81
+  },
+  {
+    "bus_no": "79B",
+    "route_no": "79B",
+    "origin": "Barasat",
+    "destination": "Bagbazar",
+    "distance_km": 34.1,
+    "avg_time_min": 81
+  },
+  {
+    "bus_no": "79D",
+    "route_no": "79D",
+    "origin": "Madhyamgram",
+    "destination": "Babughat",
+    "distance_km": 30.3,
+    "avg_time_min": 72
+  },
+  {
+    "bus_no": "79D",
+    "route_no": "79D",
+    "origin": "Babughat",
+    "destination": "Madhyamgram",
+    "distance_km": 30.3,
+    "avg_time_min": 72
+  },
+  {
+    "bus_no": "80",
+    "route_no": "80",
+    "origin": "Chunabhati",
+    "destination": "Howrah Station",
+    "distance_km": 38.2,
+    "avg_time_min": 91
+  },
+  {
+    "bus_no": "80",
+    "route_no": "80",
+    "origin": "Howrah Station",
+    "destination": "Chunabhati",
+    "distance_km": 38.2,
+    "avg_time_min": 91
+  },
+  {
+    "bus_no": "80A",
+    "route_no": "80A",
+    "origin": "Garia Bus Stand",
+    "destination": "Esplanade (via Tollygunge)",
+    "distance_km": 33.2,
+    "avg_time_min": 79
+  },
+  {
+    "bus_no": "80A",
+    "route_no": "80A",
+    "origin": "Esplanade (via Tollygunge)",
+    "destination": "Garia Bus Stand",
+    "distance_km": 33.2,
+    "avg_time_min": 79
+  },
+  {
+    "bus_no": "80B",
+    "route_no": "80B",
+    "origin": "Garia Bus Stand",
+    "destination": "Esplanade (via Jadavpur)",
+    "distance_km": 13.2,
+    "avg_time_min": 31
+  },
+  {
+    "bus_no": "80B",
+    "route_no": "80B",
+    "origin": "Esplanade (via Jadavpur)",
+    "destination": "Garia Bus Stand",
+    "distance_km": 13.2,
+    "avg_time_min": 31
+  },
+  {
+    "bus_no": "81",
+    "route_no": "81",
+    "origin": "Barasat",
+    "destination": "Barrackpore Fishery Gate",
+    "distance_km": 22.5,
+    "avg_time_min": 54
+  },
+  {
+    "bus_no": "81",
+    "route_no": "81",
+    "origin": "Barrackpore Fishery Gate",
+    "destination": "Barasat",
+    "distance_km": 22.5,
+    "avg_time_min": 54
+  },
+  {
+    "bus_no": "83",
+    "route_no": "83",
+    "origin": "Falta",
+    "destination": "Babughat",
+    "distance_km": 23.8,
+    "avg_time_min": 57
+  },
+  {
+    "bus_no": "83",
+    "route_no": "83",
+    "origin": "Babughat",
+    "destination": "Falta",
+    "distance_km": 23.8,
+    "avg_time_min": 57
+  },
+  {
+    "bus_no": "85",
+    "route_no": "85",
+    "origin": "Barrackpore Court",
+    "destination": "Kanchrapara",
+    "distance_km": 37.3,
+    "avg_time_min": 89
+  },
+  {
+    "bus_no": "85",
+    "route_no": "85",
+    "origin": "Kanchrapara",
+    "destination": "Barrackpore Court",
+    "distance_km": 37.3,
+    "avg_time_min": 89
+  },
+  {
+    "bus_no": "87",
+    "route_no": "87",
+    "origin": "Barasat",
+    "destination": "Jaguli",
+    "distance_km": 26.7,
+    "avg_time_min": 64
+  },
+  {
+    "bus_no": "87",
+    "route_no": "87",
+    "origin": "Jaguli",
+    "destination": "Barasat",
+    "distance_km": 26.7,
+    "avg_time_min": 64
+  },
+  {
+    "bus_no": "87A",
+    "route_no": "87A",
+    "origin": "Barasat",
+    "destination": "Naihati",
+    "distance_km": 27.4,
+    "avg_time_min": 65
+  },
+  {
+    "bus_no": "87A",
+    "route_no": "87A",
+    "origin": "Naihati",
+    "destination": "Barasat",
+    "distance_km": 27.4,
+    "avg_time_min": 65
+  },
+  {
+    "bus_no": "88",
+    "route_no": "88",
+    "origin": "Barasat",
+    "destination": "Kanchrapara",
+    "distance_km": 29.8,
+    "avg_time_min": 71
+  },
+  {
+    "bus_no": "88",
+    "route_no": "88",
+    "origin": "Kanchrapara",
+    "destination": "Barasat",
+    "distance_km": 29.8,
+    "avg_time_min": 71
+  },
+  {
+    "bus_no": "91",
+    "route_no": "91",
+    "origin": "Shyambazar",
+    "destination": "Bhangor / Ghatakpukur",
+    "distance_km": 38.3,
+    "avg_time_min": 91
+  },
+  {
+    "bus_no": "91",
+    "route_no": "91",
+    "origin": "Bhangor / Ghatakpukur",
+    "destination": "Shyambazar",
+    "distance_km": 38.3,
+    "avg_time_min": 91
+  },
+  {
+    "bus_no": "91A",
+    "route_no": "91A",
+    "origin": "Shyambazar",
+    "destination": "Haroa",
+    "distance_km": 8.2,
+    "avg_time_min": 19
+  },
+  {
+    "bus_no": "91A",
+    "route_no": "91A",
+    "origin": "Haroa",
+    "destination": "Shyambazar",
+    "distance_km": 8.2,
+    "avg_time_min": 19
+  },
+  {
+    "bus_no": "91B",
+    "route_no": "91B",
+    "origin": "Shyambazar",
+    "destination": "Bhojerhat",
+    "distance_km": 36.8,
+    "avg_time_min": 88
+  },
+  {
+    "bus_no": "91B",
+    "route_no": "91B",
+    "origin": "Bhojerhat",
+    "destination": "Shyambazar",
+    "distance_km": 36.8,
+    "avg_time_min": 88
+  },
+  {
+    "bus_no": "91C",
+    "route_no": "91C",
+    "origin": "Shyambazar",
+    "destination": "Lauhati",
+    "distance_km": 11.7,
+    "avg_time_min": 28
+  },
+  {
+    "bus_no": "91C",
+    "route_no": "91C",
+    "origin": "Lauhati",
+    "destination": "Shyambazar",
+    "distance_km": 11.7,
+    "avg_time_min": 28
+  },
+  {
+    "bus_no": "92",
+    "route_no": "92",
+    "origin": "Bongaon",
+    "destination": "Boyra",
+    "distance_km": 6.1,
+    "avg_time_min": 14
+  },
+  {
+    "bus_no": "92",
+    "route_no": "92",
+    "origin": "Boyra",
+    "destination": "Bongaon",
+    "distance_km": 6.1,
+    "avg_time_min": 14
+  },
+  {
+    "bus_no": "92A",
+    "route_no": "92A",
+    "origin": "Bongaon",
+    "destination": "Duttaphulia",
+    "distance_km": 33.7,
+    "avg_time_min": 80
+  },
+  {
+    "bus_no": "92A",
+    "route_no": "92A",
+    "origin": "Duttaphulia",
+    "destination": "Bongaon",
+    "distance_km": 33.7,
+    "avg_time_min": 80
+  },
+  {
+    "bus_no": "93",
+    "route_no": "93",
+    "origin": "Bagbazar",
+    "destination": "Kharibari",
+    "distance_km": 17.3,
+    "avg_time_min": 41
+  },
+  {
+    "bus_no": "93",
+    "route_no": "93",
+    "origin": "Kharibari",
+    "destination": "Bagbazar",
+    "distance_km": 17.3,
+    "avg_time_min": 41
+  },
+  {
+    "bus_no": "94",
+    "route_no": "94",
+    "origin": "Kakdwip Lot 8",
+    "destination": "Namkhana",
+    "distance_km": 36.1,
+    "avg_time_min": 86
+  },
+  {
+    "bus_no": "94",
+    "route_no": "94",
+    "origin": "Namkhana",
+    "destination": "Kakdwip Lot 8",
+    "distance_km": 36.1,
+    "avg_time_min": 86
+  },
+  {
+    "bus_no": "96C",
+    "route_no": "96C",
+    "origin": "Bongaon",
+    "destination": "Berigopalpur Ghat",
+    "distance_km": 22.6,
+    "avg_time_min": 54
+  },
+  {
+    "bus_no": "96C",
+    "route_no": "96C",
+    "origin": "Berigopalpur Ghat",
+    "destination": "Bongaon",
+    "distance_km": 22.6,
+    "avg_time_min": 54
+  },
+  {
+    "bus_no": "96C",
+    "route_no": "96C",
+    "origin": "Bongaon",
+    "destination": "Duttaphulia \n \n200 Series Bus Lines",
+    "distance_km": 31.1,
+    "avg_time_min": 74
+  },
+  {
+    "bus_no": "96C",
+    "route_no": "96C",
+    "origin": "Duttaphulia \n \n200 Series Bus Lines",
+    "destination": "Bongaon",
+    "distance_km": 31.1,
+    "avg_time_min": 74
+  },
+  {
+    "bus_no": "201",
+    "route_no": "201",
+    "origin": "Nimta",
+    "destination": "Salt Lake Mahisbathan 215A bus Stand",
+    "distance_km": 39.8,
+    "avg_time_min": 95
+  },
+  {
+    "bus_no": "201",
+    "route_no": "201",
+    "origin": "Salt Lake Mahisbathan 215A bus Stand",
+    "destination": "Nimta",
+    "distance_km": 39.8,
+    "avg_time_min": 95
+  },
+  {
+    "bus_no": "202",
+    "route_no": "202",
+    "origin": "Nagerbazar",
+    "destination": "Science City",
+    "distance_km": 39.8,
+    "avg_time_min": 95
+  },
+  {
+    "bus_no": "202",
+    "route_no": "202",
+    "origin": "Science City",
+    "destination": "Nagerbazar",
+    "distance_km": 39.8,
+    "avg_time_min": 95
+  },
+  {
+    "bus_no": "204/1",
+    "route_no": "204/1",
+    "origin": "Chetla",
+    "destination": "Rajabazar",
+    "distance_km": 37.9,
+    "avg_time_min": 90
+  },
+  {
+    "bus_no": "204/1",
+    "route_no": "204/1",
+    "origin": "Rajabazar",
+    "destination": "Chetla",
+    "distance_km": 37.9,
+    "avg_time_min": 90
+  },
+  {
+    "bus_no": "205",
+    "route_no": "205",
+    "origin": "Bansdroni",
+    "destination": "Babughat",
+    "distance_km": 38.8,
+    "avg_time_min": 93
+  },
+  {
+    "bus_no": "205",
+    "route_no": "205",
+    "origin": "Babughat",
+    "destination": "Bansdroni",
+    "distance_km": 38.8,
+    "avg_time_min": 93
+  },
+  {
+    "bus_no": "205A",
+    "route_no": "205A",
+    "origin": "Bansdroni",
+    "destination": "Babughat",
+    "distance_km": 5.2,
+    "avg_time_min": 12
+  },
+  {
+    "bus_no": "205A",
+    "route_no": "205A",
+    "origin": "Babughat",
+    "destination": "Bansdroni",
+    "distance_km": 5.2,
+    "avg_time_min": 12
+  },
+  {
+    "bus_no": "206",
+    "route_no": "206",
+    "origin": "New Garia Station",
+    "destination": "Salt Lake AJ Block",
+    "distance_km": 15.3,
+    "avg_time_min": 36
+  },
+  {
+    "bus_no": "206",
+    "route_no": "206",
+    "origin": "Salt Lake AJ Block",
+    "destination": "New Garia Station",
+    "distance_km": 15.3,
+    "avg_time_min": 36
+  },
+  {
+    "bus_no": "208",
+    "route_no": "208",
+    "origin": "Kudghat",
+    "destination": "Howrah Station",
+    "distance_km": 33.3,
+    "avg_time_min": 79
+  },
+  {
+    "bus_no": "208",
+    "route_no": "208",
+    "origin": "Howrah Station",
+    "destination": "Kudghat",
+    "distance_km": 33.3,
+    "avg_time_min": 79
+  },
+  {
+    "bus_no": "210",
+    "route_no": "210",
+    "origin": "Raichak",
+    "destination": "Esplanade",
+    "distance_km": 13.7,
+    "avg_time_min": 32
+  },
+  {
+    "bus_no": "210",
+    "route_no": "210",
+    "origin": "Esplanade",
+    "destination": "Raichak",
+    "distance_km": 13.7,
+    "avg_time_min": 32
+  },
+  {
+    "bus_no": "211",
+    "route_no": "211",
+    "origin": "Ahiritola",
+    "destination": "Kharibari",
+    "distance_km": 12.5,
+    "avg_time_min": 30
+  },
+  {
+    "bus_no": "211",
+    "route_no": "211",
+    "origin": "Kharibari",
+    "destination": "Ahiritola",
+    "distance_km": 12.5,
+    "avg_time_min": 30
+  },
+  {
+    "bus_no": "211",
+    "route_no": "211",
+    "origin": "Ahiritola",
+    "destination": "Patharghata",
+    "distance_km": 9.0,
+    "avg_time_min": 21
+  },
+  {
+    "bus_no": "211",
+    "route_no": "211",
+    "origin": "Patharghata",
+    "destination": "Ahiritola",
+    "distance_km": 9.0,
+    "avg_time_min": 21
+  },
+  {
+    "bus_no": "211A",
+    "route_no": "211A",
+    "origin": "Ahiritola",
+    "destination": "Langolpota",
+    "distance_km": 26.3,
+    "avg_time_min": 63
+  },
+  {
+    "bus_no": "211A",
+    "route_no": "211A",
+    "origin": "Langolpota",
+    "destination": "Ahiritola",
+    "distance_km": 26.3,
+    "avg_time_min": 63
+  },
+  {
+    "bus_no": "211B",
+    "route_no": "211B",
+    "origin": "Ahiritola",
+    "destination": "Ganraguri via Karunamoyee",
+    "distance_km": 24.1,
+    "avg_time_min": 57
+  },
+  {
+    "bus_no": "211B",
+    "route_no": "211B",
+    "origin": "Ganraguri via Karunamoyee",
+    "destination": "Ahiritola",
+    "distance_km": 24.1,
+    "avg_time_min": 57
+  },
+  {
+    "bus_no": "212",
+    "route_no": "212",
+    "origin": "Palbazar",
+    "destination": "Howrah Station",
+    "distance_km": 13.7,
+    "avg_time_min": 32
+  },
+  {
+    "bus_no": "212",
+    "route_no": "212",
+    "origin": "Howrah Station",
+    "destination": "Palbazar",
+    "distance_km": 13.7,
+    "avg_time_min": 32
+  },
+  {
+    "bus_no": "213",
+    "route_no": "213",
+    "origin": "Ghatakpukur",
+    "destination": "Babughat",
+    "distance_km": 6.9,
+    "avg_time_min": 16
+  },
+  {
+    "bus_no": "213",
+    "route_no": "213",
+    "origin": "Babughat",
+    "destination": "Ghatakpukur",
+    "distance_km": 6.9,
+    "avg_time_min": 16
+  },
+  {
+    "bus_no": "213/1",
+    "route_no": "213/1",
+    "origin": "Ghatakpukur",
+    "destination": "Botanical Garden",
+    "distance_km": 28.0,
+    "avg_time_min": 67
+  },
+  {
+    "bus_no": "213/1",
+    "route_no": "213/1",
+    "origin": "Botanical Garden",
+    "destination": "Ghatakpukur",
+    "distance_km": 28.0,
+    "avg_time_min": 67
+  },
+  {
+    "bus_no": "213A",
+    "route_no": "213A",
+    "origin": "Ghatakpukur",
+    "destination": "Narkeldanga",
+    "distance_km": 36.3,
+    "avg_time_min": 87
+  },
+  {
+    "bus_no": "213A",
+    "route_no": "213A",
+    "origin": "Narkeldanga",
+    "destination": "Ghatakpukur",
+    "distance_km": 36.3,
+    "avg_time_min": 87
+  },
+  {
+    "bus_no": "214",
+    "route_no": "214",
+    "origin": "Sajirhat",
+    "destination": "Esplanade",
+    "distance_km": 33.0,
+    "avg_time_min": 79
+  },
+  {
+    "bus_no": "214",
+    "route_no": "214",
+    "origin": "Esplanade",
+    "destination": "Sajirhat",
+    "distance_km": 33.0,
+    "avg_time_min": 79
+  },
+  {
+    "bus_no": "214A",
+    "route_no": "214A",
+    "origin": "Sodepur Girja",
+    "destination": "Esplanade",
+    "distance_km": 14.3,
+    "avg_time_min": 34
+  },
+  {
+    "bus_no": "214A",
+    "route_no": "214A",
+    "origin": "Esplanade",
+    "destination": "Sodepur Girja",
+    "distance_km": 14.3,
+    "avg_time_min": 34
+  },
+  {
+    "bus_no": "215",
+    "route_no": "215",
+    "origin": "Lake Town",
+    "destination": "Howrah Station",
+    "distance_km": 35.5,
+    "avg_time_min": 85
+  },
+  {
+    "bus_no": "215",
+    "route_no": "215",
+    "origin": "Howrah Station",
+    "destination": "Lake Town",
+    "distance_km": 35.5,
+    "avg_time_min": 85
+  },
+  {
+    "bus_no": "215/1",
+    "route_no": "215/1",
+    "origin": "Lake Town VIP More",
+    "destination": "Howrah Station",
+    "distance_km": 25.1,
+    "avg_time_min": 60
+  },
+  {
+    "bus_no": "215/1",
+    "route_no": "215/1",
+    "origin": "Howrah Station",
+    "destination": "Lake Town VIP More",
+    "distance_km": 25.1,
+    "avg_time_min": 60
+  },
+  {
+    "bus_no": "215A",
+    "route_no": "215A",
+    "origin": "Salt Lake Technopolis",
+    "destination": "Howrah Station",
+    "distance_km": 17.5,
+    "avg_time_min": 42
+  },
+  {
+    "bus_no": "215A",
+    "route_no": "215A",
+    "origin": "Howrah Station",
+    "destination": "Salt Lake Technopolis",
+    "distance_km": 17.5,
+    "avg_time_min": 42
+  },
+  {
+    "bus_no": "215A/1",
+    "route_no": "215A/1",
+    "origin": "Salt Lake Mahishbathan",
+    "destination": "Howrah Station",
+    "distance_km": 36.7,
+    "avg_time_min": 88
+  },
+  {
+    "bus_no": "215A/1",
+    "route_no": "215A/1",
+    "origin": "Howrah Station",
+    "destination": "Salt Lake Mahishbathan",
+    "distance_km": 36.7,
+    "avg_time_min": 88
+  },
+  {
+    "bus_no": "217",
+    "route_no": "217",
+    "origin": "Beraberi",
+    "destination": "Babughat",
+    "distance_km": 30.8,
+    "avg_time_min": 73
+  },
+  {
+    "bus_no": "217",
+    "route_no": "217",
+    "origin": "Babughat",
+    "destination": "Beraberi",
+    "distance_km": 30.8,
+    "avg_time_min": 73
+  },
+  {
+    "bus_no": "217A",
+    "route_no": "217A",
+    "origin": "Narayanpur",
+    "destination": "Babughat",
+    "distance_km": 11.5,
+    "avg_time_min": 27
+  },
+  {
+    "bus_no": "217A",
+    "route_no": "217A",
+    "origin": "Babughat",
+    "destination": "Narayanpur",
+    "distance_km": 11.5,
+    "avg_time_min": 27
+  },
+  {
+    "bus_no": "217B",
+    "route_no": "217B",
+    "origin": "Bablatala",
+    "destination": "Babughat",
+    "distance_km": 9.2,
+    "avg_time_min": 22
+  },
+  {
+    "bus_no": "217B",
+    "route_no": "217B",
+    "origin": "Babughat",
+    "destination": "Bablatala",
+    "distance_km": 9.2,
+    "avg_time_min": 22
+  },
+  {
+    "bus_no": "218",
+    "route_no": "218",
+    "origin": "Baruipur",
+    "destination": "Babughat",
+    "distance_km": 30.5,
+    "avg_time_min": 73
+  },
+  {
+    "bus_no": "218",
+    "route_no": "218",
+    "origin": "Babughat",
+    "destination": "Baruipur",
+    "distance_km": 30.5,
+    "avg_time_min": 73
+  },
+  {
+    "bus_no": "219",
+    "route_no": "219",
+    "origin": "Nagerbazar",
+    "destination": "Howrah Station",
+    "distance_km": 36.1,
+    "avg_time_min": 86
+  },
+  {
+    "bus_no": "219",
+    "route_no": "219",
+    "origin": "Howrah Station",
+    "destination": "Nagerbazar",
+    "distance_km": 36.1,
+    "avg_time_min": 86
+  },
+  {
+    "bus_no": "219/1",
+    "route_no": "219/1",
+    "origin": "Nagerbazar",
+    "destination": "Howrah Station",
+    "distance_km": 29.0,
+    "avg_time_min": 69
+  },
+  {
+    "bus_no": "219/1",
+    "route_no": "219/1",
+    "origin": "Howrah Station",
+    "destination": "Nagerbazar",
+    "distance_km": 29.0,
+    "avg_time_min": 69
+  },
+  {
+    "bus_no": "221",
+    "route_no": "221",
+    "origin": "Nagerbazar",
+    "destination": "Golpark",
+    "distance_km": 18.6,
+    "avg_time_min": 44
+  },
+  {
+    "bus_no": "221",
+    "route_no": "221",
+    "origin": "Golpark",
+    "destination": "Nagerbazar",
+    "distance_km": 18.6,
+    "avg_time_min": 44
+  },
+  {
+    "bus_no": "222",
+    "route_no": "222",
+    "origin": "Behala Chowrasta",
+    "destination": "Bonhooghly",
+    "distance_km": 23.2,
+    "avg_time_min": 55
+  },
+  {
+    "bus_no": "222",
+    "route_no": "222",
+    "origin": "Bonhooghly",
+    "destination": "Behala Chowrasta",
+    "distance_km": 23.2,
+    "avg_time_min": 55
+  },
+  {
+    "bus_no": "223",
+    "route_no": "223",
+    "origin": "B.T. College",
+    "destination": "Golf Green",
+    "distance_km": 37.2,
+    "avg_time_min": 89
+  },
+  {
+    "bus_no": "223",
+    "route_no": "223",
+    "origin": "Golf Green",
+    "destination": "B.T. College",
+    "distance_km": 37.2,
+    "avg_time_min": 89
+  },
+  {
+    "bus_no": "227",
+    "route_no": "227",
+    "origin": "B.N.R.",
+    "destination": "Bangur",
+    "distance_km": 22.2,
+    "avg_time_min": 53
+  },
+  {
+    "bus_no": "227",
+    "route_no": "227",
+    "origin": "Bangur",
+    "destination": "B.N.R.",
+    "distance_km": 22.2,
+    "avg_time_min": 53
+  },
+  {
+    "bus_no": "228",
+    "route_no": "228",
+    "origin": "Mahamayatala",
+    "destination": "Babughat",
+    "distance_km": 11.2,
+    "avg_time_min": 26
+  },
+  {
+    "bus_no": "228",
+    "route_no": "228",
+    "origin": "Babughat",
+    "destination": "Mahamayatala",
+    "distance_km": 11.2,
+    "avg_time_min": 26
+  },
+  {
+    "bus_no": "230",
+    "route_no": "230",
+    "origin": "Kamarhati",
+    "destination": "Alipore Zoo",
+    "distance_km": 16.0,
+    "avg_time_min": 38
+  },
+  {
+    "bus_no": "230",
+    "route_no": "230",
+    "origin": "Alipore Zoo",
+    "destination": "Kamarhati",
+    "distance_km": 16.0,
+    "avg_time_min": 38
+  },
+  {
+    "bus_no": "234",
+    "route_no": "234",
+    "origin": "Belghoria",
+    "destination": "Golf Green",
+    "distance_km": 12.7,
+    "avg_time_min": 30
+  },
+  {
+    "bus_no": "234",
+    "route_no": "234",
+    "origin": "Golf Green",
+    "destination": "Belghoria",
+    "distance_km": 12.7,
+    "avg_time_min": 30
+  },
+  {
+    "bus_no": "234/1",
+    "route_no": "234/1",
+    "origin": "Belghoria Station",
+    "destination": "Golf Green",
+    "distance_km": 23.8,
+    "avg_time_min": 57
+  },
+  {
+    "bus_no": "234/1",
+    "route_no": "234/1",
+    "origin": "Golf Green",
+    "destination": "Belghoria Station",
+    "distance_km": 23.8,
+    "avg_time_min": 57
+  },
+  {
+    "bus_no": "235",
+    "route_no": "235",
+    "origin": "Amtala",
+    "destination": "Salt Lake Karunamoyee",
+    "distance_km": 12.0,
+    "avg_time_min": 28
+  },
+  {
+    "bus_no": "235",
+    "route_no": "235",
+    "origin": "Salt Lake Karunamoyee",
+    "destination": "Amtala",
+    "distance_km": 12.0,
+    "avg_time_min": 28
+  },
+  {
+    "bus_no": "237",
+    "route_no": "237",
+    "origin": "Tantkal",
+    "destination": "Babughat",
+    "distance_km": 34.7,
+    "avg_time_min": 83
+  },
+  {
+    "bus_no": "237",
+    "route_no": "237",
+    "origin": "Babughat",
+    "destination": "Tantkal",
+    "distance_km": 34.7,
+    "avg_time_min": 83
+  },
+  {
+    "bus_no": "239",
+    "route_no": "239",
+    "origin": "Salt Lake Karunamoyee",
+    "destination": "Babughat",
+    "distance_km": 13.7,
+    "avg_time_min": 32
+  },
+  {
+    "bus_no": "239",
+    "route_no": "239",
+    "origin": "Babughat",
+    "destination": "Salt Lake Karunamoyee",
+    "distance_km": 13.7,
+    "avg_time_min": 32
+  },
+  {
+    "bus_no": "239B",
+    "route_no": "239B",
+    "origin": "Salt Lake Mahisbathan",
+    "destination": "Howrah Station",
+    "distance_km": 12.6,
+    "avg_time_min": 30
+  },
+  {
+    "bus_no": "239B",
+    "route_no": "239B",
+    "origin": "Howrah Station",
+    "destination": "Salt Lake Mahisbathan",
+    "distance_km": 12.6,
+    "avg_time_min": 30
+  },
+  {
+    "bus_no": "240",
+    "route_no": "240",
+    "origin": "Bagbazar",
+    "destination": "Jodhpur Park",
+    "distance_km": 27.5,
+    "avg_time_min": 66
+  },
+  {
+    "bus_no": "240",
+    "route_no": "240",
+    "origin": "Jodhpur Park",
+    "destination": "Bagbazar",
+    "distance_km": 27.5,
+    "avg_time_min": 66
+  },
+  {
+    "bus_no": "240/1",
+    "route_no": "240/1",
+    "origin": "Bagbazar",
+    "destination": "Golf Green",
+    "distance_km": 24.2,
+    "avg_time_min": 58
+  },
+  {
+    "bus_no": "240/1",
+    "route_no": "240/1",
+    "origin": "Golf Green",
+    "destination": "Bagbazar",
+    "distance_km": 24.2,
+    "avg_time_min": 58
+  },
+  {
+    "bus_no": "241",
+    "route_no": "241",
+    "origin": "Santoshpur Station",
+    "destination": "Esplanade",
+    "distance_km": 5.5,
+    "avg_time_min": 13
+  },
+  {
+    "bus_no": "241",
+    "route_no": "241",
+    "origin": "Esplanade",
+    "destination": "Santoshpur Station",
+    "distance_km": 5.5,
+    "avg_time_min": 13
+  },
+  {
+    "bus_no": "241A",
+    "route_no": "241A",
+    "origin": "Akrafatak",
+    "destination": "Sealdah",
+    "distance_km": 19.0,
+    "avg_time_min": 45
+  },
+  {
+    "bus_no": "241A",
+    "route_no": "241A",
+    "origin": "Sealdah",
+    "destination": "Akrafatak",
+    "distance_km": 19.0,
+    "avg_time_min": 45
+  },
+  {
+    "bus_no": "242",
+    "route_no": "242",
+    "origin": "Cossipore (4B Bus Stand)",
+    "destination": "Esplanade",
+    "distance_km": 26.9,
+    "avg_time_min": 64
+  },
+  {
+    "bus_no": "242",
+    "route_no": "242",
+    "origin": "Esplanade",
+    "destination": "Cossipore (4B Bus Stand)",
+    "distance_km": 26.9,
+    "avg_time_min": 64
+  },
+  {
+    "bus_no": "252",
+    "route_no": "252",
+    "origin": "Hasnabad",
+    "destination": "Esplanade",
+    "distance_km": 10.9,
+    "avg_time_min": 26
+  },
+  {
+    "bus_no": "252",
+    "route_no": "252",
+    "origin": "Esplanade",
+    "destination": "Hasnabad",
+    "distance_km": 10.9,
+    "avg_time_min": 26
+  },
+  {
+    "bus_no": "253",
+    "route_no": "253",
+    "origin": "Basirhat",
+    "destination": "Esplanade",
+    "distance_km": 32.9,
+    "avg_time_min": 78
+  },
+  {
+    "bus_no": "253",
+    "route_no": "253",
+    "origin": "Esplanade",
+    "destination": "Basirhat",
+    "distance_km": 32.9,
+    "avg_time_min": 78
+  },
+  {
+    "bus_no": "257",
+    "route_no": "257",
+    "origin": "Julpia",
+    "destination": "Kolkata Railway Station",
+    "distance_km": 8.3,
+    "avg_time_min": 19
+  },
+  {
+    "bus_no": "257",
+    "route_no": "257",
+    "origin": "Kolkata Railway Station",
+    "destination": "Julpia",
+    "distance_km": 8.3,
+    "avg_time_min": 19
+  },
+  {
+    "bus_no": "259",
+    "route_no": "259",
+    "origin": "Akra",
+    "destination": "Howrah Station",
+    "distance_km": 27.3,
+    "avg_time_min": 65
+  },
+  {
+    "bus_no": "259",
+    "route_no": "259",
+    "origin": "Howrah Station",
+    "destination": "Akra",
+    "distance_km": 27.3,
+    "avg_time_min": 65
+  },
+  {
+    "bus_no": "1",
+    "route_no": "1",
+    "origin": "Bandhaghat",
+    "destination": "Esplanade",
+    "distance_km": 30.0,
+    "avg_time_min": 72
+  },
+  {
+    "bus_no": "1",
+    "route_no": "1",
+    "origin": "Esplanade",
+    "destination": "Bandhaghat",
+    "distance_km": 30.0,
+    "avg_time_min": 72
+  },
+  {
+    "bus_no": "1A",
+    "route_no": "1A",
+    "origin": "Satyabala",
+    "destination": "Ruby Hospital",
+    "distance_km": 21.6,
+    "avg_time_min": 51
+  },
+  {
+    "bus_no": "1A",
+    "route_no": "1A",
+    "origin": "Ruby Hospital",
+    "destination": "Satyabala",
+    "distance_km": 21.6,
+    "avg_time_min": 51
+  },
+  {
+    "bus_no": "2",
+    "route_no": "2",
+    "origin": "Salkia",
+    "destination": "Esplanade",
+    "distance_km": 8.5,
+    "avg_time_min": 20
+  },
+  {
+    "bus_no": "2",
+    "route_no": "2",
+    "origin": "Esplanade",
+    "destination": "Salkia",
+    "distance_km": 8.5,
+    "avg_time_min": 20
+  },
+  {
+    "bus_no": "3",
+    "route_no": "3",
+    "origin": "Kadamtala",
+    "destination": "Esplanade",
+    "distance_km": 11.6,
+    "avg_time_min": 27
+  },
+  {
+    "bus_no": "3",
+    "route_no": "3",
+    "origin": "Esplanade",
+    "destination": "Kadamtala",
+    "distance_km": 11.6,
+    "avg_time_min": 27
+  },
+  {
+    "bus_no": "3A",
+    "route_no": "3A",
+    "origin": "Kamardanga",
+    "destination": "Esplanade",
+    "distance_km": 36.3,
+    "avg_time_min": 87
+  },
+  {
+    "bus_no": "3A",
+    "route_no": "3A",
+    "origin": "Esplanade",
+    "destination": "Kamardanga",
+    "distance_km": 36.3,
+    "avg_time_min": 87
+  },
+  {
+    "bus_no": "5",
+    "route_no": "5",
+    "origin": "Japanigate",
+    "destination": "Salt Lake Nicco Park",
+    "distance_km": 13.3,
+    "avg_time_min": 31
+  },
+  {
+    "bus_no": "5",
+    "route_no": "5",
+    "origin": "Salt Lake Nicco Park",
+    "destination": "Japanigate",
+    "distance_km": 13.3,
+    "avg_time_min": 31
+  },
+  {
+    "bus_no": "6",
+    "route_no": "6",
+    "origin": "Shibpur Botanical Garden",
+    "destination": "Esplanade",
+    "distance_km": 30.8,
+    "avg_time_min": 73
+  },
+  {
+    "bus_no": "6",
+    "route_no": "6",
+    "origin": "Esplanade",
+    "destination": "Shibpur Botanical Garden",
+    "distance_km": 30.8,
+    "avg_time_min": 73
+  },
+  {
+    "bus_no": "6A",
+    "route_no": "6A",
+    "origin": "Danesh Sheikh Lane",
+    "destination": "Esplanade",
+    "distance_km": 17.6,
+    "avg_time_min": 42
+  },
+  {
+    "bus_no": "6A",
+    "route_no": "6A",
+    "origin": "Esplanade",
+    "destination": "Danesh Sheikh Lane",
+    "distance_km": 17.6,
+    "avg_time_min": 42
+  },
+  {
+    "bus_no": "7",
+    "route_no": "7",
+    "origin": "Amtala O.P.",
+    "destination": "Shyambazar",
+    "distance_km": 31.4,
+    "avg_time_min": 75
+  },
+  {
+    "bus_no": "7",
+    "route_no": "7",
+    "origin": "Shyambazar",
+    "destination": "Amtala O.P.",
+    "distance_km": 31.4,
+    "avg_time_min": 75
+  },
+  {
+    "bus_no": "8",
+    "route_no": "8",
+    "origin": "Shibpur Tram Depot",
+    "destination": "Esplanade",
+    "distance_km": 27.4,
+    "avg_time_min": 65
+  },
+  {
+    "bus_no": "8",
+    "route_no": "8",
+    "origin": "Esplanade",
+    "destination": "Shibpur Tram Depot",
+    "distance_km": 27.4,
+    "avg_time_min": 65
+  },
+  {
+    "bus_no": "9",
+    "route_no": "9",
+    "origin": "Ramrajatala",
+    "destination": "Rajabazar",
+    "distance_km": 9.0,
+    "avg_time_min": 21
+  },
+  {
+    "bus_no": "9",
+    "route_no": "9",
+    "origin": "Rajabazar",
+    "destination": "Ramrajatala",
+    "distance_km": 9.0,
+    "avg_time_min": 21
+  },
+  {
+    "bus_no": "10",
+    "route_no": "10",
+    "origin": "Ballykhal",
+    "destination": "Khidderpore",
+    "distance_km": 20.4,
+    "avg_time_min": 48
+  },
+  {
+    "bus_no": "10",
+    "route_no": "10",
+    "origin": "Khidderpore",
+    "destination": "Ballykhal",
+    "distance_km": 20.4,
+    "avg_time_min": 48
+  },
+  {
+    "bus_no": "11",
+    "route_no": "11",
+    "origin": "Belur Math",
+    "destination": "Esplanade",
+    "distance_km": 11.8,
+    "avg_time_min": 28
+  },
+  {
+    "bus_no": "11",
+    "route_no": "11",
+    "origin": "Esplanade",
+    "destination": "Belur Math",
+    "distance_km": 11.8,
+    "avg_time_min": 28
+  },
+  {
+    "bus_no": "11A",
+    "route_no": "11A",
+    "origin": "Diamond Park",
+    "destination": "Howrah Maidan",
+    "distance_km": 40.0,
+    "avg_time_min": 96
+  },
+  {
+    "bus_no": "11A",
+    "route_no": "11A",
+    "origin": "Howrah Maidan",
+    "destination": "Diamond Park",
+    "distance_km": 40.0,
+    "avg_time_min": 96
+  },
+  {
+    "bus_no": "13",
+    "route_no": "13",
+    "origin": "Ranihati",
+    "destination": "Rajabazar",
+    "distance_km": 9.8,
+    "avg_time_min": 23
+  },
+  {
+    "bus_no": "13",
+    "route_no": "13",
+    "origin": "Rajabazar",
+    "destination": "Ranihati",
+    "distance_km": 9.8,
+    "avg_time_min": 23
+  },
+  {
+    "bus_no": "13A",
+    "route_no": "13A",
+    "origin": "Fatikgachi",
+    "destination": "Rajabazar",
+    "distance_km": 18.7,
+    "avg_time_min": 44
+  },
+  {
+    "bus_no": "13A",
+    "route_no": "13A",
+    "origin": "Rajabazar",
+    "destination": "Fatikgachi",
+    "distance_km": 18.7,
+    "avg_time_min": 44
+  },
+  {
+    "bus_no": "16",
+    "route_no": "16",
+    "origin": "Domjur",
+    "destination": "Howrah Station",
+    "distance_km": 26.4,
+    "avg_time_min": 63
+  },
+  {
+    "bus_no": "16",
+    "route_no": "16",
+    "origin": "Howrah Station",
+    "destination": "Domjur",
+    "distance_km": 26.4,
+    "avg_time_min": 63
+  },
+  {
+    "bus_no": "17",
+    "route_no": "17",
+    "origin": "Belgachia",
+    "destination": "Salt Lake Technopolis",
+    "distance_km": 13.0,
+    "avg_time_min": 31
+  },
+  {
+    "bus_no": "17",
+    "route_no": "17",
+    "origin": "Salt Lake Technopolis",
+    "destination": "Belgachia",
+    "distance_km": 13.0,
+    "avg_time_min": 31
+  },
+  {
+    "bus_no": "18",
+    "route_no": "18",
+    "origin": "Kona",
+    "destination": "Esplanade",
+    "distance_km": 16.7,
+    "avg_time_min": 40
+  },
+  {
+    "bus_no": "18",
+    "route_no": "18",
+    "origin": "Esplanade",
+    "destination": "Kona",
+    "distance_km": 16.7,
+    "avg_time_min": 40
+  },
+  {
+    "bus_no": "20",
+    "route_no": "20",
+    "origin": "Alampur",
+    "destination": "Ultadanga",
+    "distance_km": 27.7,
+    "avg_time_min": 66
+  },
+  {
+    "bus_no": "20",
+    "route_no": "20",
+    "origin": "Ultadanga",
+    "destination": "Alampur",
+    "distance_km": 27.7,
+    "avg_time_min": 66
+  },
+  {
+    "bus_no": "20A",
+    "route_no": "20A",
+    "origin": "Mourigram",
+    "destination": "Salt Lake Tank No.13",
+    "distance_km": 6.1,
+    "avg_time_min": 14
+  },
+  {
+    "bus_no": "20A",
+    "route_no": "20A",
+    "origin": "Salt Lake Tank No.13",
+    "destination": "Mourigram",
+    "distance_km": 6.1,
+    "avg_time_min": 14
+  },
+  {
+    "bus_no": "24",
+    "route_no": "24",
+    "origin": "Howrah Station",
+    "destination": "Sankrail",
+    "distance_km": 26.2,
+    "avg_time_min": 62
+  },
+  {
+    "bus_no": "24",
+    "route_no": "24",
+    "origin": "Sankrail",
+    "destination": "Howrah Station",
+    "distance_km": 26.2,
+    "avg_time_min": 62
+  },
+  {
+    "bus_no": "25",
+    "route_no": "25",
+    "origin": "Malipanchchghora",
+    "destination": "Rajabazar",
+    "distance_km": 7.5,
+    "avg_time_min": 18
+  },
+  {
+    "bus_no": "25",
+    "route_no": "25",
+    "origin": "Rajabazar",
+    "destination": "Malipanchchghora",
+    "distance_km": 7.5,
+    "avg_time_min": 18
+  },
+  {
+    "bus_no": "26",
+    "route_no": "26",
+    "origin": "Baksara",
+    "destination": "Esplanade",
+    "distance_km": 25.4,
+    "avg_time_min": 60
+  },
+  {
+    "bus_no": "26",
+    "route_no": "26",
+    "origin": "Esplanade",
+    "destination": "Baksara",
+    "distance_km": 25.4,
+    "avg_time_min": 60
+  },
+  {
+    "bus_no": "27",
+    "route_no": "27",
+    "origin": "Bankra",
+    "destination": "Park Circus",
+    "distance_km": 21.0,
+    "avg_time_min": 50
+  },
+  {
+    "bus_no": "27",
+    "route_no": "27",
+    "origin": "Park Circus",
+    "destination": "Bankra",
+    "distance_km": 21.0,
+    "avg_time_min": 50
+  },
+  {
+    "bus_no": "27A",
+    "route_no": "27A",
+    "origin": "Ruby Hospital",
+    "destination": "Howrah Maidan",
+    "distance_km": 34.4,
+    "avg_time_min": 82
+  },
+  {
+    "bus_no": "27A",
+    "route_no": "27A",
+    "origin": "Howrah Maidan",
+    "destination": "Ruby Hospital",
+    "distance_km": 34.4,
+    "avg_time_min": 82
+  },
+  {
+    "bus_no": "29",
+    "route_no": "29",
+    "origin": "Tikiapara",
+    "destination": "Salt Lake Technopolis",
+    "distance_km": 11.5,
+    "avg_time_min": 27
+  },
+  {
+    "bus_no": "29",
+    "route_no": "29",
+    "origin": "Salt Lake Technopolis",
+    "destination": "Tikiapara",
+    "distance_km": 11.5,
+    "avg_time_min": 27
+  },
+  {
+    "bus_no": "30",
+    "route_no": "30",
+    "origin": "Baluhati",
+    "destination": "Esplanade",
+    "distance_km": 23.1,
+    "avg_time_min": 55
+  },
+  {
+    "bus_no": "30",
+    "route_no": "30",
+    "origin": "Esplanade",
+    "destination": "Baluhati",
+    "distance_km": 23.1,
+    "avg_time_min": 55
+  },
+  {
+    "bus_no": "31",
+    "route_no": "31",
+    "origin": "Makardaha",
+    "destination": "Khidderpore",
+    "distance_km": 23.3,
+    "avg_time_min": 55
+  },
+  {
+    "bus_no": "31",
+    "route_no": "31",
+    "origin": "Khidderpore",
+    "destination": "Makardaha",
+    "distance_km": 23.3,
+    "avg_time_min": 55
+  },
+  {
+    "bus_no": "34",
+    "route_no": "34",
+    "origin": "Ghoradaha",
+    "destination": "Howrah Station",
+    "distance_km": 7.0,
+    "avg_time_min": 16
+  },
+  {
+    "bus_no": "34",
+    "route_no": "34",
+    "origin": "Howrah Station",
+    "destination": "Ghoradaha",
+    "distance_km": 7.0,
+    "avg_time_min": 16
+  },
+  {
+    "bus_no": "35",
+    "route_no": "35",
+    "origin": "Hatal",
+    "destination": "Howrah Station",
+    "distance_km": 26.7,
+    "avg_time_min": 64
+  },
+  {
+    "bus_no": "35",
+    "route_no": "35",
+    "origin": "Howrah Station",
+    "destination": "Hatal",
+    "distance_km": 26.7,
+    "avg_time_min": 64
+  },
+  {
+    "bus_no": "36",
+    "route_no": "36",
+    "origin": "Khandarghat",
+    "destination": "Howrah Station",
+    "distance_km": 39.4,
+    "avg_time_min": 94
+  },
+  {
+    "bus_no": "36",
+    "route_no": "36",
+    "origin": "Howrah Station",
+    "destination": "Khandarghat",
+    "distance_km": 39.4,
+    "avg_time_min": 94
+  },
+  {
+    "bus_no": "38",
+    "route_no": "38",
+    "origin": "Dasnagar",
+    "destination": "Esplanade",
+    "distance_km": 31.8,
+    "avg_time_min": 76
+  },
+  {
+    "bus_no": "38",
+    "route_no": "38",
+    "origin": "Esplanade",
+    "destination": "Dasnagar",
+    "distance_km": 31.8,
+    "avg_time_min": 76
+  },
+  {
+    "bus_no": "39",
+    "route_no": "39",
+    "origin": "Bhattanagar",
+    "destination": "Esplanade",
+    "distance_km": 15.8,
+    "avg_time_min": 37
+  },
+  {
+    "bus_no": "39",
+    "route_no": "39",
+    "origin": "Esplanade",
+    "destination": "Bhattanagar",
+    "distance_km": 15.8,
+    "avg_time_min": 37
+  },
+  {
+    "bus_no": "41",
+    "route_no": "41",
+    "origin": "Boalia",
+    "destination": "Matapara",
+    "distance_km": 34.6,
+    "avg_time_min": 83
+  },
+  {
+    "bus_no": "41",
+    "route_no": "41",
+    "origin": "Matapara",
+    "destination": "Boalia",
+    "distance_km": 34.6,
+    "avg_time_min": 83
+  },
+  {
+    "bus_no": "42",
+    "route_no": "42",
+    "origin": "Danesh Sheikh Lane",
+    "destination": "New Town",
+    "distance_km": 8.8,
+    "avg_time_min": 21
+  },
+  {
+    "bus_no": "42",
+    "route_no": "42",
+    "origin": "New Town",
+    "destination": "Danesh Sheikh Lane",
+    "distance_km": 8.8,
+    "avg_time_min": 21
+  },
+  {
+    "bus_no": "45",
+    "route_no": "45",
+    "origin": "Kadamtala",
+    "destination": "Garia Railway Station",
+    "distance_km": 38.8,
+    "avg_time_min": 93
+  },
+  {
+    "bus_no": "45",
+    "route_no": "45",
+    "origin": "Garia Railway Station",
+    "destination": "Kadamtala",
+    "distance_km": 38.8,
+    "avg_time_min": 93
+  },
+  {
+    "bus_no": "101",
+    "route_no": "101",
+    "origin": "Garia Bus Stand",
+    "destination": "B.B.D. Bagh",
+    "distance_km": 37.9,
+    "avg_time_min": 90
+  },
+  {
+    "bus_no": "101",
+    "route_no": "101",
+    "origin": "B.B.D. Bagh",
+    "destination": "Garia Bus Stand",
+    "distance_km": 37.9,
+    "avg_time_min": 90
+  },
+  {
+    "bus_no": "101/1",
+    "route_no": "101/1",
+    "origin": "Garia Railway Station",
+    "destination": "B.B.D. Bagh",
+    "distance_km": 5.1,
+    "avg_time_min": 12
+  },
+  {
+    "bus_no": "101/1",
+    "route_no": "101/1",
+    "origin": "B.B.D. Bagh",
+    "destination": "Garia Railway Station",
+    "distance_km": 5.1,
+    "avg_time_min": 12
+  },
+  {
+    "bus_no": "102",
+    "route_no": "102",
+    "origin": "Patuli",
+    "destination": "B.B.D. Bagh",
+    "distance_km": 29.6,
+    "avg_time_min": 71
+  },
+  {
+    "bus_no": "102",
+    "route_no": "102",
+    "origin": "B.B.D. Bagh",
+    "destination": "Patuli",
+    "distance_km": 29.6,
+    "avg_time_min": 71
+  },
+  {
+    "bus_no": "103",
+    "route_no": "103",
+    "origin": "Jadavpur",
+    "destination": "B.B.D. Bagh",
+    "distance_km": 12.4,
+    "avg_time_min": 29
+  },
+  {
+    "bus_no": "103",
+    "route_no": "103",
+    "origin": "B.B.D. Bagh",
+    "destination": "Jadavpur",
+    "distance_km": 12.4,
+    "avg_time_min": 29
+  },
+  {
+    "bus_no": "104",
+    "route_no": "104",
+    "origin": "Jodhpur Park",
+    "destination": "B.B.D.Bagh",
+    "distance_km": 33.5,
+    "avg_time_min": 80
+  },
+  {
+    "bus_no": "104",
+    "route_no": "104",
+    "origin": "B.B.D.Bagh",
+    "destination": "Jodhpur Park",
+    "distance_km": 33.5,
+    "avg_time_min": 80
+  },
+  {
+    "bus_no": "105",
+    "route_no": "105",
+    "origin": "Gangulypukur",
+    "destination": "B.B.D. Bag",
+    "distance_km": 25.6,
+    "avg_time_min": 61
+  },
+  {
+    "bus_no": "105",
+    "route_no": "105",
+    "origin": "B.B.D. Bag",
+    "destination": "Gangulypukur",
+    "distance_km": 25.6,
+    "avg_time_min": 61
+  },
+  {
+    "bus_no": "106",
+    "route_no": "106",
+    "origin": "Nayabad (Mukundapur)",
+    "destination": "B.B.D. Bagh",
+    "distance_km": 5.1,
+    "avg_time_min": 12
+  },
+  {
+    "bus_no": "106",
+    "route_no": "106",
+    "origin": "B.B.D. Bagh",
+    "destination": "Nayabad (Mukundapur)",
+    "distance_km": 5.1,
+    "avg_time_min": 12
+  },
+  {
+    "bus_no": "107",
+    "route_no": "107",
+    "origin": "Anandapur",
+    "destination": "Howrah Station",
+    "distance_km": 30.4,
+    "avg_time_min": 72
+  },
+  {
+    "bus_no": "107",
+    "route_no": "107",
+    "origin": "Howrah Station",
+    "destination": "Anandapur",
+    "distance_km": 30.4,
+    "avg_time_min": 72
+  },
+  {
+    "bus_no": "107/1",
+    "route_no": "107/1",
+    "origin": "Anandapur",
+    "destination": "Howrah Station",
+    "distance_km": 22.0,
+    "avg_time_min": 52
+  },
+  {
+    "bus_no": "107/1",
+    "route_no": "107/1",
+    "origin": "Howrah Station",
+    "destination": "Anandapur",
+    "distance_km": 22.0,
+    "avg_time_min": 52
+  },
+  {
+    "bus_no": "108",
+    "route_no": "108",
+    "origin": "Kasba Rathtala",
+    "destination": "Howrah Station",
+    "distance_km": 16.0,
+    "avg_time_min": 38
+  },
+  {
+    "bus_no": "108",
+    "route_no": "108",
+    "origin": "Howrah Station",
+    "destination": "Kasba Rathtala",
+    "distance_km": 16.0,
+    "avg_time_min": 38
+  },
+  {
+    "bus_no": "108/1",
+    "route_no": "108/1",
+    "origin": "Kasba Haltu P. Majumdar Road",
+    "destination": "Howrah Station",
+    "distance_km": 12.5,
+    "avg_time_min": 30
+  },
+  {
+    "bus_no": "108/1",
+    "route_no": "108/1",
+    "origin": "Howrah Station",
+    "destination": "Kasba Haltu P. Majumdar Road",
+    "distance_km": 12.5,
+    "avg_time_min": 30
+  },
+  {
+    "bus_no": "108/2",
+    "route_no": "108/2",
+    "origin": "Safuipara",
+    "destination": "Howrah Station",
+    "distance_km": 30.7,
+    "avg_time_min": 73
+  },
+  {
+    "bus_no": "108/2",
+    "route_no": "108/2",
+    "origin": "Howrah Station",
+    "destination": "Safuipara",
+    "distance_km": 30.7,
+    "avg_time_min": 73
+  },
+  {
+    "bus_no": "109",
+    "route_no": "109",
+    "origin": "Ekdalia Park",
+    "destination": "B.B.D. Bagh",
+    "distance_km": 27.3,
+    "avg_time_min": 65
+  },
+  {
+    "bus_no": "109",
+    "route_no": "109",
+    "origin": "B.B.D. Bagh",
+    "destination": "Ekdalia Park",
+    "distance_km": 27.3,
+    "avg_time_min": 65
+  },
+  {
+    "bus_no": "110",
+    "route_no": "110",
+    "origin": "Golf Green",
+    "destination": "Howrah Station",
+    "distance_km": 39.8,
+    "avg_time_min": 95
+  },
+  {
+    "bus_no": "110",
+    "route_no": "110",
+    "origin": "Howrah Station",
+    "destination": "Golf Green",
+    "distance_km": 39.8,
+    "avg_time_min": 95
+  },
+  {
+    "bus_no": "110",
+    "route_no": "110",
+    "origin": "Beckbagan",
+    "destination": "Howrah Station",
+    "distance_km": 38.0,
+    "avg_time_min": 91
+  },
+  {
+    "bus_no": "110",
+    "route_no": "110",
+    "origin": "Howrah Station",
+    "destination": "Beckbagan",
+    "distance_km": 38.0,
+    "avg_time_min": 91
+  },
+  {
+    "bus_no": "111",
+    "route_no": "111",
+    "origin": "Lake Road",
+    "destination": "Howrah Station",
+    "distance_km": 29.2,
+    "avg_time_min": 70
+  },
+  {
+    "bus_no": "111",
+    "route_no": "111",
+    "origin": "Howrah Station",
+    "destination": "Lake Road",
+    "distance_km": 29.2,
+    "avg_time_min": 70
+  },
+  {
+    "bus_no": "112",
+    "route_no": "112",
+    "origin": "Naktala / Boral /Garia Railway Station",
+    "destination": "Howrah Station",
+    "distance_km": 31.9,
+    "avg_time_min": 76
+  },
+  {
+    "bus_no": "112",
+    "route_no": "112",
+    "origin": "Howrah Station",
+    "destination": "Naktala / Boral /Garia Railway Station",
+    "distance_km": 31.9,
+    "avg_time_min": 76
+  },
+  {
+    "bus_no": "113",
+    "route_no": "113",
+    "origin": "Harinavi",
+    "destination": "Howrah Station",
+    "distance_km": 6.4,
+    "avg_time_min": 15
+  },
+  {
+    "bus_no": "113",
+    "route_no": "113",
+    "origin": "Howrah Station",
+    "destination": "Harinavi",
+    "distance_km": 6.4,
+    "avg_time_min": 15
+  },
+  {
+    "bus_no": "114",
+    "route_no": "114",
+    "origin": "Kudghat",
+    "destination": "B.B.D. Bag",
+    "distance_km": 34.4,
+    "avg_time_min": 82
+  },
+  {
+    "bus_no": "114",
+    "route_no": "114",
+    "origin": "B.B.D. Bag",
+    "destination": "Kudghat",
+    "distance_km": 34.4,
+    "avg_time_min": 82
+  },
+  {
+    "bus_no": "116",
+    "route_no": "116",
+    "origin": "Garia railway station",
+    "destination": "Howrah Station",
+    "distance_km": 25.0,
+    "avg_time_min": 60
+  },
+  {
+    "bus_no": "116",
+    "route_no": "116",
+    "origin": "Howrah Station",
+    "destination": "Garia railway station",
+    "distance_km": 25.0,
+    "avg_time_min": 60
+  },
+  {
+    "bus_no": "119",
+    "route_no": "119",
+    "origin": "Thakurpukur",
+    "destination": "Rajabazar",
+    "distance_km": 27.6,
+    "avg_time_min": 66
+  },
+  {
+    "bus_no": "119",
+    "route_no": "119",
+    "origin": "Rajabazar",
+    "destination": "Thakurpukur",
+    "distance_km": 27.6,
+    "avg_time_min": 66
+  },
+  {
+    "bus_no": "119/1",
+    "route_no": "119/1",
+    "origin": "Santragachi Station",
+    "destination": "B.B.D. Bagh",
+    "distance_km": 13.1,
+    "avg_time_min": 31
+  },
+  {
+    "bus_no": "119/1",
+    "route_no": "119/1",
+    "origin": "B.B.D. Bagh",
+    "destination": "Santragachi Station",
+    "distance_km": 13.1,
+    "avg_time_min": 31
+  },
+  {
+    "bus_no": "120",
+    "route_no": "120",
+    "origin": "Behala Chowrasta",
+    "destination": "B.B.D. Bagh",
+    "distance_km": 28.4,
+    "avg_time_min": 68
+  },
+  {
+    "bus_no": "120",
+    "route_no": "120",
+    "origin": "B.B.D. Bagh",
+    "destination": "Behala Chowrasta",
+    "distance_km": 28.4,
+    "avg_time_min": 68
+  },
+  {
+    "bus_no": "121",
+    "route_no": "121",
+    "origin": "Behala Chowrasta / Shakuntala Park",
+    "destination": "Howrah Station",
+    "distance_km": 13.9,
+    "avg_time_min": 33
+  },
+  {
+    "bus_no": "121",
+    "route_no": "121",
+    "origin": "Howrah Station",
+    "destination": "Behala Chowrasta / Shakuntala Park",
+    "distance_km": 13.9,
+    "avg_time_min": 33
+  },
+  {
+    "bus_no": "122",
+    "route_no": "122",
+    "origin": "Jadavpur",
+    "destination": "Salt Lake Purbachal",
+    "distance_km": 8.2,
+    "avg_time_min": 19
+  },
+  {
+    "bus_no": "122",
+    "route_no": "122",
+    "origin": "Salt Lake Purbachal",
+    "destination": "Jadavpur",
+    "distance_km": 8.2,
+    "avg_time_min": 19
+  },
+  {
+    "bus_no": "123",
+    "route_no": "123",
+    "origin": "Metiaburuz",
+    "destination": "Howrah Station",
+    "distance_km": 25.9,
+    "avg_time_min": 62
+  },
+  {
+    "bus_no": "123",
+    "route_no": "123",
+    "origin": "Howrah Station",
+    "destination": "Metiaburuz",
+    "distance_km": 25.9,
+    "avg_time_min": 62
+  },
+  {
+    "bus_no": "124",
+    "route_no": "124",
+    "origin": "Garia Railway Station",
+    "destination": "Howrah Station",
+    "distance_km": 31.2,
+    "avg_time_min": 74
+  },
+  {
+    "bus_no": "124",
+    "route_no": "124",
+    "origin": "Howrah Station",
+    "destination": "Garia Railway Station",
+    "distance_km": 31.2,
+    "avg_time_min": 74
+  },
+  {
+    "bus_no": "125",
+    "route_no": "125",
+    "origin": "Gulmath",
+    "destination": "Howrah Station",
+    "distance_km": 9.9,
+    "avg_time_min": 23
+  },
+  {
+    "bus_no": "125",
+    "route_no": "125",
+    "origin": "Howrah Station",
+    "destination": "Gulmath",
+    "distance_km": 9.9,
+    "avg_time_min": 23
+  },
+  {
+    "bus_no": "126",
+    "route_no": "126",
+    "origin": "Batanagar",
+    "destination": "Howrah Station",
+    "distance_km": 36.1,
+    "avg_time_min": 86
+  },
+  {
+    "bus_no": "126",
+    "route_no": "126",
+    "origin": "Howrah Station",
+    "destination": "Batanagar",
+    "distance_km": 36.1,
+    "avg_time_min": 86
+  },
+  {
+    "bus_no": "128",
+    "route_no": "128",
+    "origin": "Picnic Garden",
+    "destination": "Howrah Station",
+    "distance_km": 10.5,
+    "avg_time_min": 25
+  },
+  {
+    "bus_no": "128",
+    "route_no": "128",
+    "origin": "Howrah Station",
+    "destination": "Picnic Garden",
+    "distance_km": 10.5,
+    "avg_time_min": 25
+  },
+  {
+    "bus_no": "128A",
+    "route_no": "128A",
+    "origin": "Picnic Garden",
+    "destination": "Howrah Station",
+    "distance_km": 14.2,
+    "avg_time_min": 34
+  },
+  {
+    "bus_no": "128A",
+    "route_no": "128A",
+    "origin": "Howrah Station",
+    "destination": "Picnic Garden",
+    "distance_km": 14.2,
+    "avg_time_min": 34
+  },
+  {
+    "bus_no": "131",
+    "route_no": "131",
+    "origin": "Joka",
+    "destination": "Ruby Hospital",
+    "distance_km": 39.2,
+    "avg_time_min": 94
+  },
+  {
+    "bus_no": "131",
+    "route_no": "131",
+    "origin": "Ruby Hospital",
+    "destination": "Joka",
+    "distance_km": 39.2,
+    "avg_time_min": 94
+  },
+  {
+    "bus_no": "132",
+    "route_no": "132",
+    "origin": "Budge Budge (up to Dakghar)",
+    "destination": "B.B.D. Bagh",
+    "distance_km": 23.3,
+    "avg_time_min": 55
+  },
+  {
+    "bus_no": "132",
+    "route_no": "132",
+    "origin": "B.B.D. Bagh",
+    "destination": "Budge Budge (up to Dakghar)",
+    "distance_km": 23.3,
+    "avg_time_min": 55
+  },
+  {
+    "bus_no": "135",
+    "route_no": "135",
+    "origin": "Baishnabghata",
+    "destination": "Howrah Maidan",
+    "distance_km": 35.6,
+    "avg_time_min": 85
+  },
+  {
+    "bus_no": "135",
+    "route_no": "135",
+    "origin": "Howrah Maidan",
+    "destination": "Baishnabghata",
+    "distance_km": 35.6,
+    "avg_time_min": 85
+  },
+  {
+    "bus_no": "137",
+    "route_no": "137",
+    "origin": "Prince Anwar Shah Road",
+    "destination": "Nimtala",
+    "distance_km": 31.4,
+    "avg_time_min": 75
+  },
+  {
+    "bus_no": "137",
+    "route_no": "137",
+    "origin": "Nimtala",
+    "destination": "Prince Anwar Shah Road",
+    "distance_km": 31.4,
+    "avg_time_min": 75
+  },
+  {
+    "bus_no": "138",
+    "route_no": "138",
+    "origin": "Jadavpur",
+    "destination": "Airport Gate No.1",
+    "distance_km": 10.0,
+    "avg_time_min": 24
+  },
+  {
+    "bus_no": "138",
+    "route_no": "138",
+    "origin": "Airport Gate No.1",
+    "destination": "Jadavpur",
+    "distance_km": 10.0,
+    "avg_time_min": 24
+  },
+  {
+    "bus_no": "139",
+    "route_no": "139",
+    "origin": "Bagbazar",
+    "destination": "Babughat",
+    "distance_km": 27.5,
+    "avg_time_min": 66
+  },
+  {
+    "bus_no": "139",
+    "route_no": "139",
+    "origin": "Babughat",
+    "destination": "Bagbazar",
+    "distance_km": 27.5,
+    "avg_time_min": 66
+  },
+  {
+    "bus_no": "139/1",
+    "route_no": "139/1",
+    "origin": "Salt Lake Technopolis",
+    "destination": "Exide",
+    "distance_km": 20.0,
+    "avg_time_min": 48
+  },
+  {
+    "bus_no": "139/1",
+    "route_no": "139/1",
+    "origin": "Exide",
+    "destination": "Salt Lake Technopolis",
+    "distance_km": 20.0,
+    "avg_time_min": 48
+  },
+  {
+    "bus_no": "151",
+    "route_no": "151",
+    "origin": "Airport Gate No.1",
+    "destination": "B.B.D. Bagh",
+    "distance_km": 7.9,
+    "avg_time_min": 18
+  },
+  {
+    "bus_no": "151",
+    "route_no": "151",
+    "origin": "B.B.D. Bagh",
+    "destination": "Airport Gate No.1",
+    "distance_km": 7.9,
+    "avg_time_min": 18
+  },
+  {
+    "bus_no": "152",
+    "route_no": "152",
+    "origin": "Baguihati",
+    "destination": "B.B.D. Bagh",
+    "distance_km": 25.5,
+    "avg_time_min": 61
+  },
+  {
+    "bus_no": "152",
+    "route_no": "152",
+    "origin": "B.B.D. Bagh",
+    "destination": "Baguihati",
+    "distance_km": 25.5,
+    "avg_time_min": 61
+  },
+  {
+    "bus_no": "158",
+    "route_no": "158",
+    "origin": "Dakshineshwar",
+    "destination": "Babughat",
+    "distance_km": 23.6,
+    "avg_time_min": 56
+  },
+  {
+    "bus_no": "158",
+    "route_no": "158",
+    "origin": "Babughat",
+    "destination": "Dakshineshwar",
+    "distance_km": 23.6,
+    "avg_time_min": 56
+  },
+  {
+    "bus_no": "159",
+    "route_no": "159",
+    "origin": "Dunlop",
+    "destination": "B.B.D. Bagh",
+    "distance_km": 5.8,
+    "avg_time_min": 13
+  },
+  {
+    "bus_no": "159",
+    "route_no": "159",
+    "origin": "B.B.D. Bagh",
+    "destination": "Dunlop",
+    "distance_km": 5.8,
+    "avg_time_min": 13
+  },
+  {
+    "bus_no": "160",
+    "route_no": "160",
+    "origin": "Central Jail",
+    "destination": "Esplanade",
+    "distance_km": 23.5,
+    "avg_time_min": 56
+  },
+  {
+    "bus_no": "160",
+    "route_no": "160",
+    "origin": "Esplanade",
+    "destination": "Central Jail",
+    "distance_km": 23.5,
+    "avg_time_min": 56
+  },
+  {
+    "bus_no": "161",
+    "route_no": "161",
+    "origin": "Metiaburuz",
+    "destination": "Shyambazar",
+    "distance_km": 6.8,
+    "avg_time_min": 16
+  },
+  {
+    "bus_no": "161",
+    "route_no": "161",
+    "origin": "Shyambazar",
+    "destination": "Metiaburuz",
+    "distance_km": 6.8,
+    "avg_time_min": 16
+  },
+  {
+    "bus_no": "163",
+    "route_no": "163",
+    "origin": "Shyambazar",
+    "destination": "B.B.D. Bagh",
+    "distance_km": 33.2,
+    "avg_time_min": 79
+  },
+  {
+    "bus_no": "163",
+    "route_no": "163",
+    "origin": "B.B.D. Bagh",
+    "destination": "Shyambazar",
+    "distance_km": 33.2,
+    "avg_time_min": 79
+  },
+  {
+    "bus_no": "164",
+    "route_no": "164",
+    "origin": "Tobin Road",
+    "destination": "B.B.D. Bagh",
+    "distance_km": 19.2,
+    "avg_time_min": 46
+  },
+  {
+    "bus_no": "164",
+    "route_no": "164",
+    "origin": "B.B.D. Bagh",
+    "destination": "Tobin Road",
+    "distance_km": 19.2,
+    "avg_time_min": 46
+  },
+  {
+    "bus_no": "165",
+    "route_no": "165",
+    "origin": "Phoolbagan",
+    "destination": "Howrah Station",
+    "distance_km": 39.5,
+    "avg_time_min": 94
+  },
+  {
+    "bus_no": "165",
+    "route_no": "165",
+    "origin": "Howrah Station",
+    "destination": "Phoolbagan",
+    "distance_km": 39.5,
+    "avg_time_min": 94
+  },
+  {
+    "bus_no": "166",
+    "route_no": "166",
+    "origin": "Tangra / Dhapa",
+    "destination": "Howrah Station",
+    "distance_km": 29.7,
+    "avg_time_min": 71
+  },
+  {
+    "bus_no": "166",
+    "route_no": "166",
+    "origin": "Howrah Station",
+    "destination": "Tangra / Dhapa",
+    "distance_km": 29.7,
+    "avg_time_min": 71
+  },
+  {
+    "bus_no": "167",
+    "route_no": "167",
+    "origin": "Salt Lake",
+    "destination": "B.B.D. Bagh",
+    "distance_km": 22.7,
+    "avg_time_min": 54
+  },
+  {
+    "bus_no": "167",
+    "route_no": "167",
+    "origin": "B.B.D. Bagh",
+    "destination": "Salt Lake",
+    "distance_km": 22.7,
+    "avg_time_min": 54
+  },
+  {
+    "bus_no": "168",
+    "route_no": "168",
+    "origin": "Nagerbazar",
+    "destination": "Howrah Station",
+    "distance_km": 27.2,
+    "avg_time_min": 65
+  },
+  {
+    "bus_no": "168",
+    "route_no": "168",
+    "origin": "Howrah Station",
+    "destination": "Nagerbazar",
+    "distance_km": 27.2,
+    "avg_time_min": 65
+  },
+  {
+    "bus_no": "171",
+    "route_no": "171",
+    "origin": "Salt Lake Karunamoyee",
+    "destination": "Howrah Station",
+    "distance_km": 21.6,
+    "avg_time_min": 51
+  },
+  {
+    "bus_no": "171",
+    "route_no": "171",
+    "origin": "Howrah Station",
+    "destination": "Salt Lake Karunamoyee",
+    "distance_km": 21.6,
+    "avg_time_min": 51
+  },
+  {
+    "bus_no": "172",
+    "route_no": "172",
+    "origin": "Teghoria",
+    "destination": "Howrah Maidan",
+    "distance_km": 28.3,
+    "avg_time_min": 67
+  },
+  {
+    "bus_no": "172",
+    "route_no": "172",
+    "origin": "Howrah Maidan",
+    "destination": "Teghoria",
+    "distance_km": 28.3,
+    "avg_time_min": 67
+  },
+  {
+    "bus_no": "173",
+    "route_no": "173",
+    "origin": "Salt Lake",
+    "destination": "Howrah Station",
+    "distance_km": 9.8,
+    "avg_time_min": 23
+  },
+  {
+    "bus_no": "173",
+    "route_no": "173",
+    "origin": "Howrah Station",
+    "destination": "Salt Lake",
+    "distance_km": 9.8,
+    "avg_time_min": 23
+  },
+  {
+    "bus_no": "175",
+    "route_no": "175",
+    "origin": "New Barrackpore Station",
+    "destination": "Howrah Station",
+    "distance_km": 37.4,
+    "avg_time_min": 89
+  },
+  {
+    "bus_no": "175",
+    "route_no": "175",
+    "origin": "Howrah Station",
+    "destination": "New Barrackpore Station",
+    "distance_km": 37.4,
+    "avg_time_min": 89
+  },
+  {
+    "bus_no": "176",
+    "route_no": "176",
+    "origin": "Shyambazar",
+    "destination": "Howrah Maidan",
+    "distance_km": 18.3,
+    "avg_time_min": 43
+  },
+  {
+    "bus_no": "176",
+    "route_no": "176",
+    "origin": "Howrah Maidan",
+    "destination": "Shyambazar",
+    "distance_km": 18.3,
+    "avg_time_min": 43
+  },
+  {
+    "bus_no": "178",
+    "route_no": "178",
+    "origin": "Behala 14 No.",
+    "destination": "Rajabazar",
+    "distance_km": 12.3,
+    "avg_time_min": 29
+  },
+  {
+    "bus_no": "178",
+    "route_no": "178",
+    "origin": "Rajabazar",
+    "destination": "Behala 14 No.",
+    "distance_km": 12.3,
+    "avg_time_min": 29
+  },
+  {
+    "bus_no": "180",
+    "route_no": "180",
+    "origin": "Belghoria",
+    "destination": "Howrah Fire Service Station",
+    "distance_km": 23.4,
+    "avg_time_min": 56
+  },
+  {
+    "bus_no": "180",
+    "route_no": "180",
+    "origin": "Howrah Fire Service Station",
+    "destination": "Belghoria",
+    "distance_km": 23.4,
+    "avg_time_min": 56
+  },
+  {
+    "bus_no": "181",
+    "route_no": "181",
+    "origin": "Ariadaha",
+    "destination": "Babughat",
+    "distance_km": 33.8,
+    "avg_time_min": 81
+  },
+  {
+    "bus_no": "181",
+    "route_no": "181",
+    "origin": "Babughat",
+    "destination": "Ariadaha",
+    "distance_km": 33.8,
+    "avg_time_min": 81
+  },
+  {
+    "bus_no": "184",
+    "route_no": "184",
+    "origin": "Birati",
+    "destination": "B.B.D. Bagh",
+    "distance_km": 27.8,
+    "avg_time_min": 66
+  },
+  {
+    "bus_no": "184",
+    "route_no": "184",
+    "origin": "B.B.D. Bagh",
+    "destination": "Birati",
+    "distance_km": 27.8,
+    "avg_time_min": 66
+  },
+  {
+    "bus_no": "185",
+    "route_no": "185",
+    "origin": "Nimta",
+    "destination": "Howrah Station",
+    "distance_km": 12.4,
+    "avg_time_min": 29
+  },
+  {
+    "bus_no": "185",
+    "route_no": "185",
+    "origin": "Howrah Station",
+    "destination": "Nimta",
+    "distance_km": 12.4,
+    "avg_time_min": 29
+  },
+  {
+    "bus_no": "186",
+    "route_no": "186",
+    "origin": "Uttar Panchannagram",
+    "destination": "Howrah Station",
+    "distance_km": 21.9,
+    "avg_time_min": 52
+  },
+  {
+    "bus_no": "186",
+    "route_no": "186",
+    "origin": "Howrah Station",
+    "destination": "Uttar Panchannagram",
+    "distance_km": 21.9,
+    "avg_time_min": 52
+  },
+  {
+    "bus_no": "188",
+    "route_no": "188",
+    "origin": "Silpara",
+    "destination": "Beliaghata CIT More",
+    "distance_km": 25.3,
+    "avg_time_min": 60
+  },
+  {
+    "bus_no": "188",
+    "route_no": "188",
+    "origin": "Beliaghata CIT More",
+    "destination": "Silpara",
+    "distance_km": 25.3,
+    "avg_time_min": 60
+  },
+  {
+    "bus_no": "189",
+    "route_no": "189",
+    "origin": "Kolkata Railway Station",
+    "destination": "Howrah Maidan",
+    "distance_km": 30.1,
+    "avg_time_min": 72
+  },
+  {
+    "bus_no": "189",
+    "route_no": "189",
+    "origin": "Howrah Maidan",
+    "destination": "Kolkata Railway Station",
+    "distance_km": 30.1,
+    "avg_time_min": 72
+  },
+  {
+    "bus_no": "KS1",
+    "route_no": "KS1",
+    "origin": "Sarada Park (Bener Dokan)",
+    "destination": "Anandapur (Ruby)",
+    "distance_km": 24.6,
+    "avg_time_min": 59
+  },
+  {
+    "bus_no": "KS1",
+    "route_no": "KS1",
+    "origin": "Anandapur (Ruby)",
+    "destination": "Sarada Park (Bener Dokan)",
+    "distance_km": 24.6,
+    "avg_time_min": 59
+  },
+  {
+    "bus_no": "M8/1",
+    "route_no": "M8/1",
+    "origin": "Sonarpur Station",
+    "destination": "Aurobindo Setu",
+    "distance_km": 7.0,
+    "avg_time_min": 16
+  },
+  {
+    "bus_no": "M8/1",
+    "route_no": "M8/1",
+    "origin": "Aurobindo Setu",
+    "destination": "Sonarpur Station",
+    "distance_km": 7.0,
+    "avg_time_min": 16
+  },
+  {
+    "bus_no": "M10",
+    "route_no": "M10",
+    "origin": "Diamond Harbour",
+    "destination": "Raidighi",
+    "distance_km": 25.6,
+    "avg_time_min": 61
+  },
+  {
+    "bus_no": "M10",
+    "route_no": "M10",
+    "origin": "Raidighi",
+    "destination": "Diamond Harbour",
+    "distance_km": 25.6,
+    "avg_time_min": 61
+  },
+  {
+    "bus_no": "M13",
+    "route_no": "M13",
+    "origin": "Baruipur",
+    "destination": "Canning",
+    "distance_km": 19.0,
+    "avg_time_min": 45
+  },
+  {
+    "bus_no": "M13",
+    "route_no": "M13",
+    "origin": "Canning",
+    "destination": "Baruipur",
+    "distance_km": 19.0,
+    "avg_time_min": 45
+  },
+  {
+    "bus_no": "M14",
+    "route_no": "M14",
+    "origin": "Chattabazar",
+    "destination": "Howrah Station",
+    "distance_km": 8.1,
+    "avg_time_min": 19
+  },
+  {
+    "bus_no": "M14",
+    "route_no": "M14",
+    "origin": "Howrah Station",
+    "destination": "Chattabazar",
+    "distance_km": 8.1,
+    "avg_time_min": 19
+  },
+  {
+    "bus_no": "M15",
+    "route_no": "M15",
+    "origin": "Falta Sector 1",
+    "destination": "Bijoyganj (Lakshmikantapur)",
+    "distance_km": 22.8,
+    "avg_time_min": 54
+  },
+  {
+    "bus_no": "M15",
+    "route_no": "M15",
+    "origin": "Bijoyganj (Lakshmikantapur)",
+    "destination": "Falta Sector 1",
+    "distance_km": 22.8,
+    "avg_time_min": 54
+  },
+  {
+    "bus_no": "M16",
+    "route_no": "M16",
+    "origin": "Burul",
+    "destination": "Radhanagar",
+    "distance_km": 18.0,
+    "avg_time_min": 43
+  },
+  {
+    "bus_no": "M16",
+    "route_no": "M16",
+    "origin": "Radhanagar",
+    "destination": "Burul",
+    "distance_km": 18.0,
+    "avg_time_min": 43
+  },
+  {
+    "bus_no": "MM3",
+    "route_no": "MM3",
+    "origin": "Dakshineshwar",
+    "destination": "Duttapukur",
+    "distance_km": 12.3,
+    "avg_time_min": 29
+  },
+  {
+    "bus_no": "MM3",
+    "route_no": "MM3",
+    "origin": "Duttapukur",
+    "destination": "Dakshineshwar",
+    "distance_km": 12.3,
+    "avg_time_min": 29
+  },
+  {
+    "bus_no": "MM6",
+    "route_no": "MM6",
+    "origin": "Jafarpur",
+    "destination": "Chakla",
+    "distance_km": 28.6,
+    "avg_time_min": 68
+  },
+  {
+    "bus_no": "MM6",
+    "route_no": "MM6",
+    "origin": "Chakla",
+    "destination": "Jafarpur",
+    "distance_km": 28.6,
+    "avg_time_min": 68
+  },
+  {
+    "bus_no": "MM7",
+    "route_no": "MM7",
+    "origin": "Nabatkati",
+    "destination": "Dhamakhali",
+    "distance_km": 25.2,
+    "avg_time_min": 60
+  },
+  {
+    "bus_no": "MM7",
+    "route_no": "MM7",
+    "origin": "Dhamakhali",
+    "destination": "Nabatkati",
+    "distance_km": 25.2,
+    "avg_time_min": 60
+  },
+  {
+    "bus_no": "MN2",
+    "route_no": "MN2",
+    "origin": "Hasnabad",
+    "destination": "Lebukhali",
+    "distance_km": 9.6,
+    "avg_time_min": 23
+  },
+  {
+    "bus_no": "MN2",
+    "route_no": "MN2",
+    "origin": "Lebukhali",
+    "destination": "Hasnabad",
+    "distance_km": 9.6,
+    "avg_time_min": 23
+  },
+  {
+    "bus_no": "MN3",
+    "route_no": "MN3",
+    "origin": "Barasat",
+    "destination": "Nahata",
+    "distance_km": 10.7,
+    "avg_time_min": 25
+  },
+  {
+    "bus_no": "MN3",
+    "route_no": "MN3",
+    "origin": "Nahata",
+    "destination": "Barasat",
+    "distance_km": 10.7,
+    "avg_time_min": 25
+  },
+  {
+    "bus_no": "MN6",
+    "route_no": "MN6",
+    "origin": "Barasat",
+    "destination": "Beri Gopalpur Ghat \n \nKB Series",
+    "distance_km": 16.2,
+    "avg_time_min": 38
+  },
+  {
+    "bus_no": "MN6",
+    "route_no": "MN6",
+    "origin": "Beri Gopalpur Ghat \n \nKB Series",
+    "destination": "Barasat",
+    "distance_km": 16.2,
+    "avg_time_min": 38
+  },
+  {
+    "bus_no": "KB12",
+    "route_no": "KB12",
+    "origin": "Rabindra Nagar",
+    "destination": "Balaka Abasan",
+    "distance_km": 16.1,
+    "avg_time_min": 38
+  },
+  {
+    "bus_no": "KB12",
+    "route_no": "KB12",
+    "origin": "Balaka Abasan",
+    "destination": "Rabindra Nagar",
+    "distance_km": 16.1,
+    "avg_time_min": 38
+  },
+  {
+    "bus_no": "KB14",
+    "route_no": "KB14",
+    "origin": "New Barrackpore APC College Krishi Auditorium",
+    "destination": "Chingrighata",
+    "distance_km": 38.2,
+    "avg_time_min": 91
+  },
+  {
+    "bus_no": "KB14",
+    "route_no": "KB14",
+    "origin": "Chingrighata",
+    "destination": "New Barrackpore APC College Krishi Auditorium",
+    "distance_km": 38.2,
+    "avg_time_min": 91
+  },
+  {
+    "bus_no": "KB16",
+    "route_no": "KB16",
+    "origin": "Bangur",
+    "destination": "Sapoorji Estate",
+    "distance_km": 17.3,
+    "avg_time_min": 41
+  },
+  {
+    "bus_no": "KB16",
+    "route_no": "KB16",
+    "origin": "Sapoorji Estate",
+    "destination": "Bangur",
+    "distance_km": 17.3,
+    "avg_time_min": 41
+  },
+  {
+    "bus_no": "KB17",
+    "route_no": "KB17",
+    "origin": "Sonarpur Arapanch Bazar",
+    "destination": "Salt Lake Karunamoyee",
+    "distance_km": 11.7,
+    "avg_time_min": 28
+  },
+  {
+    "bus_no": "KB17",
+    "route_no": "KB17",
+    "origin": "Salt Lake Karunamoyee",
+    "destination": "Sonarpur Arapanch Bazar",
+    "distance_km": 11.7,
+    "avg_time_min": 28
+  },
+  {
+    "bus_no": "KB20",
+    "route_no": "KB20",
+    "origin": "Jagadishpur",
+    "destination": "Kolkata Railway Station",
+    "distance_km": 8.1,
+    "avg_time_min": 19
+  },
+  {
+    "bus_no": "KB20",
+    "route_no": "KB20",
+    "origin": "Kolkata Railway Station",
+    "destination": "Jagadishpur",
+    "distance_km": 8.1,
+    "avg_time_min": 19
+  },
+  {
+    "bus_no": "KB21",
+    "route_no": "KB21",
+    "origin": "Ganganagar Julian Day School",
+    "destination": "Bantala Bazar \n \nDN Series",
+    "distance_km": 9.6,
+    "avg_time_min": 23
+  },
+  {
+    "bus_no": "KB21",
+    "route_no": "KB21",
+    "origin": "Bantala Bazar \n \nDN Series",
+    "destination": "Ganganagar Julian Day School",
+    "distance_km": 9.6,
+    "avg_time_min": 23
+  },
+  {
+    "bus_no": "DN2",
+    "route_no": "DN2",
+    "origin": "Barasat",
+    "destination": "Dakshineshwar",
+    "distance_km": 7.8,
+    "avg_time_min": 18
+  },
+  {
+    "bus_no": "DN2",
+    "route_no": "DN2",
+    "origin": "Dakshineshwar",
+    "destination": "Barasat",
+    "distance_km": 7.8,
+    "avg_time_min": 18
+  },
+  {
+    "bus_no": "DN2/1",
+    "route_no": "DN2/1",
+    "origin": "Dakshineshwar",
+    "destination": "Sapoorji Estate",
+    "distance_km": 17.8,
+    "avg_time_min": 42
+  },
+  {
+    "bus_no": "DN2/1",
+    "route_no": "DN2/1",
+    "origin": "Sapoorji Estate",
+    "destination": "Dakshineshwar",
+    "distance_km": 17.8,
+    "avg_time_min": 42
+  },
+  {
+    "bus_no": "DN5",
+    "route_no": "DN5",
+    "origin": "Barasat",
+    "destination": "Naihati",
+    "distance_km": 32.0,
+    "avg_time_min": 76
+  },
+  {
+    "bus_no": "DN5",
+    "route_no": "DN5",
+    "origin": "Naihati",
+    "destination": "Barasat",
+    "distance_km": 32.0,
+    "avg_time_min": 76
+  },
+  {
+    "bus_no": "DN8",
+    "route_no": "DN8",
+    "origin": "Barasat Checkpost",
+    "destination": "Salt Lake Karunamoyee",
+    "distance_km": 35.9,
+    "avg_time_min": 86
+  },
+  {
+    "bus_no": "DN8",
+    "route_no": "DN8",
+    "origin": "Salt Lake Karunamoyee",
+    "destination": "Barasat Checkpost",
+    "distance_km": 35.9,
+    "avg_time_min": 86
+  },
+  {
+    "bus_no": "DN9",
+    "route_no": "DN9",
+    "origin": "Barasat",
+    "destination": "Dakshineshwar Via Ganganagar",
+    "distance_km": 8.2,
+    "avg_time_min": 19
+  },
+  {
+    "bus_no": "DN9",
+    "route_no": "DN9",
+    "origin": "Dakshineshwar Via Ganganagar",
+    "destination": "Barasat",
+    "distance_km": 8.2,
+    "avg_time_min": 19
+  },
+  {
+    "bus_no": "DN9/1",
+    "route_no": "DN9/1",
+    "origin": "Barasat",
+    "destination": "Dakshineshwar",
+    "distance_km": 38.4,
+    "avg_time_min": 92
+  },
+  {
+    "bus_no": "DN9/1",
+    "route_no": "DN9/1",
+    "origin": "Dakshineshwar",
+    "destination": "Barasat",
+    "distance_km": 38.4,
+    "avg_time_min": 92
+  },
+  {
+    "bus_no": "DN12",
+    "route_no": "DN12",
+    "origin": "Bongaon",
+    "destination": "Basirhat",
+    "distance_km": 26.4,
+    "avg_time_min": 63
+  },
+  {
+    "bus_no": "DN12",
+    "route_no": "DN12",
+    "origin": "Basirhat",
+    "destination": "Bongaon",
+    "distance_km": 26.4,
+    "avg_time_min": 63
+  },
+  {
+    "bus_no": "DN12/1",
+    "route_no": "DN12/1",
+    "origin": "Habra",
+    "destination": "Nazat",
+    "distance_km": 10.6,
+    "avg_time_min": 25
+  },
+  {
+    "bus_no": "DN12/1",
+    "route_no": "DN12/1",
+    "origin": "Nazat",
+    "destination": "Habra",
+    "distance_km": 10.6,
+    "avg_time_min": 25
+  },
+  {
+    "bus_no": "DN16/1",
+    "route_no": "DN16/1",
+    "origin": "Barasat",
+    "destination": "Dhamakhali/Malancha",
+    "distance_km": 5.6,
+    "avg_time_min": 13
+  },
+  {
+    "bus_no": "DN16/1",
+    "route_no": "DN16/1",
+    "origin": "Dhamakhali/Malancha",
+    "destination": "Barasat",
+    "distance_km": 5.6,
+    "avg_time_min": 13
+  },
+  {
+    "bus_no": "DN17",
+    "route_no": "DN17",
+    "origin": "Barasat",
+    "destination": "Babughat",
+    "distance_km": 8.9,
+    "avg_time_min": 21
+  },
+  {
+    "bus_no": "DN17",
+    "route_no": "DN17",
+    "origin": "Babughat",
+    "destination": "Barasat",
+    "distance_km": 8.9,
+    "avg_time_min": 21
+  },
+  {
+    "bus_no": "DN18",
+    "route_no": "DN18",
+    "origin": "Shyambazar",
+    "destination": "Basirhat/Baduria/Hasnabad",
+    "distance_km": 38.0,
+    "avg_time_min": 91
+  },
+  {
+    "bus_no": "DN18",
+    "route_no": "DN18",
+    "origin": "Basirhat/Baduria/Hasnabad",
+    "destination": "Shyambazar",
+    "distance_km": 38.0,
+    "avg_time_min": 91
+  },
+  {
+    "bus_no": "DN21",
+    "route_no": "DN21",
+    "origin": "Habra",
+    "destination": "Bagjola",
+    "distance_km": 34.3,
+    "avg_time_min": 82
+  },
+  {
+    "bus_no": "DN21",
+    "route_no": "DN21",
+    "origin": "Bagjola",
+    "destination": "Habra",
+    "distance_km": 34.3,
+    "avg_time_min": 82
+  },
+  {
+    "bus_no": "DN26",
+    "route_no": "DN26",
+    "origin": "Habra",
+    "destination": "Jagulia",
+    "distance_km": 28.2,
+    "avg_time_min": 67
+  },
+  {
+    "bus_no": "DN26",
+    "route_no": "DN26",
+    "origin": "Jagulia",
+    "destination": "Habra",
+    "distance_km": 28.2,
+    "avg_time_min": 67
+  },
+  {
+    "bus_no": "DN28",
+    "route_no": "DN28",
+    "origin": "Barasat",
+    "destination": "Haroa",
+    "distance_km": 24.3,
+    "avg_time_min": 58
+  },
+  {
+    "bus_no": "DN28",
+    "route_no": "DN28",
+    "origin": "Haroa",
+    "destination": "Barasat",
+    "distance_km": 24.3,
+    "avg_time_min": 58
+  },
+  {
+    "bus_no": "DN35",
+    "route_no": "DN35",
+    "origin": "Barasat",
+    "destination": "Nabatkati",
+    "distance_km": 23.7,
+    "avg_time_min": 56
+  },
+  {
+    "bus_no": "DN35",
+    "route_no": "DN35",
+    "origin": "Nabatkati",
+    "destination": "Barasat",
+    "distance_km": 23.7,
+    "avg_time_min": 56
+  },
+  {
+    "bus_no": "DN38",
+    "route_no": "DN38",
+    "origin": "Taranipur",
+    "destination": "Malancha/Basirhat",
+    "distance_km": 15.8,
+    "avg_time_min": 37
+  },
+  {
+    "bus_no": "DN38",
+    "route_no": "DN38",
+    "origin": "Malancha/Basirhat",
+    "destination": "Taranipur",
+    "distance_km": 15.8,
+    "avg_time_min": 37
+  },
+  {
+    "bus_no": "DN40",
+    "route_no": "DN40",
+    "origin": "Lauhati",
+    "destination": "Dakshineshwar",
+    "distance_km": 27.4,
+    "avg_time_min": 65
+  },
+  {
+    "bus_no": "DN40",
+    "route_no": "DN40",
+    "origin": "Dakshineshwar",
+    "destination": "Lauhati",
+    "distance_km": 27.4,
+    "avg_time_min": 65
+  },
+  {
+    "bus_no": "DN42",
+    "route_no": "DN42",
+    "origin": "Barasat",
+    "destination": "Dhamakhali",
+    "distance_km": 7.7,
+    "avg_time_min": 18
+  },
+  {
+    "bus_no": "DN42",
+    "route_no": "DN42",
+    "origin": "Dhamakhali",
+    "destination": "Barasat",
+    "distance_km": 7.7,
+    "avg_time_min": 18
+  },
+  {
+    "bus_no": "DN43",
+    "route_no": "DN43",
+    "origin": "Barasat Checkpost",
+    "destination": "Dakshineshwar",
+    "distance_km": 32.7,
+    "avg_time_min": 78
+  },
+  {
+    "bus_no": "DN43",
+    "route_no": "DN43",
+    "origin": "Dakshineshwar",
+    "destination": "Barasat Checkpost",
+    "distance_km": 32.7,
+    "avg_time_min": 78
+  },
+  {
+    "bus_no": "DN44",
+    "route_no": "DN44",
+    "origin": "Bongaon",
+    "destination": "Dakshineshwar",
+    "distance_km": 25.9,
+    "avg_time_min": 62
+  },
+  {
+    "bus_no": "DN44",
+    "route_no": "DN44",
+    "origin": "Dakshineshwar",
+    "destination": "Bongaon",
+    "distance_km": 25.9,
+    "avg_time_min": 62
+  },
+  {
+    "bus_no": "DN46",
+    "route_no": "DN46",
+    "origin": "Dankuni Housing Estate",
+    "destination": "Salt Lake Karunamoyee",
+    "distance_km": 32.4,
+    "avg_time_min": 77
+  },
+  {
+    "bus_no": "DN46",
+    "route_no": "DN46",
+    "origin": "Salt Lake Karunamoyee",
+    "destination": "Dankuni Housing Estate",
+    "distance_km": 32.4,
+    "avg_time_min": 77
+  },
+  {
+    "bus_no": "DN47",
+    "route_no": "DN47",
+    "origin": "Barasat Checkpost",
+    "destination": "Salt Lake Karunamoyee",
+    "distance_km": 12.0,
+    "avg_time_min": 28
+  },
+  {
+    "bus_no": "DN47",
+    "route_no": "DN47",
+    "origin": "Salt Lake Karunamoyee",
+    "destination": "Barasat Checkpost",
+    "distance_km": 12.0,
+    "avg_time_min": 28
+  },
+  {
+    "bus_no": "SD3",
+    "route_no": "SD3",
+    "origin": "Sonarpur",
+    "destination": "Baburhat",
+    "distance_km": 12.0,
+    "avg_time_min": 28
+  },
+  {
+    "bus_no": "SD3",
+    "route_no": "SD3",
+    "origin": "Baburhat",
+    "destination": "Sonarpur",
+    "distance_km": 12.0,
+    "avg_time_min": 28
+  },
+  {
+    "bus_no": "SD4/1",
+    "route_no": "SD4/1",
+    "origin": "Ruby Hospital",
+    "destination": "Thakurpukur",
+    "distance_km": 28.7,
+    "avg_time_min": 68
+  },
+  {
+    "bus_no": "SD4/1",
+    "route_no": "SD4/1",
+    "origin": "Thakurpukur",
+    "destination": "Ruby Hospital",
+    "distance_km": 28.7,
+    "avg_time_min": 68
+  },
+  {
+    "bus_no": "SD5",
+    "route_no": "SD5",
+    "origin": "Sonarpur",
+    "destination": "Khariberia",
+    "distance_km": 21.8,
+    "avg_time_min": 52
+  },
+  {
+    "bus_no": "SD5",
+    "route_no": "SD5",
+    "origin": "Khariberia",
+    "destination": "Sonarpur",
+    "distance_km": 21.8,
+    "avg_time_min": 52
+  },
+  {
+    "bus_no": "SD8",
+    "route_no": "SD8",
+    "origin": "Nandibagan",
+    "destination": "Bibirhat",
+    "distance_km": 12.7,
+    "avg_time_min": 30
+  },
+  {
+    "bus_no": "SD8",
+    "route_no": "SD8",
+    "origin": "Bibirhat",
+    "destination": "Nandibagan",
+    "distance_km": 12.7,
+    "avg_time_min": 30
+  },
+  {
+    "bus_no": "SD9",
+    "route_no": "SD9",
+    "origin": "Esplanade",
+    "destination": "Noorpur via Sarisha",
+    "distance_km": 25.1,
+    "avg_time_min": 60
+  },
+  {
+    "bus_no": "SD9",
+    "route_no": "SD9",
+    "origin": "Noorpur via Sarisha",
+    "destination": "Esplanade",
+    "distance_km": 25.1,
+    "avg_time_min": 60
+  },
+  {
+    "bus_no": "SD9/1",
+    "route_no": "SD9/1",
+    "origin": "Esplanade",
+    "destination": "Noorpur via Dighirpar",
+    "distance_km": 10.4,
+    "avg_time_min": 24
+  },
+  {
+    "bus_no": "SD9/1",
+    "route_no": "SD9/1",
+    "origin": "Noorpur via Dighirpar",
+    "destination": "Esplanade",
+    "distance_km": 10.4,
+    "avg_time_min": 24
+  },
+  {
+    "bus_no": "SD11/1",
+    "route_no": "SD11/1",
+    "origin": "Noorpur",
+    "destination": "Ramganga",
+    "distance_km": 14.0,
+    "avg_time_min": 33
+  },
+  {
+    "bus_no": "SD11/1",
+    "route_no": "SD11/1",
+    "origin": "Ramganga",
+    "destination": "Noorpur",
+    "distance_km": 14.0,
+    "avg_time_min": 33
+  },
+  {
+    "bus_no": "SD14",
+    "route_no": "SD14",
+    "origin": "Majherhat",
+    "destination": "Sahararhat",
+    "distance_km": 39.0,
+    "avg_time_min": 93
+  },
+  {
+    "bus_no": "SD14",
+    "route_no": "SD14",
+    "origin": "Sahararhat",
+    "destination": "Majherhat",
+    "distance_km": 39.0,
+    "avg_time_min": 93
+  },
+  {
+    "bus_no": "SD16",
+    "route_no": "SD16",
+    "origin": "Sirakole",
+    "destination": "Mukundapur",
+    "distance_km": 29.7,
+    "avg_time_min": 71
+  },
+  {
+    "bus_no": "SD16",
+    "route_no": "SD16",
+    "origin": "Mukundapur",
+    "destination": "Sirakole",
+    "distance_km": 29.7,
+    "avg_time_min": 71
+  },
+  {
+    "bus_no": "SD17",
+    "route_no": "SD17",
+    "origin": "Namkhana",
+    "destination": "Bakkhali",
+    "distance_km": 15.2,
+    "avg_time_min": 36
+  },
+  {
+    "bus_no": "SD17",
+    "route_no": "SD17",
+    "origin": "Bakkhali",
+    "destination": "Namkhana",
+    "distance_km": 15.2,
+    "avg_time_min": 36
+  },
+  {
+    "bus_no": "SD18",
+    "route_no": "SD18",
+    "origin": "Esplanade",
+    "destination": "Diamond Harbour",
+    "distance_km": 27.1,
+    "avg_time_min": 65
+  },
+  {
+    "bus_no": "SD18",
+    "route_no": "SD18",
+    "origin": "Diamond Harbour",
+    "destination": "Esplanade",
+    "distance_km": 27.1,
+    "avg_time_min": 65
+  },
+  {
+    "bus_no": "SD18",
+    "route_no": "SD18",
+    "origin": "Esplanade",
+    "destination": "South Bishnupur",
+    "distance_km": 15.9,
+    "avg_time_min": 38
+  },
+  {
+    "bus_no": "SD18",
+    "route_no": "SD18",
+    "origin": "South Bishnupur",
+    "destination": "Esplanade",
+    "distance_km": 15.9,
+    "avg_time_min": 38
+  },
+  {
+    "bus_no": "SD18",
+    "route_no": "SD18",
+    "origin": "Esplanade",
+    "destination": "Raidighi",
+    "distance_km": 24.5,
+    "avg_time_min": 58
+  },
+  {
+    "bus_no": "SD18",
+    "route_no": "SD18",
+    "origin": "Raidighi",
+    "destination": "Esplanade",
+    "distance_km": 24.5,
+    "avg_time_min": 58
+  },
+  {
+    "bus_no": "SD19",
+    "route_no": "SD19",
+    "origin": "Esplanade",
+    "destination": "Kakdwip",
+    "distance_km": 33.7,
+    "avg_time_min": 80
+  },
+  {
+    "bus_no": "SD19",
+    "route_no": "SD19",
+    "origin": "Kakdwip",
+    "destination": "Esplanade",
+    "distance_km": 33.7,
+    "avg_time_min": 80
+  },
+  {
+    "bus_no": "SD19",
+    "route_no": "SD19",
+    "origin": "Esplanade",
+    "destination": "Patharpratima",
+    "distance_km": 14.1,
+    "avg_time_min": 33
+  },
+  {
+    "bus_no": "SD19",
+    "route_no": "SD19",
+    "origin": "Patharpratima",
+    "destination": "Esplanade",
+    "distance_km": 14.1,
+    "avg_time_min": 33
+  },
+  {
+    "bus_no": "SD22",
+    "route_no": "SD22",
+    "origin": "Esplanade",
+    "destination": "Sahararhat",
+    "distance_km": 36.8,
+    "avg_time_min": 88
+  },
+  {
+    "bus_no": "SD22",
+    "route_no": "SD22",
+    "origin": "Sahararhat",
+    "destination": "Esplanade",
+    "distance_km": 36.8,
+    "avg_time_min": 88
+  },
+  {
+    "bus_no": "SD22/1",
+    "route_no": "SD22/1",
+    "origin": "Esplanade",
+    "destination": "Nainan Sector 4",
+    "distance_km": 35.9,
+    "avg_time_min": 86
+  },
+  {
+    "bus_no": "SD22/1",
+    "route_no": "SD22/1",
+    "origin": "Nainan Sector 4",
+    "destination": "Esplanade",
+    "distance_km": 35.9,
+    "avg_time_min": 86
+  },
+  {
+    "bus_no": "SD24",
+    "route_no": "SD24",
+    "origin": "Alipore Zoo",
+    "destination": "Basanti",
+    "distance_km": 18.6,
+    "avg_time_min": 44
+  },
+  {
+    "bus_no": "SD24",
+    "route_no": "SD24",
+    "origin": "Basanti",
+    "destination": "Alipore Zoo",
+    "distance_km": 18.6,
+    "avg_time_min": 44
+  },
+  {
+    "bus_no": "SD24/1",
+    "route_no": "SD24/1",
+    "origin": "Alipore Zoo",
+    "destination": "Nazat",
+    "distance_km": 5.4,
+    "avg_time_min": 12
+  },
+  {
+    "bus_no": "SD24/1",
+    "route_no": "SD24/1",
+    "origin": "Nazat",
+    "destination": "Alipore Zoo",
+    "distance_km": 5.4,
+    "avg_time_min": 12
+  },
+  {
+    "bus_no": "SD26",
+    "route_no": "SD26",
+    "origin": "Babughat",
+    "destination": "Burul",
+    "distance_km": 33.8,
+    "avg_time_min": 81
+  },
+  {
+    "bus_no": "SD26",
+    "route_no": "SD26",
+    "origin": "Burul",
+    "destination": "Babughat",
+    "distance_km": 33.8,
+    "avg_time_min": 81
+  },
+  {
+    "bus_no": "SD27",
+    "route_no": "SD27",
+    "origin": "Akrafatak",
+    "destination": "Dostipur",
+    "distance_km": 6.1,
+    "avg_time_min": 14
+  },
+  {
+    "bus_no": "SD27",
+    "route_no": "SD27",
+    "origin": "Dostipur",
+    "destination": "Akrafatak",
+    "distance_km": 6.1,
+    "avg_time_min": 14
+  },
+  {
+    "bus_no": "SD28",
+    "route_no": "SD28",
+    "origin": "New Dakghar",
+    "destination": "Jadavpur Central Park (Bapuji Nagar)",
+    "distance_km": 13.8,
+    "avg_time_min": 33
+  },
+  {
+    "bus_no": "SD28",
+    "route_no": "SD28",
+    "origin": "Jadavpur Central Park (Bapuji Nagar)",
+    "destination": "New Dakghar",
+    "distance_km": 13.8,
+    "avg_time_min": 33
+  },
+  {
+    "bus_no": "SD29",
+    "route_no": "SD29",
+    "origin": "Amtala",
+    "destination": "Baruipur",
+    "distance_km": 21.9,
+    "avg_time_min": 52
+  },
+  {
+    "bus_no": "SD29",
+    "route_no": "SD29",
+    "origin": "Baruipur",
+    "destination": "Amtala",
+    "distance_km": 21.9,
+    "avg_time_min": 52
+  },
+  {
+    "bus_no": "SD30",
+    "route_no": "SD30",
+    "origin": "Taratala",
+    "destination": "Sahararhat",
+    "distance_km": 11.7,
+    "avg_time_min": 28
+  },
+  {
+    "bus_no": "SD30",
+    "route_no": "SD30",
+    "origin": "Sahararhat",
+    "destination": "Taratala",
+    "distance_km": 11.7,
+    "avg_time_min": 28
+  },
+  {
+    "bus_no": "SD31",
+    "route_no": "SD31",
+    "origin": "Taratala",
+    "destination": "Jhinki",
+    "distance_km": 6.1,
+    "avg_time_min": 14
+  },
+  {
+    "bus_no": "SD31",
+    "route_no": "SD31",
+    "origin": "Jhinki",
+    "destination": "Taratala",
+    "distance_km": 6.1,
+    "avg_time_min": 14
+  },
+  {
+    "bus_no": "SD33",
+    "route_no": "SD33",
+    "origin": "Baruipur",
+    "destination": "Jharkhali",
+    "distance_km": 16.2,
+    "avg_time_min": 38
+  },
+  {
+    "bus_no": "SD33",
+    "route_no": "SD33",
+    "origin": "Jharkhali",
+    "destination": "Baruipur",
+    "distance_km": 16.2,
+    "avg_time_min": 38
+  },
+  {
+    "bus_no": "SD34",
+    "route_no": "SD34",
+    "origin": "Canning",
+    "destination": "Ganga Mela",
+    "distance_km": 18.6,
+    "avg_time_min": 44
+  },
+  {
+    "bus_no": "SD34",
+    "route_no": "SD34",
+    "origin": "Ganga Mela",
+    "destination": "Canning",
+    "distance_km": 18.6,
+    "avg_time_min": 44
+  },
+  {
+    "bus_no": "SD35",
+    "route_no": "SD35",
+    "origin": "Canning",
+    "destination": "Falta",
+    "distance_km": 7.6,
+    "avg_time_min": 18
+  },
+  {
+    "bus_no": "SD35",
+    "route_no": "SD35",
+    "origin": "Falta",
+    "destination": "Canning",
+    "distance_km": 7.6,
+    "avg_time_min": 18
+  },
+  {
+    "bus_no": "SD39",
+    "route_no": "SD39",
+    "origin": "Baruipur",
+    "destination": "Kishorimohan",
+    "distance_km": 21.5,
+    "avg_time_min": 51
+  },
+  {
+    "bus_no": "SD39",
+    "route_no": "SD39",
+    "origin": "Kishorimohan",
+    "destination": "Baruipur",
+    "distance_km": 21.5,
+    "avg_time_min": 51
+  },
+  {
+    "bus_no": "SD41",
+    "route_no": "SD41",
+    "origin": "Basanti",
+    "destination": "Jamtala",
+    "distance_km": 39.4,
+    "avg_time_min": 94
+  },
+  {
+    "bus_no": "SD41",
+    "route_no": "SD41",
+    "origin": "Jamtala",
+    "destination": "Basanti",
+    "distance_km": 39.4,
+    "avg_time_min": 94
+  },
+  {
+    "bus_no": "SD50",
+    "route_no": "SD50",
+    "origin": "Raichak",
+    "destination": "Patharpratima",
+    "distance_km": 27.3,
+    "avg_time_min": 65
+  },
+  {
+    "bus_no": "SD50",
+    "route_no": "SD50",
+    "origin": "Patharpratima",
+    "destination": "Raichak",
+    "distance_km": 27.3,
+    "avg_time_min": 65
+  },
+  {
+    "bus_no": "SD51",
+    "route_no": "SD51",
+    "origin": "Gurudaspur Hospital More",
+    "destination": "Mathurapur Station",
+    "distance_km": 37.6,
+    "avg_time_min": 90
+  },
+  {
+    "bus_no": "SD51",
+    "route_no": "SD51",
+    "origin": "Mathurapur Station",
+    "destination": "Gurudaspur Hospital More",
+    "distance_km": 37.6,
+    "avg_time_min": 90
+  },
+  {
+    "bus_no": "SD53",
+    "route_no": "SD53",
+    "origin": "Mathurapur",
+    "destination": "Kishorimohan",
+    "distance_km": 33.4,
+    "avg_time_min": 80
+  },
+  {
+    "bus_no": "SD53",
+    "route_no": "SD53",
+    "origin": "Kishorimohan",
+    "destination": "Mathurapur",
+    "distance_km": 33.4,
+    "avg_time_min": 80
+  },
+  {
+    "bus_no": "SD63",
+    "route_no": "SD63",
+    "origin": "Baruipur",
+    "destination": "Gadkhali",
+    "distance_km": 29.2,
+    "avg_time_min": 70
+  },
+  {
+    "bus_no": "SD63",
+    "route_no": "SD63",
+    "origin": "Gadkhali",
+    "destination": "Baruipur",
+    "distance_km": 29.2,
+    "avg_time_min": 70
+  },
+  {
+    "bus_no": "SD64",
+    "route_no": "SD64",
+    "origin": "Baruipur",
+    "destination": "Chunakhali Minibus",
+    "distance_km": 23.1,
+    "avg_time_min": 55
+  },
+  {
+    "bus_no": "SD64",
+    "route_no": "SD64",
+    "origin": "Chunakhali Minibus",
+    "destination": "Baruipur",
+    "distance_km": 23.1,
+    "avg_time_min": 55
+  },
+  {
+    "bus_no": "SD66",
+    "route_no": "SD66",
+    "origin": "Joka",
+    "destination": "Baroda Nagar (Kankondighi)",
+    "distance_km": 37.4,
+    "avg_time_min": 89
+  },
+  {
+    "bus_no": "SD66",
+    "route_no": "SD66",
+    "origin": "Baroda Nagar (Kankondighi)",
+    "destination": "Joka",
+    "distance_km": 37.4,
+    "avg_time_min": 89
+  },
+  {
+    "bus_no": "SD67",
+    "route_no": "SD67",
+    "origin": "Baruipur",
+    "destination": "Kaikhali",
+    "distance_km": 25.8,
+    "avg_time_min": 61
+  },
+  {
+    "bus_no": "SD67",
+    "route_no": "SD67",
+    "origin": "Kaikhali",
+    "destination": "Baruipur",
+    "distance_km": 25.8,
+    "avg_time_min": 61
+  },
+  {
+    "bus_no": "SD68",
+    "route_no": "SD68",
+    "origin": "Baruipur",
+    "destination": "Ghatakpukur Minibus",
+    "distance_km": 8.0,
+    "avg_time_min": 19
+  },
+  {
+    "bus_no": "SD68",
+    "route_no": "SD68",
+    "origin": "Ghatakpukur Minibus",
+    "destination": "Baruipur",
+    "distance_km": 8.0,
+    "avg_time_min": 19
+  },
+  {
+    "bus_no": "SD69",
+    "route_no": "SD69",
+    "origin": "Kachuberia",
+    "destination": "Gangasagar",
+    "distance_km": 36.1,
+    "avg_time_min": 86
+  },
+  {
+    "bus_no": "SD69",
+    "route_no": "SD69",
+    "origin": "Gangasagar",
+    "destination": "Kachuberia",
+    "distance_km": 36.1,
+    "avg_time_min": 86
+  },
+  {
+    "bus_no": "SD70",
+    "route_no": "SD70",
+    "origin": "Tematha",
+    "destination": "Bisalakshmitala",
+    "distance_km": 37.0,
+    "avg_time_min": 88
+  },
+  {
+    "bus_no": "SD70",
+    "route_no": "SD70",
+    "origin": "Bisalakshmitala",
+    "destination": "Tematha",
+    "distance_km": 37.0,
+    "avg_time_min": 88
+  },
+  {
+    "bus_no": "SD71",
+    "route_no": "SD71",
+    "origin": "Thakurpukur",
+    "destination": "Kalicharanpur Minibus",
+    "distance_km": 26.3,
+    "avg_time_min": 63
+  },
+  {
+    "bus_no": "SD71",
+    "route_no": "SD71",
+    "origin": "Kalicharanpur Minibus",
+    "destination": "Thakurpukur",
+    "distance_km": 26.3,
+    "avg_time_min": 63
+  },
+  {
+    "bus_no": "SD72",
+    "route_no": "SD72",
+    "origin": "Baruipur",
+    "destination": "Noorpur",
+    "distance_km": 38.4,
+    "avg_time_min": 92
+  },
+  {
+    "bus_no": "SD72",
+    "route_no": "SD72",
+    "origin": "Noorpur",
+    "destination": "Baruipur",
+    "distance_km": 38.4,
+    "avg_time_min": 92
+  },
+  {
+    "bus_no": "SD74",
+    "route_no": "SD74",
+    "origin": "Amtala",
+    "destination": "Kaikhali",
+    "distance_km": 12.1,
+    "avg_time_min": 29
+  },
+  {
+    "bus_no": "SD74",
+    "route_no": "SD74",
+    "origin": "Kaikhali",
+    "destination": "Amtala",
+    "distance_km": 12.1,
+    "avg_time_min": 29
+  },
+  {
+    "bus_no": "SD76",
+    "route_no": "SD76",
+    "origin": "Amtala",
+    "destination": "Ruby Hospital",
+    "distance_km": 24.3,
+    "avg_time_min": 58
+  },
+  {
+    "bus_no": "SD76",
+    "route_no": "SD76",
+    "origin": "Ruby Hospital",
+    "destination": "Amtala",
+    "distance_km": 24.3,
+    "avg_time_min": 58
+  },
+  {
+    "bus_no": "SD76A",
+    "route_no": "SD76A",
+    "origin": "Amtala",
+    "destination": "Budge Budge Station",
+    "distance_km": 31.5,
+    "avg_time_min": 75
+  },
+  {
+    "bus_no": "SD76A",
+    "route_no": "SD76A",
+    "origin": "Budge Budge Station",
+    "destination": "Amtala",
+    "distance_km": 31.5,
+    "avg_time_min": 75
+  },
+  {
+    "bus_no": "SD77",
+    "route_no": "SD77",
+    "origin": "Joka",
+    "destination": "Mandirbazar",
+    "distance_km": 18.7,
+    "avg_time_min": 44
+  },
+  {
+    "bus_no": "SD77",
+    "route_no": "SD77",
+    "origin": "Mandirbazar",
+    "destination": "Joka",
+    "distance_km": 18.7,
+    "avg_time_min": 44
+  },
+  {
+    "bus_no": "SD78",
+    "route_no": "SD78",
+    "origin": "Amtala",
+    "destination": "Hotore Station Minibus",
+    "distance_km": 30.8,
+    "avg_time_min": 73
+  },
+  {
+    "bus_no": "SD78",
+    "route_no": "SD78",
+    "origin": "Hotore Station Minibus",
+    "destination": "Amtala",
+    "distance_km": 30.8,
+    "avg_time_min": 73
+  },
+  {
+    "bus_no": "SD79",
+    "route_no": "SD79",
+    "origin": "Amtala",
+    "destination": "Sarberia Minibus",
+    "distance_km": 29.8,
+    "avg_time_min": 71
+  },
+  {
+    "bus_no": "SD79",
+    "route_no": "SD79",
+    "origin": "Sarberia Minibus",
+    "destination": "Amtala",
+    "distance_km": 29.8,
+    "avg_time_min": 71
+  },
+  {
+    "bus_no": "SD80",
+    "route_no": "SD80",
+    "origin": "Kakdwip",
+    "destination": "Raidighi",
+    "distance_km": 16.3,
+    "avg_time_min": 39
+  },
+  {
+    "bus_no": "SD80",
+    "route_no": "SD80",
+    "origin": "Raidighi",
+    "destination": "Kakdwip",
+    "distance_km": 16.3,
+    "avg_time_min": 39
+  },
+  {
+    "bus_no": "SD81",
+    "route_no": "SD81",
+    "origin": "Budge Budge",
+    "destination": "Budge Budge Circular route Minibus",
+    "distance_km": 34.2,
+    "avg_time_min": 82
+  },
+  {
+    "bus_no": "SD81",
+    "route_no": "SD81",
+    "origin": "Budge Budge Circular route Minibus",
+    "destination": "Budge Budge",
+    "distance_km": 34.2,
+    "avg_time_min": 82
+  },
+  {
+    "bus_no": "SD82",
+    "route_no": "SD82",
+    "origin": "Magrahat",
+    "destination": "Diamond Harbour Minibus",
+    "distance_km": 32.4,
+    "avg_time_min": 77
+  },
+  {
+    "bus_no": "SD82",
+    "route_no": "SD82",
+    "origin": "Diamond Harbour Minibus",
+    "destination": "Magrahat",
+    "distance_km": 32.4,
+    "avg_time_min": 77
+  },
+  {
+    "bus_no": "K1",
+    "route_no": "K1",
+    "origin": "Kolkata Railway Station",
+    "destination": "New Town",
+    "distance_km": 5.4,
+    "avg_time_min": 12
+  },
+  {
+    "bus_no": "K1",
+    "route_no": "K1",
+    "origin": "New Town",
+    "destination": "Kolkata Railway Station",
+    "distance_km": 5.4,
+    "avg_time_min": 12
+  },
+  {
+    "bus_no": "K2",
+    "route_no": "K2",
+    "origin": "Salt Lake 206 Bus Stand",
+    "destination": "Airport Gate No.1",
+    "distance_km": 22.9,
+    "avg_time_min": 54
+  },
+  {
+    "bus_no": "K2",
+    "route_no": "K2",
+    "origin": "Airport Gate No.1",
+    "destination": "Salt Lake 206 Bus Stand",
+    "distance_km": 22.9,
+    "avg_time_min": 54
+  },
+  {
+    "bus_no": "K3",
+    "route_no": "K3",
+    "origin": "Kudghat",
+    "destination": "Dakshineshwar / Rajchandrapur",
+    "distance_km": 31.8,
+    "avg_time_min": 76
+  },
+  {
+    "bus_no": "K3",
+    "route_no": "K3",
+    "origin": "Dakshineshwar / Rajchandrapur",
+    "destination": "Kudghat",
+    "distance_km": 31.8,
+    "avg_time_min": 76
+  },
+  {
+    "bus_no": "K4",
+    "route_no": "K4",
+    "origin": "Dakshineswar",
+    "destination": "Park Circus",
+    "distance_km": 15.0,
+    "avg_time_min": 36
+  },
+  {
+    "bus_no": "K4",
+    "route_no": "K4",
+    "origin": "Park Circus",
+    "destination": "Dakshineswar",
+    "distance_km": 15.0,
+    "avg_time_min": 36
+  },
+  {
+    "bus_no": "K6",
+    "route_no": "K6",
+    "origin": "Tikiapara",
+    "destination": "Rajabazar",
+    "distance_km": 31.5,
+    "avg_time_min": 75
+  },
+  {
+    "bus_no": "K6",
+    "route_no": "K6",
+    "origin": "Rajabazar",
+    "destination": "Tikiapara",
+    "distance_km": 31.5,
+    "avg_time_min": 75
+  },
+  {
+    "bus_no": "K7",
+    "route_no": "K7",
+    "origin": "Bakultala",
+    "destination": "Ruby Hospital",
+    "distance_km": 12.7,
+    "avg_time_min": 30
+  },
+  {
+    "bus_no": "K7",
+    "route_no": "K7",
+    "origin": "Ruby Hospital",
+    "destination": "Bakultala",
+    "distance_km": 12.7,
+    "avg_time_min": 30
+  },
+  {
+    "bus_no": "K8",
+    "route_no": "K8",
+    "origin": "Basudebpur",
+    "destination": "Jadavpur Sulekha",
+    "distance_km": 32.0,
+    "avg_time_min": 76
+  },
+  {
+    "bus_no": "K8",
+    "route_no": "K8",
+    "origin": "Jadavpur Sulekha",
+    "destination": "Basudebpur",
+    "distance_km": 32.0,
+    "avg_time_min": 76
+  },
+  {
+    "bus_no": "K9",
+    "route_no": "K9",
+    "origin": "Barrackpore Court",
+    "destination": "Park Circus",
+    "distance_km": 7.5,
+    "avg_time_min": 18
+  },
+  {
+    "bus_no": "K9",
+    "route_no": "K9",
+    "origin": "Park Circus",
+    "destination": "Barrackpore Court",
+    "distance_km": 7.5,
+    "avg_time_min": 18
+  },
+  {
+    "bus_no": "K11",
+    "route_no": "K11",
+    "origin": "Domjur",
+    "destination": "Rabindra Sadan",
+    "distance_km": 16.0,
+    "avg_time_min": 38
+  },
+  {
+    "bus_no": "K11",
+    "route_no": "K11",
+    "origin": "Rabindra Sadan",
+    "destination": "Domjur",
+    "distance_km": 16.0,
+    "avg_time_min": 38
+  },
+  {
+    "bus_no": "L2",
+    "route_no": "L2",
+    "origin": "Howrah Station",
+    "destination": "Matapara",
+    "distance_km": 5.0,
+    "avg_time_min": 12
+  },
+  {
+    "bus_no": "L2",
+    "route_no": "L2",
+    "origin": "Matapara",
+    "destination": "Howrah Station",
+    "distance_km": 5.0,
+    "avg_time_min": 12
+  },
+  {
+    "bus_no": "L3",
+    "route_no": "L3",
+    "origin": "Howrah Station",
+    "destination": "Jhikira",
+    "distance_km": 16.1,
+    "avg_time_min": 38
+  },
+  {
+    "bus_no": "L3",
+    "route_no": "L3",
+    "origin": "Jhikira",
+    "destination": "Howrah Station",
+    "distance_km": 16.1,
+    "avg_time_min": 38
+  },
+  {
+    "bus_no": "L7",
+    "route_no": "L7",
+    "origin": "Howrah Station",
+    "destination": "Gadiara",
+    "distance_km": 22.8,
+    "avg_time_min": 54
+  },
+  {
+    "bus_no": "L7",
+    "route_no": "L7",
+    "origin": "Gadiara",
+    "destination": "Howrah Station",
+    "distance_km": 22.8,
+    "avg_time_min": 54
+  },
+  {
+    "bus_no": "L238",
+    "route_no": "L238",
+    "origin": "Barasat",
+    "destination": "Howrah Station",
+    "distance_km": 8.1,
+    "avg_time_min": 19
+  },
+  {
+    "bus_no": "L238",
+    "route_no": "L238",
+    "origin": "Howrah Station",
+    "destination": "Barasat",
+    "distance_km": 8.1,
+    "avg_time_min": 19
+  },
+  {
+    "bus_no": "E43",
+    "route_no": "E43",
+    "origin": "Howrah Station",
+    "destination": "Dihibhursut",
+    "distance_km": 34.5,
+    "avg_time_min": 82
+  },
+  {
+    "bus_no": "E43",
+    "route_no": "E43",
+    "origin": "Dihibhursut",
+    "destination": "Howrah Station",
+    "distance_km": 34.5,
+    "avg_time_min": 82
+  },
+  {
+    "bus_no": "E45",
+    "route_no": "E45",
+    "origin": "Howrah Station",
+    "destination": "Amta",
+    "distance_km": 9.2,
+    "avg_time_min": 22
+  },
+  {
+    "bus_no": "E45",
+    "route_no": "E45",
+    "origin": "Amta",
+    "destination": "Howrah Station",
+    "distance_km": 9.2,
+    "avg_time_min": 22
+  },
+  {
+    "bus_no": "E53",
+    "route_no": "E53",
+    "origin": "Howrah Station",
+    "destination": "Narit",
+    "distance_km": 31.7,
+    "avg_time_min": 76
+  },
+  {
+    "bus_no": "E53",
+    "route_no": "E53",
+    "origin": "Narit",
+    "destination": "Howrah Station",
+    "distance_km": 31.7,
+    "avg_time_min": 76
+  },
+  {
+    "bus_no": "007",
+    "route_no": "007",
+    "origin": "Kolkata Railway Station",
+    "destination": "Garia Bus Stand",
+    "distance_km": 36.3,
+    "avg_time_min": 87
+  },
+  {
+    "bus_no": "007",
+    "route_no": "007",
+    "origin": "Garia Bus Stand",
+    "destination": "Kolkata Railway Station",
+    "distance_km": 36.3,
+    "avg_time_min": 87
+  },
+  {
+    "bus_no": "JM1",
+    "route_no": "JM1",
+    "origin": "Dhulagarh",
+    "destination": "Salt Lake Karunamoyee",
+    "distance_km": 30.7,
+    "avg_time_min": 73
+  },
+  {
+    "bus_no": "JM1",
+    "route_no": "JM1",
+    "origin": "Salt Lake Karunamoyee",
+    "destination": "Dhulagarh",
+    "distance_km": 30.7,
+    "avg_time_min": 73
+  },
+  {
+    "bus_no": "JM2",
+    "route_no": "JM2",
+    "origin": "Kolkata Railway Station",
+    "destination": "Subhashgram Railway Station",
+    "distance_km": 23.0,
+    "avg_time_min": 55
+  },
+  {
+    "bus_no": "JM2",
+    "route_no": "JM2",
+    "origin": "Subhashgram Railway Station",
+    "destination": "Kolkata Railway Station",
+    "distance_km": 23.0,
+    "avg_time_min": 55
+  },
+  {
+    "bus_no": "JM3",
+    "route_no": "JM3",
+    "origin": "Ultadanga",
+    "destination": "Sarsuna College",
+    "distance_km": 21.6,
+    "avg_time_min": 51
+  },
+  {
+    "bus_no": "JM3",
+    "route_no": "JM3",
+    "origin": "Sarsuna College",
+    "destination": "Ultadanga",
+    "distance_km": 21.6,
+    "avg_time_min": 51
+  },
+  {
+    "bus_no": "JM4",
+    "route_no": "JM4",
+    "origin": "Dharsa",
+    "destination": "Narendrapur",
+    "distance_km": 19.2,
+    "avg_time_min": 46
+  },
+  {
+    "bus_no": "JM4",
+    "route_no": "JM4",
+    "origin": "Narendrapur",
+    "destination": "Dharsa",
+    "distance_km": 19.2,
+    "avg_time_min": 46
+  },
+  {
+    "bus_no": "JM5",
+    "route_no": "JM5",
+    "origin": "Esplanade",
+    "destination": "Shyampur",
+    "distance_km": 13.6,
+    "avg_time_min": 32
+  },
+  {
+    "bus_no": "JM5",
+    "route_no": "JM5",
+    "origin": "Shyampur",
+    "destination": "Esplanade",
+    "distance_km": 13.6,
+    "avg_time_min": 32
+  },
+  {
+    "bus_no": "JM8",
+    "route_no": "JM8",
+    "origin": "Naihati",
+    "destination": "Salt Lake Technopolis",
+    "distance_km": 14.9,
+    "avg_time_min": 35
+  },
+  {
+    "bus_no": "JM8",
+    "route_no": "JM8",
+    "origin": "Salt Lake Technopolis",
+    "destination": "Naihati",
+    "distance_km": 14.9,
+    "avg_time_min": 35
+  },
+  {
+    "bus_no": "M1",
+    "route_no": "M1",
+    "origin": "Unitech",
+    "destination": "Rashbihari",
+    "distance_km": 14.1,
+    "avg_time_min": 33
+  },
+  {
+    "bus_no": "M1",
+    "route_no": "M1",
+    "origin": "Rashbihari",
+    "destination": "Unitech",
+    "distance_km": 14.1,
+    "avg_time_min": 33
+  },
+  {
+    "bus_no": "M4",
+    "route_no": "M4",
+    "origin": "Barasat",
+    "destination": "Rashbihari",
+    "distance_km": 24.8,
+    "avg_time_min": 59
+  },
+  {
+    "bus_no": "M4",
+    "route_no": "M4",
+    "origin": "Rashbihari",
+    "destination": "Barasat",
+    "distance_km": 24.8,
+    "avg_time_min": 59
+  },
+  {
+    "bus_no": "M5",
+    "route_no": "M5",
+    "origin": "Airport",
+    "destination": "Santragachi",
+    "distance_km": 27.8,
+    "avg_time_min": 66
+  },
+  {
+    "bus_no": "M5",
+    "route_no": "M5",
+    "origin": "Santragachi",
+    "destination": "Airport",
+    "distance_km": 27.8,
+    "avg_time_min": 66
+  },
+  {
+    "bus_no": "M10",
+    "route_no": "M10",
+    "origin": "Barasat",
+    "destination": "Rashbehari",
+    "distance_km": 31.9,
+    "avg_time_min": 76
+  },
+  {
+    "bus_no": "M10",
+    "route_no": "M10",
+    "origin": "Rashbehari",
+    "destination": "Barasat",
+    "distance_km": 31.9,
+    "avg_time_min": 76
+  },
+  {
+    "bus_no": "M13",
+    "route_no": "M13",
+    "origin": "Ecospace",
+    "destination": "Rasbihari",
+    "distance_km": 31.5,
+    "avg_time_min": 75
+  },
+  {
+    "bus_no": "M13",
+    "route_no": "M13",
+    "origin": "Rasbihari",
+    "destination": "Ecospace",
+    "distance_km": 31.5,
+    "avg_time_min": 75
+  },
+  {
+    "bus_no": "M20",
+    "route_no": "M20",
+    "origin": "Barasat",
+    "destination": "Exide",
+    "distance_km": 39.3,
+    "avg_time_min": 94
+  },
+  {
+    "bus_no": "M20",
+    "route_no": "M20",
+    "origin": "Exide",
+    "destination": "Barasat",
+    "distance_km": 39.3,
+    "avg_time_min": 94
+  },
+  {
+    "bus_no": "H2",
+    "route_no": "H2",
+    "origin": "Ultadanga",
+    "destination": "Airport Gate No.1",
+    "distance_km": 23.7,
+    "avg_time_min": 56
+  },
+  {
+    "bus_no": "H2",
+    "route_no": "H2",
+    "origin": "Airport Gate No.1",
+    "destination": "Ultadanga",
+    "distance_km": 23.7,
+    "avg_time_min": 56
+  },
+  {
+    "bus_no": "ST6",
+    "route_no": "ST6",
+    "origin": "Tollygunge",
+    "destination": "Salt Lake Technopolis",
+    "distance_km": 6.2,
+    "avg_time_min": 14
+  },
+  {
+    "bus_no": "ST6",
+    "route_no": "ST6",
+    "origin": "Salt Lake Technopolis",
+    "destination": "Tollygunge",
+    "distance_km": 6.2,
+    "avg_time_min": 14
+  },
+  {
+    "bus_no": "ST7",
+    "route_no": "ST7",
+    "origin": "Ultadanga",
+    "destination": "Sapoorji Estate",
+    "distance_km": 22.6,
+    "avg_time_min": 54
+  },
+  {
+    "bus_no": "ST7",
+    "route_no": "ST7",
+    "origin": "Sapoorji Estate",
+    "destination": "Ultadanga",
+    "distance_km": 22.6,
+    "avg_time_min": 54
+  },
+  {
+    "bus_no": "ST7A",
+    "route_no": "ST7A",
+    "origin": "Ultadanga",
+    "destination": "Hatisala",
+    "distance_km": 9.0,
+    "avg_time_min": 21
+  },
+  {
+    "bus_no": "ST7A",
+    "route_no": "ST7A",
+    "origin": "Hatisala",
+    "destination": "Ultadanga",
+    "distance_km": 9.0,
+    "avg_time_min": 21
+  },
+  {
+    "bus_no": "ST10",
+    "route_no": "ST10",
+    "origin": "Santragachi",
+    "destination": "Balaka Abasan",
+    "distance_km": 6.5,
+    "avg_time_min": 15
+  },
+  {
+    "bus_no": "ST10",
+    "route_no": "ST10",
+    "origin": "Balaka Abasan",
+    "destination": "Santragachi",
+    "distance_km": 6.5,
+    "avg_time_min": 15
+  },
+  {
+    "bus_no": "ST11",
+    "route_no": "ST11",
+    "origin": "Ruby Hospital",
+    "destination": "Balaka Abasan",
+    "distance_km": 14.8,
+    "avg_time_min": 35
+  },
+  {
+    "bus_no": "ST11",
+    "route_no": "ST11",
+    "origin": "Balaka Abasan",
+    "destination": "Ruby Hospital",
+    "distance_km": 14.8,
+    "avg_time_min": 35
+  },
+  {
+    "bus_no": "ST12",
+    "route_no": "ST12",
+    "origin": "Sapoorji Estate",
+    "destination": "Baruipur",
+    "distance_km": 20.0,
+    "avg_time_min": 48
+  },
+  {
+    "bus_no": "ST12",
+    "route_no": "ST12",
+    "origin": "Baruipur",
+    "destination": "Sapoorji Estate",
+    "distance_km": 20.0,
+    "avg_time_min": 48
+  },
+  {
+    "bus_no": "ST13",
+    "route_no": "ST13",
+    "origin": "Bagbazar",
+    "destination": "Rajarhat, Balaka Abasan",
+    "distance_km": 6.4,
+    "avg_time_min": 15
+  },
+  {
+    "bus_no": "ST13",
+    "route_no": "ST13",
+    "origin": "Rajarhat, Balaka Abasan",
+    "destination": "Bagbazar",
+    "distance_km": 6.4,
+    "avg_time_min": 15
+  },
+  {
+    "bus_no": "V1",
+    "route_no": "V1",
+    "origin": "Airport",
+    "destination": "Tollygunge",
+    "distance_km": 24.8,
+    "avg_time_min": 59
+  },
+  {
+    "bus_no": "V1",
+    "route_no": "V1",
+    "origin": "Tollygunge",
+    "destination": "Airport",
+    "distance_km": 24.8,
+    "avg_time_min": 59
+  },
+  {
+    "bus_no": "V2",
+    "route_no": "V2",
+    "origin": "Airport",
+    "destination": "Santragachi",
+    "distance_km": 14.2,
+    "avg_time_min": 34
+  },
+  {
+    "bus_no": "V2",
+    "route_no": "V2",
+    "origin": "Santragachi",
+    "destination": "Airport",
+    "distance_km": 14.2,
+    "avg_time_min": 34
+  },
+  {
+    "bus_no": "V9",
+    "route_no": "V9",
+    "origin": "Unitech",
+    "destination": "Tollygunge",
+    "distance_km": 30.8,
+    "avg_time_min": 73
+  },
+  {
+    "bus_no": "V9",
+    "route_no": "V9",
+    "origin": "Tollygunge",
+    "destination": "Unitech",
+    "distance_km": 30.8,
+    "avg_time_min": 73
+  },
+  {
+    "bus_no": "V10",
+    "route_no": "V10",
+    "origin": "Barasat",
+    "destination": "Chetla",
+    "distance_km": 13.9,
+    "avg_time_min": 33
+  },
+  {
+    "bus_no": "V10",
+    "route_no": "V10",
+    "origin": "Chetla",
+    "destination": "Barasat",
+    "distance_km": 13.9,
+    "avg_time_min": 33
+  },
+  {
+    "bus_no": "V13",
+    "route_no": "V13",
+    "origin": "Unitech",
+    "destination": "Chetla",
+    "distance_km": 29.0,
+    "avg_time_min": 69
+  },
+  {
+    "bus_no": "V13",
+    "route_no": "V13",
+    "origin": "Chetla",
+    "destination": "Unitech",
+    "distance_km": 29.0,
+    "avg_time_min": 69
+  },
+  {
+    "bus_no": "V20",
+    "route_no": "V20",
+    "origin": "Barasat",
+    "destination": "Exide",
+    "distance_km": 17.8,
+    "avg_time_min": 42
+  },
+  {
+    "bus_no": "V20",
+    "route_no": "V20",
+    "origin": "Exide",
+    "destination": "Barasat",
+    "distance_km": 17.8,
+    "avg_time_min": 42
+  },
+  {
+    "bus_no": "VS1",
+    "route_no": "VS1",
+    "origin": "Airport",
+    "destination": "Esplanade",
+    "distance_km": 22.8,
+    "avg_time_min": 54
+  },
+  {
+    "bus_no": "VS1",
+    "route_no": "VS1",
+    "origin": "Esplanade",
+    "destination": "Airport",
+    "distance_km": 22.8,
+    "avg_time_min": 54
+  },
+  {
+    "bus_no": "VS2",
+    "route_no": "VS2",
+    "origin": "Airport",
+    "destination": "Howrah Station",
+    "distance_km": 13.5,
+    "avg_time_min": 32
+  },
+  {
+    "bus_no": "VS2",
+    "route_no": "VS2",
+    "origin": "Howrah Station",
+    "destination": "Airport",
+    "distance_km": 13.5,
+    "avg_time_min": 32
+  },
+  {
+    "bus_no": "VS3",
+    "route_no": "VS3",
+    "origin": "Parnasree",
+    "destination": "Airport",
+    "distance_km": 32.1,
+    "avg_time_min": 77
+  },
+  {
+    "bus_no": "VS3",
+    "route_no": "VS3",
+    "origin": "Airport",
+    "destination": "Parnasree",
+    "distance_km": 32.1,
+    "avg_time_min": 77
+  },
+  {
+    "bus_no": "VS4",
+    "route_no": "VS4",
+    "origin": "Parnasree",
+    "destination": "Unitech",
+    "distance_km": 18.7,
+    "avg_time_min": 44
+  },
+  {
+    "bus_no": "VS4",
+    "route_no": "VS4",
+    "origin": "Unitech",
+    "destination": "Parnasree",
+    "distance_km": 18.7,
+    "avg_time_min": 44
+  },
+  {
+    "bus_no": "VS6",
+    "route_no": "VS6",
+    "origin": "Diamond Harbour",
+    "destination": "Esplanade",
+    "distance_km": 39.5,
+    "avg_time_min": 94
+  },
+  {
+    "bus_no": "VS6",
+    "route_no": "VS6",
+    "origin": "Esplanade",
+    "destination": "Diamond Harbour",
+    "distance_km": 39.5,
+    "avg_time_min": 94
+  },
+  {
+    "bus_no": "VS9",
+    "route_no": "VS9",
+    "origin": "Garia Bus Stand",
+    "destination": "Unitech",
+    "distance_km": 26.7,
+    "avg_time_min": 64
+  },
+  {
+    "bus_no": "VS9",
+    "route_no": "VS9",
+    "origin": "Unitech",
+    "destination": "Garia Bus Stand",
+    "distance_km": 26.7,
+    "avg_time_min": 64
+  },
+  {
+    "bus_no": "VS9A",
+    "route_no": "VS9A",
+    "origin": "Garia Bus Stand",
+    "destination": "Airport",
+    "distance_km": 29.5,
+    "avg_time_min": 70
+  },
+  {
+    "bus_no": "VS9A",
+    "route_no": "VS9A",
+    "origin": "Airport",
+    "destination": "Garia Bus Stand",
+    "distance_km": 29.5,
+    "avg_time_min": 70
+  },
+  {
+    "bus_no": "VS10",
+    "route_no": "VS10",
+    "origin": "Kudghat",
+    "destination": "Unitech",
+    "distance_km": 32.8,
+    "avg_time_min": 78
+  },
+  {
+    "bus_no": "VS10",
+    "route_no": "VS10",
+    "origin": "Unitech",
+    "destination": "Kudghat",
+    "distance_km": 32.8,
+    "avg_time_min": 78
+  },
+  {
+    "bus_no": "VS12",
+    "route_no": "VS12",
+    "origin": "Santragachi",
+    "destination": "Salt Lake Karunamoyee",
+    "distance_km": 20.4,
+    "avg_time_min": 48
+  },
+  {
+    "bus_no": "VS12",
+    "route_no": "VS12",
+    "origin": "Salt Lake Karunamoyee",
+    "destination": "Santragachi",
+    "distance_km": 20.4,
+    "avg_time_min": 48
+  },
+  {
+    "bus_no": "MW1",
+    "route_no": "MW1",
+    "origin": "Unitech",
+    "destination": "Sulekha (Jadavpur)",
+    "distance_km": 34.9,
+    "avg_time_min": 83
+  },
+  {
+    "bus_no": "MW1",
+    "route_no": "MW1",
+    "origin": "Sulekha (Jadavpur)",
+    "destination": "Unitech",
+    "distance_km": 34.9,
+    "avg_time_min": 83
+  },
+  {
+    "bus_no": "MW2",
+    "route_no": "MW2",
+    "origin": "Unitech",
+    "destination": "Howrah Station",
+    "distance_km": 14.1,
+    "avg_time_min": 33
+  },
+  {
+    "bus_no": "MW2",
+    "route_no": "MW2",
+    "origin": "Howrah Station",
+    "destination": "Unitech",
+    "distance_km": 14.1,
+    "avg_time_min": 33
+  },
+  {
+    "bus_no": "MW7",
+    "route_no": "MW7",
+    "origin": "Bantala IT Park",
+    "destination": "Airport Gate No.1",
+    "distance_km": 12.0,
+    "avg_time_min": 28
+  },
+  {
+    "bus_no": "MW7",
+    "route_no": "MW7",
+    "origin": "Airport Gate No.1",
+    "destination": "Bantala IT Park",
+    "distance_km": 12.0,
+    "avg_time_min": 28
+  },
+  {
+    "bus_no": "MW9",
+    "route_no": "MW9",
+    "origin": "Bagbazar",
+    "destination": "Unitech",
+    "distance_km": 38.8,
+    "avg_time_min": 93
+  },
+  {
+    "bus_no": "MW9",
+    "route_no": "MW9",
+    "origin": "Unitech",
+    "destination": "Bagbazar",
+    "distance_km": 38.8,
+    "avg_time_min": 93
+  },
+  {
+    "bus_no": "MB1",
+    "route_no": "MB1",
+    "origin": "Barasat",
+    "destination": "Santragachi",
+    "distance_km": 20.7,
+    "avg_time_min": 49
+  },
+  {
+    "bus_no": "MB1",
+    "route_no": "MB1",
+    "origin": "Santragachi",
+    "destination": "Barasat",
+    "distance_km": 20.7,
+    "avg_time_min": 49
+  },
+  {
+    "bus_no": "MB2",
+    "route_no": "MB2",
+    "origin": "Unitech",
+    "destination": "Santragachi",
+    "distance_km": 15.3,
+    "avg_time_min": 36
+  },
+  {
+    "bus_no": "MB2",
+    "route_no": "MB2",
+    "origin": "Santragachi",
+    "destination": "Unitech",
+    "distance_km": 15.3,
+    "avg_time_min": 36
+  },
+  {
+    "bus_no": "MB3",
+    "route_no": "MB3",
+    "origin": "Airport",
+    "destination": "Exide",
+    "distance_km": 36.6,
+    "avg_time_min": 87
+  },
+  {
+    "bus_no": "MB3",
+    "route_no": "MB3",
+    "origin": "Exide",
+    "destination": "Airport",
+    "distance_km": 36.6,
+    "avg_time_min": 87
+  },
+  {
+    "bus_no": "MB4",
+    "route_no": "MB4",
+    "origin": "Barasat",
+    "destination": "Santragachi",
+    "distance_km": 39.9,
+    "avg_time_min": 95
+  },
+  {
+    "bus_no": "MB4",
+    "route_no": "MB4",
+    "origin": "Santragachi",
+    "destination": "Barasat",
+    "distance_km": 39.9,
+    "avg_time_min": 95
+  },
+  {
+    "bus_no": "MB5",
+    "route_no": "MB5",
+    "origin": "Airport",
+    "destination": "Santragachi",
+    "distance_km": 29.6,
+    "avg_time_min": 71
+  },
+  {
+    "bus_no": "MB5",
+    "route_no": "MB5",
+    "origin": "Santragachi",
+    "destination": "Airport",
+    "distance_km": 29.6,
+    "avg_time_min": 71
+  },
+  {
+    "bus_no": "MB7",
+    "route_no": "MB7",
+    "origin": "Barasat",
+    "destination": "Exide",
+    "distance_km": 7.1,
+    "avg_time_min": 17
+  },
+  {
+    "bus_no": "MB7",
+    "route_no": "MB7",
+    "origin": "Exide",
+    "destination": "Barasat",
+    "distance_km": 7.1,
+    "avg_time_min": 17
+  },
+  {
+    "bus_no": "MB8",
+    "route_no": "MB8",
+    "origin": "Unitech",
+    "destination": "Joka",
+    "distance_km": 11.4,
+    "avg_time_min": 27
+  },
+  {
+    "bus_no": "MB8",
+    "route_no": "MB8",
+    "origin": "Joka",
+    "destination": "Unitech",
+    "distance_km": 11.4,
+    "avg_time_min": 27
+  },
+  {
+    "bus_no": "MH2",
+    "route_no": "MH2",
+    "origin": "Barasat",
+    "destination": "Exide",
+    "distance_km": 29.4,
+    "avg_time_min": 70
+  },
+  {
+    "bus_no": "MH2",
+    "route_no": "MH2",
+    "origin": "Exide",
+    "destination": "Barasat",
+    "distance_km": 29.4,
+    "avg_time_min": 70
+  },
+  {
+    "bus_no": "MH3",
+    "route_no": "MH3",
+    "origin": "Unitech",
+    "destination": "Exide",
+    "distance_km": 12.6,
+    "avg_time_min": 30
+  },
+  {
+    "bus_no": "MH3",
+    "route_no": "MH3",
+    "origin": "Exide",
+    "destination": "Unitech",
+    "distance_km": 12.6,
+    "avg_time_min": 30
+  },
+  {
+    "bus_no": "MH4",
+    "route_no": "MH4",
+    "origin": "Barasat",
+    "destination": "Exide",
+    "distance_km": 22.8,
+    "avg_time_min": 54
+  },
+  {
+    "bus_no": "MH4",
+    "route_no": "MH4",
+    "origin": "Exide",
+    "destination": "Barasat",
+    "distance_km": 22.8,
+    "avg_time_min": 54
+  },
+  {
+    "bus_no": "NUVO2",
+    "route_no": "NUVO2",
+    "origin": "Tollygunge",
+    "destination": "Ecospace",
+    "distance_km": 14.7,
+    "avg_time_min": 35
+  },
+  {
+    "bus_no": "NUVO2",
+    "route_no": "NUVO2",
+    "origin": "Ecospace",
+    "destination": "Tollygunge",
+    "distance_km": 14.7,
+    "avg_time_min": 35
+  },
+  {
+    "bus_no": "NUVO4",
+    "route_no": "NUVO4",
+    "origin": "Tollygunge",
+    "destination": "Airport",
+    "distance_km": 18.3,
+    "avg_time_min": 43
+  },
+  {
+    "bus_no": "NUVO4",
+    "route_no": "NUVO4",
+    "origin": "Airport",
+    "destination": "Tollygunge",
+    "distance_km": 18.3,
+    "avg_time_min": 43
+  },
+  {
+    "bus_no": "NUVO10",
+    "route_no": "NUVO10",
+    "origin": "Rashbihari",
+    "destination": "Barasat",
+    "distance_km": 35.6,
+    "avg_time_min": 85
+  },
+  {
+    "bus_no": "NUVO10",
+    "route_no": "NUVO10",
+    "origin": "Barasat",
+    "destination": "Rashbihari",
+    "distance_km": 35.6,
+    "avg_time_min": 85
+  },
+  {
+    "bus_no": "AC1",
+    "route_no": "AC1",
+    "origin": "Jadavpur",
+    "destination": "Howrah Station",
+    "distance_km": 8.8,
+    "avg_time_min": 21
+  },
+  {
+    "bus_no": "AC1",
+    "route_no": "AC1",
+    "origin": "Howrah Station",
+    "destination": "Jadavpur",
+    "distance_km": 8.8,
+    "avg_time_min": 21
+  },
+  {
+    "bus_no": "AC4",
+    "route_no": "AC4",
+    "origin": "Parnasree",
+    "destination": "Howrah Station",
+    "distance_km": 5.6,
+    "avg_time_min": 13
+  },
+  {
+    "bus_no": "AC4",
+    "route_no": "AC4",
+    "origin": "Howrah Station",
+    "destination": "Parnasree",
+    "distance_km": 5.6,
+    "avg_time_min": 13
+  },
+  {
+    "bus_no": "AC4A",
+    "route_no": "AC4A",
+    "origin": "Parnasree",
+    "destination": "Sapoorji Estate",
+    "distance_km": 28.4,
+    "avg_time_min": 68
+  },
+  {
+    "bus_no": "AC4A",
+    "route_no": "AC4A",
+    "origin": "Sapoorji Estate",
+    "destination": "Parnasree",
+    "distance_km": 28.4,
+    "avg_time_min": 68
+  },
+  {
+    "bus_no": "AC5",
+    "route_no": "AC5",
+    "origin": "Garia Bus Stand",
+    "destination": "Howrah Station",
+    "distance_km": 11.0,
+    "avg_time_min": 26
+  },
+  {
+    "bus_no": "AC5",
+    "route_no": "AC5",
+    "origin": "Howrah Station",
+    "destination": "Garia Bus Stand",
+    "distance_km": 11.0,
+    "avg_time_min": 26
+  },
+  {
+    "bus_no": "AC6",
+    "route_no": "AC6",
+    "origin": "Garia Bus Stand",
+    "destination": "Howrah Station",
+    "distance_km": 11.7,
+    "avg_time_min": 28
+  },
+  {
+    "bus_no": "AC6",
+    "route_no": "AC6",
+    "origin": "Howrah Station",
+    "destination": "Garia Bus Stand",
+    "distance_km": 11.7,
+    "avg_time_min": 28
+  },
+  {
+    "bus_no": "AC9",
+    "route_no": "AC9",
+    "origin": "Jadavpur",
+    "destination": "Salt Lake Karunamoyee",
+    "distance_km": 29.4,
+    "avg_time_min": 70
+  },
+  {
+    "bus_no": "AC9",
+    "route_no": "AC9",
+    "origin": "Salt Lake Karunamoyee",
+    "destination": "Jadavpur",
+    "distance_km": 29.4,
+    "avg_time_min": 70
+  },
+  {
+    "bus_no": "AC9A",
+    "route_no": "AC9A",
+    "origin": "Golf Green",
+    "destination": "Dakshineshwar",
+    "distance_km": 27.4,
+    "avg_time_min": 65
+  },
+  {
+    "bus_no": "AC9A",
+    "route_no": "AC9A",
+    "origin": "Dakshineshwar",
+    "destination": "Golf Green",
+    "distance_km": 27.4,
+    "avg_time_min": 65
+  },
+  {
+    "bus_no": "AC10",
+    "route_no": "AC10",
+    "origin": "Nilgunge",
+    "destination": "Howrah Station",
+    "distance_km": 28.0,
+    "avg_time_min": 67
+  },
+  {
+    "bus_no": "AC10",
+    "route_no": "AC10",
+    "origin": "Howrah Station",
+    "destination": "Nilgunge",
+    "distance_km": 28.0,
+    "avg_time_min": 67
+  },
+  {
+    "bus_no": "AC12",
+    "route_no": "AC12",
+    "origin": "Sapoorji Estate",
+    "destination": "Howrah Station",
+    "distance_km": 30.4,
+    "avg_time_min": 72
+  },
+  {
+    "bus_no": "AC12",
+    "route_no": "AC12",
+    "origin": "Howrah Station",
+    "destination": "Sapoorji Estate",
+    "distance_km": 30.4,
+    "avg_time_min": 72
+  },
+  {
+    "bus_no": "AC12D",
+    "route_no": "AC12D",
+    "origin": "Joka",
+    "destination": "Howrah Station",
+    "distance_km": 20.5,
+    "avg_time_min": 49
+  },
+  {
+    "bus_no": "AC12D",
+    "route_no": "AC12D",
+    "origin": "Howrah Station",
+    "destination": "Joka",
+    "distance_km": 20.5,
+    "avg_time_min": 49
+  },
+  {
+    "bus_no": "AC14",
+    "route_no": "AC14",
+    "origin": "Baruipur",
+    "destination": "Salt Lake Karunamoyee",
+    "distance_km": 5.5,
+    "avg_time_min": 13
+  },
+  {
+    "bus_no": "AC14",
+    "route_no": "AC14",
+    "origin": "Salt Lake Karunamoyee",
+    "destination": "Baruipur",
+    "distance_km": 5.5,
+    "avg_time_min": 13
+  },
+  {
+    "bus_no": "AC15",
+    "route_no": "AC15",
+    "origin": "Bantala IT Park",
+    "destination": "Howrah Station",
+    "distance_km": 12.7,
+    "avg_time_min": 30
+  },
+  {
+    "bus_no": "AC15",
+    "route_no": "AC15",
+    "origin": "Howrah Station",
+    "destination": "Bantala IT Park",
+    "distance_km": 12.7,
+    "avg_time_min": 30
+  },
+  {
+    "bus_no": "AC17",
+    "route_no": "AC17",
+    "origin": "Haridebpur",
+    "destination": "Salt lake Depot",
+    "distance_km": 20.7,
+    "avg_time_min": 49
+  },
+  {
+    "bus_no": "AC17",
+    "route_no": "AC17",
+    "origin": "Salt lake Depot",
+    "destination": "Haridebpur",
+    "distance_km": 20.7,
+    "avg_time_min": 49
+  },
+  {
+    "bus_no": "AC17B",
+    "route_no": "AC17B",
+    "origin": "Kudghat",
+    "destination": "Dunlop",
+    "distance_km": 21.2,
+    "avg_time_min": 50
+  },
+  {
+    "bus_no": "AC17B",
+    "route_no": "AC17B",
+    "origin": "Dunlop",
+    "destination": "Kudghat",
+    "distance_km": 21.2,
+    "avg_time_min": 50
+  },
+  {
+    "bus_no": "AC20",
+    "route_no": "AC20",
+    "origin": "Barrackpore Court",
+    "destination": "Santragachi",
+    "distance_km": 23.5,
+    "avg_time_min": 56
+  },
+  {
+    "bus_no": "AC20",
+    "route_no": "AC20",
+    "origin": "Santragachi",
+    "destination": "Barrackpore Court",
+    "distance_km": 23.5,
+    "avg_time_min": 56
+  },
+  {
+    "bus_no": "AC23A",
+    "route_no": "AC23A",
+    "origin": "Bally khal",
+    "destination": "Salt Lake Depot",
+    "distance_km": 27.5,
+    "avg_time_min": 66
+  },
+  {
+    "bus_no": "AC23A",
+    "route_no": "AC23A",
+    "origin": "Salt Lake Depot",
+    "destination": "Bally khal",
+    "distance_km": 27.5,
+    "avg_time_min": 66
+  },
+  {
+    "bus_no": "AC24",
+    "route_no": "AC24",
+    "origin": "Patuli",
+    "destination": "Howrah Station",
+    "distance_km": 20.8,
+    "avg_time_min": 49
+  },
+  {
+    "bus_no": "AC24",
+    "route_no": "AC24",
+    "origin": "Howrah Station",
+    "destination": "Patuli",
+    "distance_km": 20.8,
+    "avg_time_min": 49
+  },
+  {
+    "bus_no": "AC25",
+    "route_no": "AC25",
+    "origin": "New Town",
+    "destination": "Dunlop",
+    "distance_km": 10.2,
+    "avg_time_min": 24
+  },
+  {
+    "bus_no": "AC25",
+    "route_no": "AC25",
+    "origin": "Dunlop",
+    "destination": "New Town",
+    "distance_km": 10.2,
+    "avg_time_min": 24
+  },
+  {
+    "bus_no": "AC37B",
+    "route_no": "AC37B",
+    "origin": "Garia Bus Stand",
+    "destination": "Airport Gate No.1 (Via Santoshpur)",
+    "distance_km": 5.3,
+    "avg_time_min": 12
+  },
+  {
+    "bus_no": "AC37B",
+    "route_no": "AC37B",
+    "origin": "Airport Gate No.1 (Via Santoshpur)",
+    "destination": "Garia Bus Stand",
+    "distance_km": 5.3,
+    "avg_time_min": 12
+  },
+  {
+    "bus_no": "AC39",
+    "route_no": "AC39",
+    "origin": "Airport",
+    "destination": "Howrah Station",
+    "distance_km": 19.9,
+    "avg_time_min": 47
+  },
+  {
+    "bus_no": "AC39",
+    "route_no": "AC39",
+    "origin": "Howrah Station",
+    "destination": "Airport",
+    "distance_km": 19.9,
+    "avg_time_min": 47
+  },
+  {
+    "bus_no": "AC41",
+    "route_no": "AC41",
+    "origin": "Santragachi",
+    "destination": "Ecospace",
+    "distance_km": 32.3,
+    "avg_time_min": 77
+  },
+  {
+    "bus_no": "AC41",
+    "route_no": "AC41",
+    "origin": "Ecospace",
+    "destination": "Santragachi",
+    "distance_km": 32.3,
+    "avg_time_min": 77
+  },
+  {
+    "bus_no": "AC43",
+    "route_no": "AC43",
+    "origin": "Golf Green",
+    "destination": "Airport New Terminal",
+    "distance_km": 26.3,
+    "avg_time_min": 63
+  },
+  {
+    "bus_no": "AC43",
+    "route_no": "AC43",
+    "origin": "Airport New Terminal",
+    "destination": "Golf Green",
+    "distance_km": 26.3,
+    "avg_time_min": 63
+  },
+  {
+    "bus_no": "AC44",
+    "route_no": "AC44",
+    "origin": "Nabanna",
+    "destination": "New Town",
+    "distance_km": 7.0,
+    "avg_time_min": 16
+  },
+  {
+    "bus_no": "AC44",
+    "route_no": "AC44",
+    "origin": "New Town",
+    "destination": "Nabanna",
+    "distance_km": 7.0,
+    "avg_time_min": 16
+  },
+  {
+    "bus_no": "AC47",
+    "route_no": "AC47",
+    "origin": "Kudghat",
+    "destination": "Unitech",
+    "distance_km": 19.6,
+    "avg_time_min": 47
+  },
+  {
+    "bus_no": "AC47",
+    "route_no": "AC47",
+    "origin": "Unitech",
+    "destination": "Kudghat",
+    "distance_km": 19.6,
+    "avg_time_min": 47
+  },
+  {
+    "bus_no": "AC48",
+    "route_no": "AC48",
+    "origin": "Kudghat",
+    "destination": "Bantala IT Park",
+    "distance_km": 30.0,
+    "avg_time_min": 72
+  },
+  {
+    "bus_no": "AC48",
+    "route_no": "AC48",
+    "origin": "Bantala IT Park",
+    "destination": "Kudghat",
+    "distance_km": 30.0,
+    "avg_time_min": 72
+  },
+  {
+    "bus_no": "AC49",
+    "route_no": "AC49",
+    "origin": "Eden City Maheshtala",
+    "destination": "Airport",
+    "distance_km": 17.8,
+    "avg_time_min": 42
+  },
+  {
+    "bus_no": "AC49",
+    "route_no": "AC49",
+    "origin": "Airport",
+    "destination": "Eden City Maheshtala",
+    "distance_km": 17.8,
+    "avg_time_min": 42
+  },
+  {
+    "bus_no": "AC49A",
+    "route_no": "AC49A",
+    "origin": "Behala no. 14 Terminus",
+    "destination": "Airport",
+    "distance_km": 38.3,
+    "avg_time_min": 91
+  },
+  {
+    "bus_no": "AC49A",
+    "route_no": "AC49A",
+    "origin": "Airport",
+    "destination": "Behala no. 14 Terminus",
+    "distance_km": 38.3,
+    "avg_time_min": 91
+  },
+  {
+    "bus_no": "AC50",
+    "route_no": "AC50",
+    "origin": "Garia",
+    "destination": "Belur Math",
+    "distance_km": 17.5,
+    "avg_time_min": 42
+  },
+  {
+    "bus_no": "AC50",
+    "route_no": "AC50",
+    "origin": "Belur Math",
+    "destination": "Garia",
+    "distance_km": 17.5,
+    "avg_time_min": 42
+  },
+  {
+    "bus_no": "AC51",
+    "route_no": "AC51",
+    "origin": "Kudghat",
+    "destination": "Airport",
+    "distance_km": 25.7,
+    "avg_time_min": 61
+  },
+  {
+    "bus_no": "AC51",
+    "route_no": "AC51",
+    "origin": "Airport",
+    "destination": "Kudghat",
+    "distance_km": 25.7,
+    "avg_time_min": 61
+  },
+  {
+    "bus_no": "AC52",
+    "route_no": "AC52",
+    "origin": "Amtala",
+    "destination": "Howrah Station",
+    "distance_km": 13.5,
+    "avg_time_min": 32
+  },
+  {
+    "bus_no": "AC52",
+    "route_no": "AC52",
+    "origin": "Howrah Station",
+    "destination": "Amtala",
+    "distance_km": 13.5,
+    "avg_time_min": 32
+  },
+  {
+    "bus_no": "AC53",
+    "route_no": "AC53",
+    "origin": "Santragachi",
+    "destination": "Kasba Depot",
+    "distance_km": 12.6,
+    "avg_time_min": 30
+  },
+  {
+    "bus_no": "AC53",
+    "route_no": "AC53",
+    "origin": "Kasba Depot",
+    "destination": "Santragachi",
+    "distance_km": 12.6,
+    "avg_time_min": 30
+  },
+  {
+    "bus_no": "3",
+    "route_no": "3",
+    "origin": "Sealdah",
+    "destination": "Dahighat",
+    "distance_km": 18.9,
+    "avg_time_min": 45
+  },
+  {
+    "bus_no": "3",
+    "route_no": "3",
+    "origin": "Dahighat",
+    "destination": "Sealdah",
+    "distance_km": 18.9,
+    "avg_time_min": 45
+  },
+  {
+    "bus_no": "3A",
+    "route_no": "3A",
+    "origin": "Thakurpukur",
+    "destination": "Sealdah",
+    "distance_km": 25.6,
+    "avg_time_min": 61
+  },
+  {
+    "bus_no": "3A",
+    "route_no": "3A",
+    "origin": "Sealdah",
+    "destination": "Thakurpukur",
+    "distance_km": 25.6,
+    "avg_time_min": 61
+  },
+  {
+    "bus_no": "3A/1",
+    "route_no": "3A/1",
+    "origin": "Behala",
+    "destination": "Kankurgachi",
+    "distance_km": 37.0,
+    "avg_time_min": 88
+  },
+  {
+    "bus_no": "3A/1",
+    "route_no": "3A/1",
+    "origin": "Kankurgachi",
+    "destination": "Behala",
+    "distance_km": 37.0,
+    "avg_time_min": 88
+  },
+  {
+    "bus_no": "3A/2",
+    "route_no": "3A/2",
+    "origin": "Salt Lake Depot",
+    "destination": "Sarsuna",
+    "distance_km": 5.4,
+    "avg_time_min": 12
+  },
+  {
+    "bus_no": "3A/2",
+    "route_no": "3A/2",
+    "origin": "Sarsuna",
+    "destination": "Salt Lake Depot",
+    "distance_km": 5.4,
+    "avg_time_min": 12
+  },
+  {
+    "bus_no": "5",
+    "route_no": "5",
+    "origin": "Garia",
+    "destination": "Howrah Station",
+    "distance_km": 7.4,
+    "avg_time_min": 17
+  },
+  {
+    "bus_no": "5",
+    "route_no": "5",
+    "origin": "Howrah Station",
+    "destination": "Garia",
+    "distance_km": 7.4,
+    "avg_time_min": 17
+  },
+  {
+    "bus_no": "6",
+    "route_no": "6",
+    "origin": "Garia",
+    "destination": "Howrah Station",
+    "distance_km": 39.6,
+    "avg_time_min": 95
+  },
+  {
+    "bus_no": "6",
+    "route_no": "6",
+    "origin": "Howrah Station",
+    "destination": "Garia",
+    "distance_km": 39.6,
+    "avg_time_min": 95
+  },
+  {
+    "bus_no": "6N",
+    "route_no": "6N",
+    "origin": "Garia",
+    "destination": "Nabanna",
+    "distance_km": 17.4,
+    "avg_time_min": 41
+  },
+  {
+    "bus_no": "6N",
+    "route_no": "6N",
+    "origin": "Nabanna",
+    "destination": "Garia",
+    "distance_km": 17.4,
+    "avg_time_min": 41
+  },
+  {
+    "bus_no": "7B",
+    "route_no": "7B",
+    "origin": "Howrah Station",
+    "destination": "Shibrampur",
+    "distance_km": 36.8,
+    "avg_time_min": 88
+  },
+  {
+    "bus_no": "7B",
+    "route_no": "7B",
+    "origin": "Shibrampur",
+    "destination": "Howrah Station",
+    "distance_km": 36.8,
+    "avg_time_min": 88
+  },
+  {
+    "bus_no": "7C",
+    "route_no": "7C",
+    "origin": "Howrah Station",
+    "destination": "Sasthir More",
+    "distance_km": 31.7,
+    "avg_time_min": 76
+  },
+  {
+    "bus_no": "7C",
+    "route_no": "7C",
+    "origin": "Sasthir More",
+    "destination": "Howrah Station",
+    "distance_km": 31.7,
+    "avg_time_min": 76
+  },
+  {
+    "bus_no": "7D",
+    "route_no": "7D",
+    "origin": "Kankurgachi",
+    "destination": "Sonamukhi Bazar",
+    "distance_km": 11.6,
+    "avg_time_min": 27
+  },
+  {
+    "bus_no": "7D",
+    "route_no": "7D",
+    "origin": "Sonamukhi Bazar",
+    "destination": "Kankurgachi",
+    "distance_km": 11.6,
+    "avg_time_min": 27
+  },
+  {
+    "bus_no": "7E",
+    "route_no": "7E",
+    "origin": "Howrah Station",
+    "destination": "Bagpota",
+    "distance_km": 15.4,
+    "avg_time_min": 36
+  },
+  {
+    "bus_no": "7E",
+    "route_no": "7E",
+    "origin": "Bagpota",
+    "destination": "Howrah Station",
+    "distance_km": 15.4,
+    "avg_time_min": 36
+  },
+  {
+    "bus_no": "7N",
+    "route_no": "7N",
+    "origin": "Sarsuna",
+    "destination": "Nabanna",
+    "distance_km": 31.0,
+    "avg_time_min": 74
+  },
+  {
+    "bus_no": "7N",
+    "route_no": "7N",
+    "origin": "Nabanna",
+    "destination": "Sarsuna",
+    "distance_km": 31.0,
+    "avg_time_min": 74
+  },
+  {
+    "bus_no": "8B/N",
+    "route_no": "8B/N",
+    "origin": "Jadavpur",
+    "destination": "Nabanna",
+    "distance_km": 19.7,
+    "avg_time_min": 47
+  },
+  {
+    "bus_no": "8B/N",
+    "route_no": "8B/N",
+    "origin": "Nabanna",
+    "destination": "Jadavpur",
+    "distance_km": 19.7,
+    "avg_time_min": 47
+  },
+  {
+    "bus_no": "9A",
+    "route_no": "9A",
+    "origin": "Dunlop",
+    "destination": "Ballygunge",
+    "distance_km": 30.6,
+    "avg_time_min": 73
+  },
+  {
+    "bus_no": "9A",
+    "route_no": "9A",
+    "origin": "Ballygunge",
+    "destination": "Dunlop",
+    "distance_km": 30.6,
+    "avg_time_min": 73
+  },
+  {
+    "bus_no": "11",
+    "route_no": "11",
+    "origin": "Howrah Station",
+    "destination": "Rathtala",
+    "distance_km": 31.0,
+    "avg_time_min": 74
+  },
+  {
+    "bus_no": "11",
+    "route_no": "11",
+    "origin": "Rathtala",
+    "destination": "Howrah Station",
+    "distance_km": 31.0,
+    "avg_time_min": 74
+  },
+  {
+    "bus_no": "11A",
+    "route_no": "11A",
+    "origin": "Dumdum",
+    "destination": "Howrah",
+    "distance_km": 28.9,
+    "avg_time_min": 69
+  },
+  {
+    "bus_no": "11A",
+    "route_no": "11A",
+    "origin": "Howrah",
+    "destination": "Dumdum",
+    "distance_km": 28.9,
+    "avg_time_min": 69
+  },
+  {
+    "bus_no": "12D",
+    "route_no": "12D",
+    "origin": "Howrah Station",
+    "destination": "Thakurpukur",
+    "distance_km": 34.8,
+    "avg_time_min": 83
+  },
+  {
+    "bus_no": "12D",
+    "route_no": "12D",
+    "origin": "Thakurpukur",
+    "destination": "Howrah Station",
+    "distance_km": 34.8,
+    "avg_time_min": 83
+  },
+  {
+    "bus_no": "12D/N",
+    "route_no": "12D/N",
+    "origin": "Thakurpukur",
+    "destination": "Nabanna",
+    "distance_km": 39.7,
+    "avg_time_min": 95
+  },
+  {
+    "bus_no": "12D/N",
+    "route_no": "12D/N",
+    "origin": "Nabanna",
+    "destination": "Thakurpukur",
+    "distance_km": 39.7,
+    "avg_time_min": 95
+  },
+  {
+    "bus_no": "14",
+    "route_no": "14",
+    "origin": "Behala",
+    "destination": "Bengal Chemical",
+    "distance_km": 35.4,
+    "avg_time_min": 84
+  },
+  {
+    "bus_no": "14",
+    "route_no": "14",
+    "origin": "Bengal Chemical",
+    "destination": "Behala",
+    "distance_km": 35.4,
+    "avg_time_min": 84
+  },
+  {
+    "bus_no": "14A",
+    "route_no": "14A",
+    "origin": "Harimohan Ghosh College",
+    "destination": "Salt Lake Karunamayee",
+    "distance_km": 24.9,
+    "avg_time_min": 59
+  },
+  {
+    "bus_no": "14A",
+    "route_no": "14A",
+    "origin": "Salt Lake Karunamayee",
+    "destination": "Harimohan Ghosh College",
+    "distance_km": 24.9,
+    "avg_time_min": 59
+  },
+  {
+    "bus_no": "19",
+    "route_no": "19",
+    "origin": "Taratala",
+    "destination": "Budge Budge",
+    "distance_km": 22.5,
+    "avg_time_min": 54
+  },
+  {
+    "bus_no": "19",
+    "route_no": "19",
+    "origin": "Budge Budge",
+    "destination": "Taratala",
+    "distance_km": 22.5,
+    "avg_time_min": 54
+  },
+  {
+    "bus_no": "19A",
+    "route_no": "19A",
+    "origin": "Rajabagan",
+    "destination": "Howrah station",
+    "distance_km": 33.8,
+    "avg_time_min": 81
+  },
+  {
+    "bus_no": "19A",
+    "route_no": "19A",
+    "origin": "Howrah station",
+    "destination": "Rajabagan",
+    "distance_km": 33.8,
+    "avg_time_min": 81
+  },
+  {
+    "bus_no": "19B",
+    "route_no": "19B",
+    "origin": "Taratala",
+    "destination": "Bawali",
+    "distance_km": 15.2,
+    "avg_time_min": 36
+  },
+  {
+    "bus_no": "19B",
+    "route_no": "19B",
+    "origin": "Bawali",
+    "destination": "Taratala",
+    "distance_km": 15.2,
+    "avg_time_min": 36
+  },
+  {
+    "bus_no": "19S",
+    "route_no": "19S",
+    "origin": "Taratala",
+    "destination": "Bishalaxmi Tala",
+    "distance_km": 34.5,
+    "avg_time_min": 82
+  },
+  {
+    "bus_no": "19S",
+    "route_no": "19S",
+    "origin": "Bishalaxmi Tala",
+    "destination": "Taratala",
+    "distance_km": 34.5,
+    "avg_time_min": 82
+  },
+  {
+    "bus_no": "33",
+    "route_no": "33",
+    "origin": "Maniktala",
+    "destination": "Chetla",
+    "distance_km": 26.9,
+    "avg_time_min": 64
+  },
+  {
+    "bus_no": "33",
+    "route_no": "33",
+    "origin": "Chetla",
+    "destination": "Maniktala",
+    "distance_km": 26.9,
+    "avg_time_min": 64
+  },
+  {
+    "bus_no": "75A",
+    "route_no": "75A",
+    "origin": "Behala",
+    "destination": "Raipur",
+    "distance_km": 11.1,
+    "avg_time_min": 26
+  },
+  {
+    "bus_no": "75A",
+    "route_no": "75A",
+    "origin": "Raipur",
+    "destination": "Behala",
+    "distance_km": 11.1,
+    "avg_time_min": 26
+  },
+  {
+    "bus_no": "M7D",
+    "route_no": "M7D",
+    "origin": "Kankurgachi",
+    "destination": "Sonamukhi Bazar",
+    "distance_km": 20.1,
+    "avg_time_min": 48
+  },
+  {
+    "bus_no": "M7D",
+    "route_no": "M7D",
+    "origin": "Sonamukhi Bazar",
+    "destination": "Kankurgachi",
+    "distance_km": 20.1,
+    "avg_time_min": 48
+  },
+  {
+    "bus_no": "M7E",
+    "route_no": "M7E",
+    "origin": "Howrah Station",
+    "destination": "Bagpota",
+    "distance_km": 24.2,
+    "avg_time_min": 58
+  },
+  {
+    "bus_no": "M7E",
+    "route_no": "M7E",
+    "origin": "Bagpota",
+    "destination": "Howrah Station",
+    "distance_km": 24.2,
+    "avg_time_min": 58
+  },
+  {
+    "bus_no": "Midi",
+    "route_no": "Midi",
+    "origin": "1         Howrah",
+    "destination": "Rajabazar",
+    "distance_km": 28.9,
+    "avg_time_min": 69
+  },
+  {
+    "bus_no": "Midi",
+    "route_no": "Midi",
+    "origin": "Rajabazar",
+    "destination": "1         Howrah",
+    "distance_km": 28.9,
+    "avg_time_min": 69
+  },
+  {
+    "bus_no": "Midi",
+    "route_no": "Midi",
+    "origin": "2         Howrah Maidan",
+    "destination": "Subhash Sarobar",
+    "distance_km": 22.2,
+    "avg_time_min": 53
+  },
+  {
+    "bus_no": "Midi",
+    "route_no": "Midi",
+    "origin": "Subhash Sarobar",
+    "destination": "2         Howrah Maidan",
+    "distance_km": 22.2,
+    "avg_time_min": 53
+  },
+  {
+    "bus_no": "C1A",
+    "route_no": "C1A",
+    "origin": "Sealdah",
+    "destination": "Danesh Shekh Lane",
+    "distance_km": 20.5,
+    "avg_time_min": 49
+  },
+  {
+    "bus_no": "C1A",
+    "route_no": "C1A",
+    "origin": "Danesh Shekh Lane",
+    "destination": "Sealdah",
+    "distance_km": 20.5,
+    "avg_time_min": 49
+  },
+  {
+    "bus_no": "C2A",
+    "route_no": "C2A",
+    "origin": "Tollygunge",
+    "destination": "Ghatakpukur",
+    "distance_km": 12.9,
+    "avg_time_min": 30
+  },
+  {
+    "bus_no": "C2A",
+    "route_no": "C2A",
+    "origin": "Ghatakpukur",
+    "destination": "Tollygunge",
+    "distance_km": 12.9,
+    "avg_time_min": 30
+  },
+  {
+    "bus_no": "C7",
+    "route_no": "C7",
+    "origin": "Howrah Station",
+    "destination": "Harimohan Ghosh College",
+    "distance_km": 20.5,
+    "avg_time_min": 49
+  },
+  {
+    "bus_no": "C7",
+    "route_no": "C7",
+    "origin": "Harimohan Ghosh College",
+    "destination": "Howrah Station",
+    "distance_km": 20.5,
+    "avg_time_min": 49
+  },
+  {
+    "bus_no": "C8",
+    "route_no": "C8",
+    "origin": "Barasat",
+    "destination": "Joka/Ruby",
+    "distance_km": 23.7,
+    "avg_time_min": 56
+  },
+  {
+    "bus_no": "C8",
+    "route_no": "C8",
+    "origin": "Joka/Ruby",
+    "destination": "Barasat",
+    "distance_km": 23.7,
+    "avg_time_min": 56
+  },
+  {
+    "bus_no": "C8A",
+    "route_no": "C8A",
+    "origin": "Tollygunge",
+    "destination": "Airport Gate No.1",
+    "distance_km": 11.4,
+    "avg_time_min": 27
+  },
+  {
+    "bus_no": "C8A",
+    "route_no": "C8A",
+    "origin": "Airport Gate No.1",
+    "destination": "Tollygunge",
+    "distance_km": 11.4,
+    "avg_time_min": 27
+  },
+  {
+    "bus_no": "C11",
+    "route_no": "C11",
+    "origin": "B.B.D. Bagh",
+    "destination": "Domjur",
+    "distance_km": 9.0,
+    "avg_time_min": 21
+  },
+  {
+    "bus_no": "C11",
+    "route_no": "C11",
+    "origin": "Domjur",
+    "destination": "B.B.D. Bagh",
+    "distance_km": 9.0,
+    "avg_time_min": 21
+  },
+  {
+    "bus_no": "C11/1",
+    "route_no": "C11/1",
+    "origin": "Howrah Station",
+    "destination": "Munshirhat",
+    "distance_km": 17.1,
+    "avg_time_min": 41
+  },
+  {
+    "bus_no": "C11/1",
+    "route_no": "C11/1",
+    "origin": "Munshirhat",
+    "destination": "Howrah Station",
+    "distance_km": 17.1,
+    "avg_time_min": 41
+  },
+  {
+    "bus_no": "C14/1",
+    "route_no": "C14/1",
+    "origin": "Tollygunge",
+    "destination": "Madhyamgram",
+    "distance_km": 32.0,
+    "avg_time_min": 76
+  },
+  {
+    "bus_no": "C14/1",
+    "route_no": "C14/1",
+    "origin": "Madhyamgram",
+    "destination": "Tollygunge",
+    "distance_km": 32.0,
+    "avg_time_min": 76
+  },
+  {
+    "bus_no": "C20",
+    "route_no": "C20",
+    "origin": "Esplanade",
+    "destination": "Santragachi Station",
+    "distance_km": 38.0,
+    "avg_time_min": 91
+  },
+  {
+    "bus_no": "C20",
+    "route_no": "C20",
+    "origin": "Santragachi Station",
+    "destination": "Esplanade",
+    "distance_km": 38.0,
+    "avg_time_min": 91
+  },
+  {
+    "bus_no": "C23",
+    "route_no": "C23",
+    "origin": "Park Circus",
+    "destination": "Dankuni Housing Estate",
+    "distance_km": 25.4,
+    "avg_time_min": 60
+  },
+  {
+    "bus_no": "C23",
+    "route_no": "C23",
+    "origin": "Dankuni Housing Estate",
+    "destination": "Park Circus",
+    "distance_km": 25.4,
+    "avg_time_min": 60
+  },
+  {
+    "bus_no": "C24",
+    "route_no": "C24",
+    "origin": "Ghasbagan",
+    "destination": "Sealdah",
+    "distance_km": 10.4,
+    "avg_time_min": 24
+  },
+  {
+    "bus_no": "C24",
+    "route_no": "C24",
+    "origin": "Sealdah",
+    "destination": "Ghasbagan",
+    "distance_km": 10.4,
+    "avg_time_min": 24
+  },
+  {
+    "bus_no": "C25",
+    "route_no": "C25",
+    "origin": "Howrah Station",
+    "destination": "Salt Lake Bikash Bhawan",
+    "distance_km": 12.8,
+    "avg_time_min": 30
+  },
+  {
+    "bus_no": "C25",
+    "route_no": "C25",
+    "origin": "Salt Lake Bikash Bhawan",
+    "destination": "Howrah Station",
+    "distance_km": 12.8,
+    "avg_time_min": 30
+  },
+  {
+    "bus_no": "C26",
+    "route_no": "C26",
+    "origin": "Howrah Station",
+    "destination": "Baruipur",
+    "distance_km": 19.8,
+    "avg_time_min": 47
+  },
+  {
+    "bus_no": "C26",
+    "route_no": "C26",
+    "origin": "Baruipur",
+    "destination": "Howrah Station",
+    "distance_km": 19.8,
+    "avg_time_min": 47
+  },
+  {
+    "bus_no": "C27",
+    "route_no": "C27",
+    "origin": "Nabanna / Esplanade",
+    "destination": "Barasat University",
+    "distance_km": 38.9,
+    "avg_time_min": 93
+  },
+  {
+    "bus_no": "C27",
+    "route_no": "C27",
+    "origin": "Barasat University",
+    "destination": "Nabanna / Esplanade",
+    "distance_km": 38.9,
+    "avg_time_min": 93
+  },
+  {
+    "bus_no": "C28",
+    "route_no": "C28",
+    "origin": "Barrackpur",
+    "destination": "Howrah Station",
+    "distance_km": 11.8,
+    "avg_time_min": 28
+  },
+  {
+    "bus_no": "C28",
+    "route_no": "C28",
+    "origin": "Howrah Station",
+    "destination": "Barrackpur",
+    "distance_km": 11.8,
+    "avg_time_min": 28
+  },
+  {
+    "bus_no": "C30",
+    "route_no": "C30",
+    "origin": "Rajabazar",
+    "destination": "Sankrail",
+    "distance_km": 33.7,
+    "avg_time_min": 80
+  },
+  {
+    "bus_no": "C30",
+    "route_no": "C30",
+    "origin": "Sankrail",
+    "destination": "Rajabazar",
+    "distance_km": 33.7,
+    "avg_time_min": 80
+  },
+  {
+    "bus_no": "D1",
+    "route_no": "D1",
+    "origin": "Tollygunge",
+    "destination": "Chakdaha",
+    "distance_km": 30.7,
+    "avg_time_min": 73
+  },
+  {
+    "bus_no": "D1",
+    "route_no": "D1",
+    "origin": "Chakdaha",
+    "destination": "Tollygunge",
+    "distance_km": 30.7,
+    "avg_time_min": 73
+  },
+  {
+    "bus_no": "D2",
+    "route_no": "D2",
+    "origin": "Habra",
+    "destination": "Naihati",
+    "distance_km": 39.7,
+    "avg_time_min": 95
+  },
+  {
+    "bus_no": "D2",
+    "route_no": "D2",
+    "origin": "Naihati",
+    "destination": "Habra",
+    "distance_km": 39.7,
+    "avg_time_min": 95
+  },
+  {
+    "bus_no": "E6",
+    "route_no": "E6",
+    "origin": "Esplanade",
+    "destination": "Amta",
+    "distance_km": 13.9,
+    "avg_time_min": 33
+  },
+  {
+    "bus_no": "E6",
+    "route_no": "E6",
+    "origin": "Amta",
+    "destination": "Esplanade",
+    "distance_km": 13.9,
+    "avg_time_min": 33
+  },
+  {
+    "bus_no": "E7",
+    "route_no": "E7",
+    "origin": "Esplanade",
+    "destination": "Bagnan",
+    "distance_km": 25.5,
+    "avg_time_min": 61
+  },
+  {
+    "bus_no": "E7",
+    "route_no": "E7",
+    "origin": "Bagnan",
+    "destination": "Esplanade",
+    "distance_km": 25.5,
+    "avg_time_min": 61
+  },
+  {
+    "bus_no": "E7/1",
+    "route_no": "E7/1",
+    "origin": "Esplanade",
+    "destination": "Shyampur",
+    "distance_km": 35.4,
+    "avg_time_min": 84
+  },
+  {
+    "bus_no": "E7/1",
+    "route_no": "E7/1",
+    "origin": "Shyampur",
+    "destination": "Esplanade",
+    "distance_km": 35.4,
+    "avg_time_min": 84
+  },
+  {
+    "bus_no": "E12",
+    "route_no": "E12",
+    "origin": "Esplanade",
+    "destination": "Udaynarayanpur",
+    "distance_km": 6.3,
+    "avg_time_min": 15
+  },
+  {
+    "bus_no": "E12",
+    "route_no": "E12",
+    "origin": "Udaynarayanpur",
+    "destination": "Esplanade",
+    "distance_km": 6.3,
+    "avg_time_min": 15
+  },
+  {
+    "bus_no": "E13",
+    "route_no": "E13",
+    "origin": "Esplanade",
+    "destination": "Jangipara",
+    "distance_km": 18.7,
+    "avg_time_min": 44
+  },
+  {
+    "bus_no": "E13",
+    "route_no": "E13",
+    "origin": "Jangipara",
+    "destination": "Esplanade",
+    "distance_km": 18.7,
+    "avg_time_min": 44
+  },
+  {
+    "bus_no": "E13/1",
+    "route_no": "E13/1",
+    "origin": "Esplanade",
+    "destination": "Jangipara",
+    "distance_km": 10.4,
+    "avg_time_min": 24
+  },
+  {
+    "bus_no": "E13/1",
+    "route_no": "E13/1",
+    "origin": "Jangipara",
+    "destination": "Esplanade",
+    "distance_km": 10.4,
+    "avg_time_min": 24
+  },
+  {
+    "bus_no": "E16",
+    "route_no": "E16",
+    "origin": "Howrah",
+    "destination": "Kalyani",
+    "distance_km": 14.8,
+    "avg_time_min": 35
+  },
+  {
+    "bus_no": "E16",
+    "route_no": "E16",
+    "origin": "Kalyani",
+    "destination": "Howrah",
+    "distance_km": 14.8,
+    "avg_time_min": 35
+  },
+  {
+    "bus_no": "E17",
+    "route_no": "E17",
+    "origin": "Barasat",
+    "destination": "Digha",
+    "distance_km": 9.0,
+    "avg_time_min": 21
+  },
+  {
+    "bus_no": "E17",
+    "route_no": "E17",
+    "origin": "Digha",
+    "destination": "Barasat",
+    "distance_km": 9.0,
+    "avg_time_min": 21
+  },
+  {
+    "bus_no": "E18",
+    "route_no": "E18",
+    "origin": "Esplanade",
+    "destination": "Dhamakhali",
+    "distance_km": 26.0,
+    "avg_time_min": 62
+  },
+  {
+    "bus_no": "E18",
+    "route_no": "E18",
+    "origin": "Dhamakhali",
+    "destination": "Esplanade",
+    "distance_km": 26.0,
+    "avg_time_min": 62
+  },
+  {
+    "bus_no": "E19",
+    "route_no": "E19",
+    "origin": "Habra",
+    "destination": "Digha",
+    "distance_km": 32.8,
+    "avg_time_min": 78
+  },
+  {
+    "bus_no": "E19",
+    "route_no": "E19",
+    "origin": "Digha",
+    "destination": "Habra",
+    "distance_km": 32.8,
+    "avg_time_min": 78
+  },
+  {
+    "bus_no": "M2",
+    "route_no": "M2",
+    "origin": "Tollygunge",
+    "destination": "Birati",
+    "distance_km": 38.3,
+    "avg_time_min": 91
+  },
+  {
+    "bus_no": "M2",
+    "route_no": "M2",
+    "origin": "Birati",
+    "destination": "Tollygunge",
+    "distance_km": 38.3,
+    "avg_time_min": 91
+  },
+  {
+    "bus_no": "T1",
+    "route_no": "T1",
+    "origin": "Dhulagarh",
+    "destination": "Rajabazar",
+    "distance_km": 34.0,
+    "avg_time_min": 81
+  },
+  {
+    "bus_no": "T1",
+    "route_no": "T1",
+    "origin": "Rajabazar",
+    "destination": "Dhulagarh",
+    "distance_km": 34.0,
+    "avg_time_min": 81
+  },
+  {
+    "bus_no": "T2",
+    "route_no": "T2",
+    "origin": "B.B.D. Bagh",
+    "destination": "Mandirtala",
+    "distance_km": 26.2,
+    "avg_time_min": 62
+  },
+  {
+    "bus_no": "T2",
+    "route_no": "T2",
+    "origin": "Mandirtala",
+    "destination": "B.B.D. Bagh",
+    "distance_km": 26.2,
+    "avg_time_min": 62
+  },
+  {
+    "bus_no": "T3",
+    "route_no": "T3",
+    "origin": "Rajabazar",
+    "destination": "Ghatakpukur",
+    "distance_km": 17.8,
+    "avg_time_min": 42
+  },
+  {
+    "bus_no": "T3",
+    "route_no": "T3",
+    "origin": "Ghatakpukur",
+    "destination": "Rajabazar",
+    "distance_km": 17.8,
+    "avg_time_min": 42
+  },
+  {
+    "bus_no": "T8",
+    "route_no": "T8",
+    "origin": "B.B.D. Bagh",
+    "destination": "Tikiapara",
+    "distance_km": 27.5,
+    "avg_time_min": 66
+  },
+  {
+    "bus_no": "T8",
+    "route_no": "T8",
+    "origin": "Tikiapara",
+    "destination": "B.B.D. Bagh",
+    "distance_km": 27.5,
+    "avg_time_min": 66
+  },
+  {
+    "bus_no": "T10",
+    "route_no": "T10",
+    "origin": "Rajabazar",
+    "destination": "Chaital Ghat",
+    "distance_km": 12.1,
+    "avg_time_min": 29
+  },
+  {
+    "bus_no": "T10",
+    "route_no": "T10",
+    "origin": "Chaital Ghat",
+    "destination": "Rajabazar",
+    "distance_km": 12.1,
+    "avg_time_min": 29
+  },
+  {
+    "bus_no": "T10/1",
+    "route_no": "T10/1",
+    "origin": "Rajabazar",
+    "destination": "Bhebia",
+    "distance_km": 26.6,
+    "avg_time_min": 63
+  },
+  {
+    "bus_no": "T10/1",
+    "route_no": "T10/1",
+    "origin": "Bhebia",
+    "destination": "Rajabazar",
+    "distance_km": 26.6,
+    "avg_time_min": 63
+  },
+  {
+    "bus_no": "T11",
+    "route_no": "T11",
+    "origin": "Esplanade",
+    "destination": "Haroa",
+    "distance_km": 30.8,
+    "avg_time_min": 73
+  },
+  {
+    "bus_no": "T11",
+    "route_no": "T11",
+    "origin": "Haroa",
+    "destination": "Esplanade",
+    "distance_km": 30.8,
+    "avg_time_min": 73
+  },
+  {
+    "bus_no": "T12",
+    "route_no": "T12",
+    "origin": "Howrah Station",
+    "destination": "Chaital Ghat",
+    "distance_km": 30.8,
+    "avg_time_min": 73
+  },
+  {
+    "bus_no": "T12",
+    "route_no": "T12",
+    "origin": "Chaital Ghat",
+    "destination": "Howrah Station",
+    "distance_km": 30.8,
+    "avg_time_min": 73
+  },
+  {
+    "bus_no": "NB1",
+    "route_no": "NB1",
+    "origin": "Sealdah",
+    "destination": "Nabanna",
+    "distance_km": 13.3,
+    "avg_time_min": 31
+  },
+  {
+    "bus_no": "NB1",
+    "route_no": "NB1",
+    "origin": "Nabanna",
+    "destination": "Sealdah",
+    "distance_km": 13.3,
+    "avg_time_min": 31
+  },
+  {
+    "bus_no": "NB2",
+    "route_no": "NB2",
+    "origin": "B.B.D. Bagh",
+    "destination": "Nabanna",
+    "distance_km": 13.9,
+    "avg_time_min": 33
+  },
+  {
+    "bus_no": "NB2",
+    "route_no": "NB2",
+    "origin": "Nabanna",
+    "destination": "B.B.D. Bagh",
+    "distance_km": 13.9,
+    "avg_time_min": 33
+  },
+  {
+    "bus_no": "AC1",
+    "route_no": "AC1",
+    "origin": "Esplanade",
+    "destination": "Santragachi Station",
+    "distance_km": 21.1,
+    "avg_time_min": 50
+  },
+  {
+    "bus_no": "AC1",
+    "route_no": "AC1",
+    "origin": "Santragachi Station",
+    "destination": "Esplanade",
+    "distance_km": 21.1,
+    "avg_time_min": 50
+  },
+  {
+    "bus_no": "AC2",
+    "route_no": "AC2",
+    "origin": "Park Circus",
+    "destination": "Dankuni Housing Estate",
+    "distance_km": 6.9,
+    "avg_time_min": 16
+  },
+  {
+    "bus_no": "AC2",
+    "route_no": "AC2",
+    "origin": "Dankuni Housing Estate",
+    "destination": "Park Circus",
+    "distance_km": 6.9,
+    "avg_time_min": 16
+  },
+  {
+    "bus_no": "AC3",
+    "route_no": "AC3",
+    "origin": "Barasat",
+    "destination": "Santragachi",
+    "distance_km": 13.9,
+    "avg_time_min": 33
+  },
+  {
+    "bus_no": "AC3",
+    "route_no": "AC3",
+    "origin": "Santragachi",
+    "destination": "Barasat",
+    "distance_km": 13.9,
+    "avg_time_min": 33
+  }
+]

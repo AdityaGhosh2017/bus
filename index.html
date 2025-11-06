@@ -1,0 +1,1115 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Where is My Bus – Kolkata | Smart Public Transport Assistant</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <style>
+      :root {
+        --primary: #2c5aa0;
+        --primary-light: #4a76c4;
+        --secondary: #ff6b35;
+        --secondary-light: #ff8c5a;
+        --dark: #1a1a2e;
+        --light: #f8f9fa;
+        --gray: #6c757d;
+        --success: #28a745;
+        --warning: #ffc107;
+        --danger: #dc3545;
+        --shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        --radius: 12px;
+        --transition: all 0.3s ease;
+      }
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #f0f4f8;
+        color: #333;
+        line-height: 1.6;
+      }
+
+      .container {
+        display: flex;
+        min-height: 100vh;
+      }
+
+      /* Sidebar Styles */
+      .sidebar {
+        width: 280px;
+        background: linear-gradient(
+          135deg,
+          var(--primary),
+          var(--primary-light)
+        );
+        color: white;
+        padding: 2rem 1.5rem;
+        display: flex;
+        flex-direction: column;
+        box-shadow: var(--shadow);
+        z-index: 10;
+      }
+
+      .logo {
+        display: flex;
+        align-items: center;
+        margin-bottom: 2rem;
+        padding-bottom: 1.5rem;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+      }
+
+      .logo-icon {
+        font-size: 2.2rem;
+        margin-right: 12px;
+        color: var(--secondary);
+      }
+
+      .logo-text {
+        font-size: 1.5rem;
+        font-weight: 700;
+      }
+
+      .nav-menu {
+        list-style: none;
+        margin-top: 1rem;
+      }
+
+      .nav-item {
+        margin-bottom: 0.8rem;
+      }
+
+      .nav-link {
+        display: flex;
+        align-items: center;
+        padding: 0.8rem 1rem;
+        color: white;
+        text-decoration: none;
+        border-radius: 8px;
+        transition: var(--transition);
+      }
+
+      .nav-link:hover,
+      .nav-link.active {
+        background-color: rgba(255, 255, 255, 0.15);
+      }
+
+      .nav-link i {
+        margin-right: 12px;
+        font-size: 1.2rem;
+        width: 24px;
+        text-align: center;
+      }
+
+      .user-section {
+        margin-top: auto;
+        padding-top: 1.5rem;
+        border-top: 1px solid rgba(255, 255, 255, 0.2);
+      }
+
+      .user-info {
+        display: flex;
+        align-items: center;
+      }
+
+      .user-avatar {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        background-color: var(--secondary);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: 12px;
+        font-weight: bold;
+      }
+
+      /* Main Content Styles */
+      .main-content {
+        flex: 1;
+        padding: 2rem;
+        overflow-y: auto;
+      }
+
+      .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 2rem;
+      }
+
+      .page-title {
+        font-size: 1.8rem;
+        font-weight: 700;
+        color: var(--dark);
+      }
+
+      .search-box {
+        display: flex;
+        background: white;
+        border-radius: 50px;
+        padding: 0.5rem;
+        box-shadow: var(--shadow);
+        width: 300px;
+      }
+
+      .search-box input {
+        border: none;
+        padding: 0.5rem 1rem;
+        border-radius: 50px;
+        flex: 1;
+        outline: none;
+      }
+
+      .search-box button {
+        background: var(--primary);
+        color: white;
+        border: none;
+        border-radius: 50%;
+        width: 40px;
+        height: 40px;
+        cursor: pointer;
+        transition: var(--transition);
+      }
+
+      .search-box button:hover {
+        background: var(--primary-light);
+      }
+
+      /* Two Column Layout */
+      .two-column {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 2rem;
+        margin-bottom: 2rem;
+      }
+
+      .card {
+        background: white;
+        border-radius: var(--radius);
+        box-shadow: var(--shadow);
+        padding: 1.5rem;
+        transition: var(--transition);
+      }
+
+      .card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+      }
+
+      .card-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 1.5rem;
+        padding-bottom: 1rem;
+        border-bottom: 1px solid #eee;
+      }
+
+      .card-title {
+        font-size: 1.3rem;
+        font-weight: 600;
+        color: var(--dark);
+      }
+
+      .card-icon {
+        font-size: 1.5rem;
+        color: var(--primary);
+      }
+
+      /* Map Styles */
+      .map-container {
+        height: 500px;
+        border-radius: var(--radius);
+        overflow: hidden;
+        margin-bottom: 1.5rem;
+        position: relative;
+      }
+
+      #map {
+        height: 100%;
+        width: 100%;
+      }
+
+      /* Form Styles */
+      .form-group {
+        margin-bottom: 1.2rem;
+      }
+
+      .form-label {
+        display: block;
+        margin-bottom: 0.5rem;
+        font-weight: 500;
+        color: var(--dark);
+      }
+
+      .form-control {
+        width: 100%;
+        padding: 0.8rem 1rem;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        font-size: 1rem;
+        transition: var(--transition);
+      }
+
+      .form-control:focus {
+        border-color: var(--primary);
+        outline: none;
+        box-shadow: 0 0 0 3px rgba(44, 90, 160, 0.2);
+      }
+
+      .location-buttons {
+        display: flex;
+        gap: 10px;
+        margin-top: 0.5rem;
+      }
+
+      .location-btn {
+        flex: 1;
+        padding: 0.6rem;
+        border: 1px solid #ddd;
+        background: white;
+        border-radius: 6px;
+        cursor: pointer;
+        transition: var(--transition);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        font-size: 0.9rem;
+      }
+
+      .location-btn:hover {
+        background: #f8f9fa;
+        border-color: var(--primary);
+      }
+
+      .location-btn.active {
+        background: var(--primary);
+        color: white;
+        border-color: var(--primary);
+      }
+
+      .btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0.8rem 1.5rem;
+        border: none;
+        border-radius: 8px;
+        font-weight: 600;
+        cursor: pointer;
+        transition: var(--transition);
+      }
+
+      .btn i {
+        margin-right: 8px;
+      }
+
+      .btn-primary {
+        background: var(--primary);
+        color: white;
+      }
+
+      .btn-primary:hover {
+        background: var(--primary-light);
+      }
+
+      .btn-secondary {
+        background: var(--secondary);
+        color: white;
+      }
+
+      .btn-secondary:hover {
+        background: var(--secondary-light);
+      }
+
+      .btn-success {
+        background: var(--success);
+        color: white;
+      }
+
+      .btn-success:hover {
+        background: #218838;
+      }
+
+      .btn-block {
+        width: 100%;
+      }
+
+      /* Bus List Styles */
+      .bus-list {
+        list-style: none;
+        max-height: 400px;
+        overflow-y: auto;
+      }
+
+      .bus-item {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 1rem;
+        border-bottom: 1px solid #eee;
+        transition: var(--transition);
+      }
+
+      .bus-item:hover {
+        background-color: #f8f9fa;
+      }
+
+      .bus-info {
+        display: flex;
+        align-items: center;
+      }
+
+      .bus-number {
+        font-size: 1.2rem;
+        font-weight: 700;
+        color: var(--primary);
+        margin-right: 12px;
+      }
+
+      .bus-route {
+        color: var(--gray);
+      }
+
+      .bus-distance {
+        font-size: 0.85rem;
+        color: var(--gray);
+        margin-top: 4px;
+      }
+
+      .closest-badge {
+        background: var(--success);
+        color: white;
+        padding: 2px 8px;
+        border-radius: 12px;
+        font-size: 0.75rem;
+        margin-left: 8px;
+      }
+
+      .crowd-indicator {
+        display: flex;
+        align-items: center;
+      }
+
+      .crowd-dot {
+        width: 12px;
+        height: 12px;
+        border-radius: 50%;
+        margin-right: 6px;
+      }
+
+      .crowd-low {
+        background-color: var(--success);
+      }
+
+      .crowd-medium {
+        background-color: var(--warning);
+      }
+
+      .crowd-high {
+        background-color: var(--danger);
+      }
+
+      /* Alternatives Table */
+      .alternatives-table {
+        width: 100%;
+        border-collapse: collapse;
+      }
+
+      .alternatives-table th,
+      .alternatives-table td {
+        padding: 1rem;
+        text-align: left;
+        border-bottom: 1px solid #eee;
+      }
+
+      .alternatives-table th {
+        font-weight: 600;
+        color: var(--dark);
+        background-color: #f8f9fa;
+      }
+
+      .alternatives-table tr:hover {
+        background-color: #f8f9fa;
+      }
+
+      .mode-icon {
+        font-size: 1.2rem;
+        margin-right: 8px;
+        color: var(--primary);
+      }
+
+      /* Recommendation Styles */
+      .recommendation-card {
+        background: linear-gradient(135deg, #e8f4fd, #f0f8ff);
+        border-left: 4px solid var(--primary);
+        padding: 1.5rem;
+        border-radius: var(--radius);
+        margin-bottom: 1rem;
+      }
+
+      .recommendation-header {
+        display: flex;
+        align-items: center;
+        margin-bottom: 1rem;
+      }
+
+      .recommendation-icon {
+        font-size: 1.5rem;
+        margin-right: 1rem;
+        color: var(--primary);
+      }
+
+      .recommendation-title {
+        font-size: 1.2rem;
+        font-weight: 600;
+        color: var(--dark);
+      }
+
+      .recommendation-content {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem;
+      }
+
+      .recommendation-item {
+        background: white;
+        padding: 1rem;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      }
+
+      .rec-type {
+        font-weight: 600;
+        color: var(--primary);
+        margin-bottom: 0.5rem;
+      }
+
+      .rec-details {
+        font-size: 0.9rem;
+        color: var(--gray);
+      }
+
+      .rec-highlight {
+        color: var(--secondary);
+        font-weight: 600;
+      }
+
+      /* Tracking Controls */
+      .tracking-controls {
+        display: flex;
+        gap: 10px;
+        margin-top: 1rem;
+        padding: 1rem;
+        background: #f8f9fa;
+        border-radius: 8px;
+      }
+
+      .tracking-info {
+        background: #e8f4fd;
+        padding: 1rem;
+        border-radius: 8px;
+        margin-top: 1rem;
+        border-left: 4px solid var(--primary);
+      }
+
+      /* Dashboard Styles */
+      .stats-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 1.5rem;
+        margin-bottom: 2rem;
+      }
+
+      .stat-card {
+        background: white;
+        border-radius: var(--radius);
+        box-shadow: var(--shadow);
+        padding: 1.5rem;
+        text-align: center;
+      }
+
+      .stat-value {
+        font-size: 2rem;
+        font-weight: 700;
+        color: var(--primary);
+        margin: 0.5rem 0;
+      }
+
+      .stat-label {
+        color: var(--gray);
+        font-size: 0.9rem;
+      }
+
+      /* Notification Styles */
+      .notification {
+        background-color: #d4edda;
+        color: #155724;
+        padding: 1rem;
+        margin: 1rem 0;
+        border: 1px solid #c3e6cb;
+        border-radius: var(--radius);
+        display: flex;
+        align-items: center;
+      }
+
+      .notification i {
+        margin-right: 10px;
+        font-size: 1.2rem;
+      }
+
+      /* Loading Styles */
+      .loading {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 2rem;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(255, 255, 255, 0.9);
+        z-index: 1000;
+      }
+
+      .spinner {
+        width: 40px;
+        height: 40px;
+        border: 4px solid rgba(0, 0, 0, 0.1);
+        border-left-color: var(--primary);
+        border-radius: 50%;
+        animation: spin 1s linear infinite;
+      }
+
+      @keyframes spin {
+        to {
+          transform: rotate(360deg);
+        }
+      }
+
+      /* Responsive Styles */
+      @media (max-width: 1200px) {
+        .two-column {
+          grid-template-columns: 1fr;
+        }
+
+        .stats-grid {
+          grid-template-columns: repeat(2, 1fr);
+        }
+
+        .recommendation-content {
+          grid-template-columns: 1fr;
+        }
+      }
+
+      @media (max-width: 768px) {
+        .container {
+          flex-direction: column;
+        }
+
+        .sidebar {
+          width: 100%;
+          padding: 1rem;
+        }
+
+        .main-content {
+          padding: 1rem;
+        }
+
+        .header {
+          flex-direction: column;
+          align-items: flex-start;
+        }
+
+        .search-box {
+          width: 100%;
+          margin-top: 1rem;
+        }
+
+        .stats-grid {
+          grid-template-columns: 1fr;
+        }
+
+        .location-buttons {
+          flex-direction: column;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <!-- Sidebar -->
+      <div class="sidebar">
+        <div class="logo">
+          <i class="fas fa-bus logo-icon"></i>
+          <div class="logo-text">Where is My Bus</div>
+        </div>
+
+        <ul class="nav-menu">
+          <li class="nav-item">
+            <a href="#" class="nav-link active">
+              <i class="fas fa-home"></i>
+              <span>Dashboard</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link">
+              <i class="fas fa-map-marker-alt"></i>
+              <span>Live Map</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link">
+              <i class="fas fa-route"></i>
+              <span>Routes</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link">
+              <i class="fas fa-exchange-alt"></i>
+              <span>Alternatives</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link">
+              <i class="fas fa-bell"></i>
+              <span>Notifications</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link">
+              <i class="fas fa-cog"></i>
+              <span>Settings</span>
+            </a>
+          </li>
+        </ul>
+
+        <div class="user-section">
+          <div class="user-info">
+            <div class="user-avatar">AK</div>
+            <div>
+              <div style="font-weight: 600">Amit Kumar</div>
+              <div style="font-size: 0.9rem; opacity: 0.8">
+                Kolkata Commuter
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Main Content -->
+      <div class="main-content">
+        <div class="header">
+          <h1 class="page-title">Public Transport Assistant</h1>
+          <div class="search-box">
+            <input type="text" placeholder="Search for routes, stops..." />
+            <button><i class="fas fa-search"></i></button>
+          </div>
+        </div>
+
+        <!-- Stats Section -->
+        <div class="stats-grid">
+          <div class="stat-card">
+            <i
+              class="fas fa-bus"
+              style="font-size: 2rem; color: var(--primary)"
+            ></i>
+            <div class="stat-value">42</div>
+            <div class="stat-label">Active Buses</div>
+          </div>
+          <div class="stat-card">
+            <i
+              class="fas fa-users"
+              style="font-size: 2rem; color: var(--primary)"
+            ></i>
+            <div class="stat-value">1,284</div>
+            <div class="stat-label">Active Commuters</div>
+          </div>
+          <div class="stat-card">
+            <i
+              class="fas fa-road"
+              style="font-size: 2rem; color: var(--primary)"
+            ></i>
+            <div class="stat-value">18</div>
+            <div class="stat-label">Routes Monitored</div>
+          </div>
+        </div>
+
+        <!-- Two Column Layout -->
+        <div class="two-column">
+          <!-- Left Column -->
+          <div>
+            <!-- Route Search Card -->
+            <div class="card">
+              <div class="card-header">
+                <h2 class="card-title">Plan Your Journey</h2>
+                <i class="fas fa-route card-icon"></i>
+              </div>
+
+              <form id="search-form">
+                <div class="form-group">
+                  <label class="form-label" for="from">From</label>
+                  <input type="text" id="from" list="from-list" class="form-control" placeholder="Enter source" />
+                  <datalist id="from-list"></datalist>
+                  <div class="location-buttons">
+                    <button
+                      type="button"
+                      class="location-btn"
+                      id="use-current-location"
+                    >
+                      <i class="fas fa-location-arrow"></i> Use Current Location
+                    </button>
+                  </div>
+                </div>
+
+                <div class="form-group">
+                  <label class="form-label" for="to">To</label>
+                  <input type="text" id="to" list="to-list" class="form-control" placeholder="Enter destination" />
+                  <datalist id="to-list"></datalist>
+                </div>
+
+                <button type="submit" class="btn btn-primary btn-block">
+                  <i class="fas fa-search"></i> Find Routes
+                </button>
+              </form>
+            </div>
+
+            <!-- Available Buses Card -->
+            <div class="card">
+              <div class="card-header">
+                <h2 class="card-title">Available Buses</h2>
+                <i class="fas fa-bus card-icon"></i>
+              </div>
+
+              <div id="bus-numbers">
+                <ul id="bus-list" class="bus-list">
+                  <!-- Bus list will be populated here -->
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <!-- Right Column -->
+          <div>
+            <!-- Live Map Card -->
+            <div class="card">
+              <div class="card-header">
+                <h2 class="card-title">Live Route Map</h2>
+                <i class="fas fa-map-marked-alt card-icon"></i>
+              </div>
+
+              <div class="map-container">
+                <div id="map"></div>
+                <div id="loading" class="loading" style="display: none">
+                  <div class="spinner"></div>
+                  <div style="margin-left: 1rem">Loading map data...</div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Travel Options Card -->
+            <div class="card">
+              <div class="card-header">
+                <h2 class="card-title">Travel Options</h2>
+                <i class="fas fa-exchange-alt card-icon"></i>
+              </div>
+
+              <div id="travel-panel">
+                <div style="text-align: center; padding: 2rem; color: var(--gray);">
+                  <i class="fas fa-route" style="font-size: 3rem; margin-bottom: 1rem;"></i>
+                  <p>Enter your route to see travel options</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- AI Recommendation Section -->
+        <div class="card">
+          <div class="card-header">
+            <h2 class="card-title">AI Smart Recommendations</h2>
+            <i class="fas fa-robot card-icon"></i>
+          </div>
+
+          <div id="recommendation">
+            <div class="recommendation-card">
+              <div class="recommendation-header">
+                <i class="fas fa-lightbulb recommendation-icon"></i>
+                <div class="recommendation-title">
+                  Select your route to get AI-powered recommendations
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Notification -->
+        <div class="notification" style="display: none" id="notification">
+          <i class="fas fa-bell"></i>
+          <div id="notification-text">
+            Notification message will appear here
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      // ==== ALL YOUR WORKING FUNCTIONALITY ====
+      let BUS_DATABASE = [], map, geocoder, directionsService, directionsRenderer;
+
+      window.initMap = function() {
+        map = new google.maps.Map(document.getElementById("map"), {
+          center: { lat: 22.5726, lng: 88.3639 },
+          zoom: 12,
+        });
+        geocoder = new google.maps.Geocoder();
+        directionsService = new google.maps.DirectionsService();
+        directionsRenderer = new google.maps.DirectionsRenderer({ map });
+      };
+
+      async function loadBusData() {
+        try {
+          const res = await fetch("buses.json");
+          BUS_DATABASE = await res.json();
+          populateLocationLists();
+        } catch (error) {
+          console.error("Error loading bus data:", error);
+          // Fallback to some sample data if the file is not available
+          BUS_DATABASE = [
+            { bus_no: "1", route_no: "1", origin: "Esplanade", destination: "Howrah Station" },
+            { bus_no: "2", route_no: "2", origin: "Salt Lake", destination: "Sealdah" },
+            { bus_no: "3", route_no: "3", origin: "Dum Dum", destination: "Garia" }
+          ];
+          populateLocationLists();
+        }
+      }
+
+      function populateLocationLists() {
+        const origins = [...new Set(BUS_DATABASE.map(b => b.origin.trim()))];
+        const destinations = [...new Set(BUS_DATABASE.map(b => b.destination.trim()))];
+        document.getElementById("from-list").innerHTML = origins.map(o=>`<option value="${o}">`).join("");
+        document.getElementById("to-list").innerHTML = destinations.map(d=>`<option value="${d}">`).join("");
+      }
+
+      function matchBusRoutes(from,to){
+        return BUS_DATABASE.filter(b=>b.origin.toLowerCase().includes(from.toLowerCase())&&b.destination.toLowerCase().includes(to.toLowerCase()));
+      }
+
+      function renderBusDataList(from,to){
+        const matches=matchBusRoutes(from,to);
+        const busListEl=document.getElementById("bus-list");
+        if(!matches.length)return busListEl.innerHTML='<div style="color:var(--muted);padding:8px">No buses found.</div>';
+        busListEl.innerHTML=matches.map(b=>`
+          <div class="bus-item" onclick="highlightBus('${b.bus_no||b.route_no}')">
+            <div class="bus-info">
+              <div class="bus-number">Bus ${b.bus_no||b.route_no||"N/A"}</div>
+              <div>
+                <div class="bus-route">${b.origin} → ${b.destination}</div>
+                <div class="bus-distance">ETA: ${Math.floor(Math.random()*15)+5} min</div>
+              </div>
+            </div>
+            <div class="crowd-indicator">
+              <div class="crowd-dot crowd-${Math.random() > 0.6 ? 'high' : Math.random() > 0.3 ? 'medium' : 'low'}"></div>
+              <span>${Math.random() > 0.6 ? 'High' : Math.random() > 0.3 ? 'Medium' : 'Low'}</span>
+            </div>
+          </div>`).join("");
+      }
+
+      function highlightBus(busNo){
+        document.querySelector("#bus-list").scrollIntoView({behavior:"smooth"});
+        showNotification(`Selected Bus ${busNo} for tracking`);
+      }
+
+      async function getDistanceData(from,to){
+        return new Promise((resolve,reject)=>{
+          new google.maps.DistanceMatrixService().getDistanceMatrix({
+            origins:[from+", Kolkata"],destinations:[to+", Kolkata"],travelMode:"DRIVING"
+          },(res,status)=>{
+            if(status!=="OK")return reject(status);
+            const e=res.rows[0].elements[0];
+            if(!e||e.status!=="OK")return reject("No route");
+            resolve({distance_km:e.distance.value/1000,duration_min:Math.round(e.duration.value/60)});
+          });
+        });
+      }
+
+      function calculateTravelModes(distanceKm){
+        const modes=[
+          {name:"Rapido",icon:"🛵",rate:8,speed:35,color:"#ff9800",url:"https://rapido.bike"},
+          {name:"Metro",icon:"🚇",rate:3,speed:30,color:"#2196f3",url:"https://mtp.indianrailways.gov.in"},
+          {name:"Uber",icon:"🚗",rate:12,speed:40,color:"#212121",url:"https://www.uber.com"},
+          {name:"Bus",icon:"🚌",rate:1,speed:25,color:"#2ec27e",url:"#bus-list"}
+        ];
+        return modes.map(m=>{
+          const timeMin=(distanceKm/m.speed)*60;
+          const cost=distanceKm*m.rate;
+          const dropTime=new Date(Date.now()+timeMin*60000).toLocaleTimeString([], {hour:"2-digit",minute:"2-digit"});
+          return {...m,timeMin:Math.round(timeMin),cost:Math.round(cost),dropTime};
+        });
+      }
+
+      function renderTravelCards(modes,sortBy="time"){
+        const sorted=[...modes].sort((a,b)=>sortBy==="time"?a.timeMin-b.timeMin:a.cost-b.cost);
+        const best=sorted[0];
+        return `
+          <div class="toggle-group" style="display:flex; background:#e8ebff; border-radius:12px; padding:4px; margin-bottom:10px;">
+            <button id="sort-time" class="toggle-btn ${sortBy==="time"?'active':''}" style="flex:1; padding:8px; border:none; border-radius:10px; cursor:pointer; font-weight:600; transition:all .2s; background:${sortBy==="time"?'linear-gradient(90deg,#6f4cff,#4b6bff)':'transparent'}; color:${sortBy==="time"?'white':'inherit'};">⚡ Time</button>
+            <button id="sort-cost" class="toggle-btn ${sortBy==="cost"?'active':''}" style="flex:1; padding:8px; border:none; border-radius:10px; cursor:pointer; font-weight:600; transition:all .2s; background:${sortBy==="cost"?'linear-gradient(90deg,#6f4cff,#4b6bff)':'transparent'}; color:${sortBy==="cost"?'white':'inherit'};">💲 Cost</button>
+          </div>
+          ${sorted.map(m=>`
+            <div style="display:flex;justify-content:space-between;align-items:center;border:1px solid #eee;padding:12px;border-radius:10px;margin-bottom:8px;background:white;box-shadow:0 2px 5px rgba(0,0,0,0.05);border-left:5px solid ${m.color}">
+              <div style="display:flex;align-items:center;gap:10px;">
+                <span style="font-size:24px">${m.icon}</span>
+                <div><b>${m.name}</b><br><small>${m.timeMin} min • Drop: ${m.dropTime}</small></div>
+              </div>
+              <div style="text-align:right;">
+                <b>₹${m.cost}</b><br>
+                <button onclick="handleSelect('${m.name}','${m.url}')" style="background:${m===best?'linear-gradient(90deg,#ffeb3b,#ff9800)':m.color};border:none;color:${m===best?'#212121':'white'};padding:6px 12px;border-radius:8px;cursor:pointer;font-weight:${m===best?'800':'600'};${m===best?'box-shadow:0 0 8px rgba(255,193,7,0.7);':''}">${m===best?'BEST':'Select'}</button>
+              </div>
+            </div>`).join("")}
+          <div style="background:#e8f4fd;padding:10px;border-radius:10px;border-left:4px solid var(--primary);margin-top:10px;">
+            <i class="fas fa-robot"></i> <b>AI Recommendation:</b> Take <b>${best.name}</b> — ${sortBy==="time"?"Fastest":"Cheapest"} at ${sortBy==="time"?best.timeMin+" min":"₹"+best.cost}!
+          </div>`;
+      }
+
+      function handleSelect(mode,url){
+        if(mode==="Bus")document.querySelector("#bus-list").scrollIntoView({behavior:"smooth"});
+        else window.open(url,"_blank");
+        showNotification(`Selected ${mode} for your journey`);
+      }
+
+      async function showTravelOptions(from,to){
+        const panel=document.getElementById("travel-panel");
+        panel.innerHTML='<div style="text-align: center; padding: 1rem;"><div class="spinner"></div><p>Loading travel data...</p></div>';
+        try{
+          const data=await getDistanceData(from,to);
+          const modes=calculateTravelModes(data.distance_km);
+          panel.innerHTML=`
+            <div>
+              <p><b>Distance:</b> ${data.distance_km.toFixed(2)} km • <b>Time:</b> ${data.duration_min} min</p>
+              <div id="travel-cards">${renderTravelCards(modes)}</div>
+            </div>`;
+          
+          // Add event listeners for sorting - FIXED: Now you can click repeatedly
+          const setupSortButtons = () => {
+            const timeBtn = document.getElementById("sort-time");
+            const costBtn = document.getElementById("sort-cost");
+            
+            timeBtn.onclick = () => {
+              document.getElementById("travel-cards").innerHTML = renderTravelCards(modes, "time");
+              setupSortButtons(); // Re-setup event listeners for the new buttons
+            };
+            
+            costBtn.onclick = () => {
+              document.getElementById("travel-cards").innerHTML = renderTravelCards(modes, "cost");
+              setupSortButtons(); // Re-setup event listeners for the new buttons
+            };
+          };
+          
+          setupSortButtons();
+        }catch(e){
+          console.error(e);
+          panel.innerHTML='<div style="color: var(--danger); text-align: center; padding: 1rem;">⚠️ Could not calculate travel distance or fare.</div>';
+        }
+      }
+
+      function showNotification(message) {
+        const notification = document.getElementById("notification");
+        const notificationText = document.getElementById("notification-text");
+        notificationText.textContent = message;
+        notification.style.display = "flex";
+
+        setTimeout(() => {
+          notification.style.display = "none";
+        }, 5000);
+      }
+
+      async function showRouteOnMap(from,to){
+        geocoder.geocode({address:from+", Kolkata"},(fr,fs)=>{
+          if(fs!=="OK")return;
+          geocoder.geocode({address:to+", Kolkata"},(tr,ts)=>{
+            if(ts!=="OK")return;
+            directionsService.route({origin:fr[0].geometry.location,destination:tr[0].geometry.location,travelMode:"DRIVING"},(res,stat)=>{
+              if(stat==="OK")directionsRenderer.setDirections(res);
+            });
+          });
+        });
+      }
+
+      // Event Listeners
+      document.addEventListener("DOMContentLoaded",()=>{
+        document.getElementById("search-form").addEventListener("submit",async(e)=>{
+          e.preventDefault();
+          const from=document.getElementById("from").value.trim();
+          const to=document.getElementById("to").value.trim();
+          if(!from||!to)return alert("Please enter both source and destination.");
+          renderBusDataList(from,to);
+          await showRouteOnMap(from,to);
+          await showTravelOptions(from,to);
+          
+          // Update AI recommendations
+          document.getElementById("recommendation").innerHTML = `
+            <div class="recommendation-card">
+              <div class="recommendation-header">
+                <i class="fas fa-robot recommendation-icon"></i>
+                <div class="recommendation-title">AI Smart Recommendations</div>
+              </div>
+              <div class="recommendation-content">
+                <div class="recommendation-item">
+                  <div class="rec-type">🚀 Fastest Option</div>
+                  <div class="rec-details">Based on current traffic conditions from ${from} to ${to}</div>
+                </div>
+                <div class="recommendation-item">
+                  <div class="rec-type">💰 Cheapest Option</div>
+                  <div class="rec-details">Save money on your commute</div>
+                </div>
+                <div class="recommendation-item">
+                  <div class="rec-type">👥 Closest Bus</div>
+                  <div class="rec-details">Nearest bus to your location</div>
+                </div>
+                <div class="recommendation-item">
+                  <div class="rec-type">😊 Comfort Option</div>
+                  <div class="rec-details">Least crowded routes</div>
+                </div>
+              </div>
+            </div>`;
+        });
+
+        document.getElementById("use-current-location").addEventListener("click",()=>{
+          if(navigator.geolocation){
+            navigator.geolocation.getCurrentPosition((position)=>{
+              const lat = position.coords.latitude;
+              const lng = position.coords.longitude;
+              geocoder.geocode({location: {lat, lng}}, (results, status) => {
+                if(status === "OK" && results[0]){
+                  document.getElementById("from").value = results[0].formatted_address;
+                  showNotification("Location set to your current position");
+                }
+              });
+            });
+          } else {
+            showNotification("Geolocation is not supported by this browser");
+          }
+        });
+
+        loadBusData();
+      });
+
+      // Load Google Maps
+      const s=document.createElement("script");
+      s.src=`https://maps.googleapis.com/maps/api/js?key=AIzaSyA0tqewtVtHePHybBaUzxaBZsJMcaQy2Sg&callback=initMap`;
+      s.defer=true;document.head.appendChild(s);
+    </script>
+  </body>
+</html>
